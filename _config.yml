@@ -1,5 +1,21 @@
+title: raisercostin's blog
+author: costin grigore
+email: raisercostin@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Raisercostin's blog with half baked 
+  thoughts, ideas, mindmaps, projects.
+  
 #@see https://github.com/jekyll/minima
 theme: minima
 #theme: jekyll-theme-minimal
 gems:
+  #see https://github.com/jekyll/jekyll-feed
   - jekyll-feed
+
+#minima theme config vars  
+twitter_username: raisercostin
+github_username:  raisercostin
+google_analytics: ["UA-45773408-2"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
