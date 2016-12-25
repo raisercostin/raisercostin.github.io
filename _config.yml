@@ -20,3 +20,6 @@ google_analytics: ["UA-45773408-2"]
 exclude:
   - Gemfile
   - Gemfile.lock
+
+disqus:
+    shortname: raisercostin

@@ -1,8 +1,10 @@
+---
 Date: 2013-11-19
 Title: A Big Thank You to the EESSI team
 Tags: eessi,project,team
 Slug: thank-you-eessi-team
-
+permalink: /thank-you-eessi-team.html
+---
 <link href="https://dl.dropboxusercontent.com/s/hpyn2gsk4nbphal/style.css?dl=1&token_hash=AAE39q2ZOvEqPCKEWyRfVeID337MKshhDdlPRtO4gwBRXQ" rel="stylesheet"></link>
 As you know we are in a period of time when our work is reviewed and analysed to decide the future of the EESSI project.
 
