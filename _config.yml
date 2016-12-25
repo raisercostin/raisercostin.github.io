@@ -11,6 +11,7 @@ theme: minima
 gems:
   #see https://github.com/jekyll/jekyll-feed
   - jekyll-feed
+  - jekyll-seo-tag
 
 #minima theme config vars  
 twitter_username: raisercostin
