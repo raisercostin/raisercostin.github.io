@@ -12,6 +12,8 @@ gems:
   #see https://github.com/jekyll/jekyll-feed
   - jekyll-feed
   - jekyll-seo-tag
+  #see https://github.com/jekyll/jekyll-archives
+  - jekyll-archives
 
 #minima theme config vars  
 twitter_username: raisercostin
