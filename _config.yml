@@ -31,4 +31,4 @@ exclude:
 disqus:
     shortname: raisercostin
 permalink: /:year/:month/:day/:title
-post_dirs: false
+post_dirs: true
