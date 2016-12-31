@@ -4,7 +4,14 @@ email: raisercostin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Raisercostin's blog with half baked 
   thoughts, ideas, mindmaps, projects.
-  
+
+baseurl: ""
+url: ""
+twitter_username: raisercostin
+github_username:  raisercostin
+
+# Build settings
+markdown: kramdown
 #@see https://github.com/jekyll/minima
 theme: minima
 #theme: jekyll-theme-minimal
@@ -16,8 +23,6 @@ gems:
   - jekyll-archives
 
 #minima theme config vars  
-twitter_username: raisercostin
-github_username:  raisercostin
 google_analytics: ["UA-45773408-2"]
 exclude:
   - Gemfile
@@ -25,3 +30,7 @@ exclude:
 
 disqus:
     shortname: raisercostin
+#permalink: /:categories/:title
+post_dirs: false
+permalink: pretty
+permalink_remove_ext_and_dir: true
