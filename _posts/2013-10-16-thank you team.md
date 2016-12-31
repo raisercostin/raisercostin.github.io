@@ -5,7 +5,6 @@ Tags: eessi,project,team
 Slug: thank-you-eessi-team
 permalink: /thank-you-eessi-team
 ---
-<link href="https://dl.dropboxusercontent.com/s/hpyn2gsk4nbphal/style.css?dl=1&token_hash=AAE39q2ZOvEqPCKEWyRfVeID337MKshhDdlPRtO4gwBRXQ" rel="stylesheet"></link>
 As you know we are in a period of time when our work is reviewed and analysed to decide the future of the EESSI project.
 
 I would like to say that independent of the final result (Rinis, MS, IBM and internal) the internal release was a success according to any standard that might exist or will be invented. We delivered on time, on budget, ALL features that were requested on both milestones: GTM and BL. I'm pleased with what this team has accomplished. If somebody will offer me the opportunity to go back in time to fix something on the internal prototype, I will need to reject the offer because from a technical point of view I don't see major improvements to be made.
