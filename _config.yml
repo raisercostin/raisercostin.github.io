@@ -30,7 +30,4 @@ exclude:
 
 disqus:
     shortname: raisercostin
-#permalink: /:categories/:title
-post_dirs: false
-permalink: pretty
-permalink_remove_ext_and_dir: true
+permalink: /:year/:month/:day/:title
