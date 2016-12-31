@@ -30,5 +30,4 @@ exclude:
 
 disqus:
     shortname: raisercostin
-permalink: /:year/:month/:day/:title
-post_dirs: true
+permalink: /:year/:month/:day/:title/
