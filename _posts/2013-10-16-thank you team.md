@@ -1,8 +1,8 @@
 ---
-Date: 2013-11-19
+Date: 2013-10-16
 Title: A Big Thank You to the EESSI team
 Tags: eessi,project,team
-Slug: thank-you-eessi-team
+#Slug: thank-you-eessi-team
 permalink: /thank-you-eessi-team
 ---
 As you know we are in a period of time when our work is reviewed and analysed to decide the future of the EESSI project.
