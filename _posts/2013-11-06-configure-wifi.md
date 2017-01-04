@@ -7,12 +7,10 @@ Slug: wifi
 category : pages
 tags : [how-to, jekyll]
 ---
-
 # Problem
 
-## Investigation
-
-# Glossary
+# Investigation
+## Glossary
 What are these 
 
 * wifi protocols: 8012.11 a/b/g/n
@@ -24,7 +22,7 @@ What are these
 * channel bandwidth
 * security WPA2
 
-# Tools
+## Tools
 
 - InSSIDer3 (windows)
 - inSSIDer Office (windows)
@@ -35,13 +33,13 @@ What are these
 - tcp optimizer
 - DNSBench.exe (windows) - https://www.grc.com/DNS/BENCHMARK.HTM
  
-# Debugging
+## Debugging
 - divide and conquer
 
-## Solution
-![InSSIDer3 wifi screenshot](https://dl.dropboxusercontent.com/s/18ifemuwr6qxlb9/2013-11-06-configure-wifi.md-2013-11-07%2000_10_11-Program%20Manager.png?dl=1&token_hash=AAHraFC2vYOyCIC66cJSb-Uayg6TCtBnagQGWlFSWkFfUA)
+# Solution
+![InSSIDer3 wifi screenshot](/2013-11-06-configure-wifi-Program Manager.png)
 
-# Do & Don't
+## Do & Don't
 
 * Don't use Channel 13 (not compatible with my withing scale and with my samsung galaxy tab 2.0)
 * Don't use other channels than 1, 7 and 11 (it seems that they are not standard - as explained in the InSSIDer3 help).
