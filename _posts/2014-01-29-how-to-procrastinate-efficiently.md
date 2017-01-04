@@ -1,8 +1,10 @@
+---
 Date: 2014-01-29
 Title: How to procrastinate efficiently
 Tags: procrastinate,government,european,commission,ec,europa,efficiency
 Slug: how-to-procrastinate-efficiently
-
+permalink: how-to-procrastinate-efficiently
+---
 A perfect procrastinate performer should employ as much as possible tactics from the following list.
 They are split on several situations. 
 
