@@ -1,8 +1,9 @@
+---
 Date: 2011-11-15
 Title: Scala as scripting language
 Tags: howto
 Slug: scala-scripting
-
+---
 # Windows
 ## Configure file type associations
 As admin you should run the following in console:

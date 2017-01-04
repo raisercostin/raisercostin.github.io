@@ -31,3 +31,5 @@ disqus:
     shortname: raisercostin
 
 permalink: /:year/:month/:day/:title
+
+excerpt_separator: "<!-- more -->"
