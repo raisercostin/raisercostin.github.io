@@ -13,7 +13,7 @@
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 {% for post in site.posts %}{% capture base_anchor %}src='{{ site.url }}{{ post.url }}#{% endcapture %}{% if post.image %}{% capture banner %}
 <img src="{{ site.url }}/img/post-banners/{{ post.image }}" alt="{{ page.title }}" width="600" /><br />
-{% endcapture %}{% else %}{% assign banner='foobar' %}{% endif %}
+{% endcapture %}{% else %}{% assign banner='' %}{% endif %}
 	<entry>
 		<title type="text">{{ post.title | strip_html }}</title>
 		<link href="{{ site.url }}{{ post.url }}" />
