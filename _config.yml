@@ -33,7 +33,7 @@ disqus:
 
 permalink: /:year/:month/:day/:title
 
-excerpt_separator: "<!-- more -->"
+excerpt_separator: "{{ more }}"
 
 collections: 
     favicons:

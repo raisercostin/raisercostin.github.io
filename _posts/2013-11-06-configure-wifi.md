@@ -6,8 +6,11 @@ Tags: howto
 Slug: wifi
 category : pages
 tags : [how-to, jekyll]
+image: 2013-11-06-configure-wifi-Program Manager.png
 ---
 # Problem
+How to debug/configure wifi connection.
+{{ more }}
 
 # Investigation
 ## Glossary
