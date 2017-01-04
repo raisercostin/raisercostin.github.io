@@ -42,3 +42,6 @@ collections:
     images:
         output: true
         permalink: /:path/
+    binaries:
+        output: true
+        permalink: /binaries/:path/
