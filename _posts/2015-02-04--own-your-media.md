@@ -19,17 +19,17 @@ Current features are:
 - more view proposals will be added (started with 5 now there are 10)
 - the application doesn't need manual work to be done except choosing the folder with images (this step could be also removed in next versions)
 
-![folder restructured](/images/2015-02-04--own-your-media--screenshot.png)
+![folder restructured](/2015-02-04--own-your-media--screenshot.png)
 
 # Download & Install
 
-- Download the application [organize.jar](https://www.dropbox.com/s/625by2kj9lngvnk/organize.jar?dl=0)
+- Download the application [organize.jar]({{/organize.jar | absolute_path }})
 
 ## Windows
 
 - Java should be installed.
 - Now double click on organize.jar and the application will ask for a folder to be organized.
-![](http://raisercostin.googlecode.com/svn/content/blog/2015-02-08--own-your-media--screenshot2.png)
+![](/2015-02-08--own-your-media--screenshot2.png)
 
 ## Windows Command Line - For tech savy users
 
@@ -58,7 +58,7 @@ Exiftool should be installed.
 Download the application
 
     :::shell 
-	wget https://www.dropbox.com/s/625by2kj9lngvnk/organize.jar?dl=0 -O organize.jar
+	wget {{/organize.jar | absolute_path }}	-O organize.jar
 	
 From command line you can run 
 

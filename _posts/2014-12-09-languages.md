@@ -4,7 +4,7 @@ Tags: language,human,artificial,assambler,structured,objectual,functional,logica
 Slug: languages
 
 #Thesis
-   ![](/images/ladder.jpg)
+   ![](/ladder.jpg)
 
    **We need a higher level human language**
 
