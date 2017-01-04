@@ -13,3 +13,7 @@ My blog
 - add `update:    true` to add article to sitemap.xml as updated
 - to separate excerpt from the rest of article add to `_config.yml` the value that you use to delimit excerpts
 	`excerpt_separator: "<!-- more -->"`
+
+# Docs
+## Templates
+- https://github.com/jekyll/minima
