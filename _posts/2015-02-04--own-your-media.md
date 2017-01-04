@@ -23,7 +23,7 @@ Current features are:
 
 # Download & Install
 
-- Download the application [organize.jar]({{/organize.jar | absolute_path }})
+- Download the application [organize.jar](https://bintray.com/raisercostin/maven/download_file?file_path=org%2Fraisercostin%2Fownit_2.11%2F0.10%2Fownit_2.11-0.10-one-jar.jar)
 
 ## Windows
 
@@ -58,7 +58,7 @@ Exiftool should be installed.
 Download the application
 
     :::shell 
-	wget {{/organize.jar | absolute_path }}	-O organize.jar
+	wget https://bintray.com/raisercostin/maven/download_file?file_path=org%2Fraisercostin%2Fownit_2.11%2F0.10%2Fownit_2.11-0.10-one-jar.jar -O organize.jar
 	
 From command line you can run 
 
