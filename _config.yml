@@ -6,9 +6,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Raisercostin's blog with half baked 
   thoughts, ideas, mindmaps, projects.
 
-twitter_username: raisercostin
-github_username:  raisercostin
-
 # Build settings
 markdown: kramdown
 #@see https://github.com/jekyll/minima
@@ -27,6 +24,7 @@ google_analytics: ["UA-45773408-2"]
 exclude:
   - Gemfile
   - Gemfile.lock
+  - "**/*.mm"
 
 disqus:
     shortname: raisercostin
@@ -45,3 +43,23 @@ collections:
     binaries:
         output: true
         permalink: /binaries/:path/
+
+paginate: 10
+paginate_path: '/blog/page:num/'
+repository: https://github.com/raisercostin/raisercostin.github.io.git
+
+footer-links:
+  dribbble:
+  email: raisercostin@gmail.com
+  facebook: raisercostin
+  flickr:
+  github: raisercostin
+  instagram: raisercostin
+  linkedin: raisercostin
+  pinterest:
+  rss: feed-all.xml
+  twitter: raisercostin
+  stackoverflow: users/99248/raisercostin # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube:  # channel/<your_long_string> or user/<user-name>
+  googleplus: +raisercostingrigore # anything in your profile username that comes after plus.google.com/
+  goodreads: raisercostin

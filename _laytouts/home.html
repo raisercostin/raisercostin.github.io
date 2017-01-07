@@ -3,9 +3,6 @@ layout: default
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-  
   {{ content }}
 
   <ul class="post-list">
@@ -16,10 +13,8 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+	<p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 100}} [<a href="{{ post.url }}">read more</a>]</p>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
 </div>
