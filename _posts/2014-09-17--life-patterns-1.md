@@ -1,7 +1,9 @@
+---
 Date: 2014-09-17
 Title: Paternuri ale vietii - 1 - De ce ne luptam?
 Tags: patterns,life,romanian,tipare,paternuri,win
 Slug: tipare-viata-1-de-ce-luptam
+---
 
 #De ce ne luptam cu altii?
 Sunt necesare pentru inceput cateva clarificari asupra limbajului.

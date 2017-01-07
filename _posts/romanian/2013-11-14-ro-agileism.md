@@ -1,8 +1,9 @@
+---
 Date: 2013-11-14
 Title: Agileism (romanian)
 Tags: agileism, society
 Slug: ro/agileism
-
+---
 ## Liberarianism Issues (romanian)
 O vreme credeam destul de mult in libertarianism ca la ceva viabil.
 Acum am ceva mixed feelings. Cred ca exista niste proprietati emergente din libertarianism pe care nu le putem vedea pt ca nu exista destula practica.

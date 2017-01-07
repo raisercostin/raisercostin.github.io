@@ -1,7 +1,9 @@
+---
 Date: 2013-11-11 20:09
 Title: Engineering trade-offs
 Tags: howto, engineering
 Slug: tradeoffs
+---
 
 
 ## Question

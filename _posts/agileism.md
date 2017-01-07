@@ -1,5 +1,10 @@
-Jan 30, 2012, 1:28 AM
-
+---
+Date: 2012-01-30
+Time: 1:28 AM
+Title: Agileism
+Tags: agile,society,government
+Slug: own-your-media
+---
 Manifesto for Agile Society Development
 
 qa.agileism.org - our forum

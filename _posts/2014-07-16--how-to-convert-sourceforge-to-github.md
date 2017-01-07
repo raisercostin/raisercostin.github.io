@@ -1,7 +1,9 @@
+---
 Date: 2014-07-16
 Title: Migrate sourceforge CVS project to github GIT project
 Tags: git,cvs,sourceforge,github
 Slug: how-to-convert-sourceforge-cvs-to-github-git
+---
 
 # Steps
 

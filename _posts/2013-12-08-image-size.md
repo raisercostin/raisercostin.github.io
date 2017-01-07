@@ -1,7 +1,9 @@
+---
 Date: 2013-12-08
 Title: Image Size
 Tags: image,pic,size,wallpaper,drawable,android,photoshop,photo
 Slug: image-size
+---
 
 ## Problem
 ### Question

@@ -1,6 +1,9 @@
-Date: 2014-03-15 Title: Resurse ateism Tags:
-resurse,ateism,grupuri,facebook,comunitate,atee,ateism,linkuri Slug:
-resurse-ateism
+---
+Date: 2014-03-15
+Title: Resurse ateism
+Tags: resurse,ateism,grupuri,facebook,comunitate,atee,ateism,linkuri
+Slug: resurse-ateism
+---
 
 Sursa: <http://resurseateism.wikispaces.com/> Discutii pe facebook:
 <https://www.facebook.com/groups/resurseAtei/>

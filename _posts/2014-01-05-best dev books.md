@@ -1,7 +1,9 @@
+---
 Date: 2014-01-05
 Title: Best development books
 Tags: books,development,best,top
 Slug: best-dev-books
+---
 
 Books that I wish to be written or recommended to me earlier:
 

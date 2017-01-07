@@ -1,7 +1,9 @@
+---
 Date: 2014-06-20
 Title: Best Children Games
 Tags: children,games,list
 Slug: best-children-games-wiki
+---
 
 # Games
 

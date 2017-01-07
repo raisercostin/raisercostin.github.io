@@ -1,7 +1,9 @@
+---
 Date: 2013-11-13
 Title: Distributed state management
 Tags: design, decisions, eessi
 Slug: distributed-state
+---
 
 ## State vs Events
 It will be nice to always perceive the status of a flow at two levels:

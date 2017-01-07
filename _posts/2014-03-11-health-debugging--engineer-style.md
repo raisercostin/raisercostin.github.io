@@ -1,7 +1,9 @@
+---
 Date: 2014-03-11
 Title: How to debug your health issues - engineer style
 Tags: health,cold,flu,allergy,engineering,debugging,Oscars,binarySearch,divideAndConquer,algorithms
 Slug: health-debugging--engineer-style 
+---
 
 What all these tags have in common: health, cold, flu, allergy, engineering, debugging, Oscars, attendee list, algorithms, binary search, divide and conquer?
 What do I know till now (2014-03-11 - 36 years old):

@@ -1,7 +1,9 @@
+---
 Date: 2014-01-28
 Title: Scopul miscarilor atee/agnostice
 Tags: atheism,ateism,purpose,goals
 Slug: atheism-purpose
+---
 
 ### Care e scopul in sine al asociatiilor/grupurilor de atei/agnostici in Romania/Lume?
 

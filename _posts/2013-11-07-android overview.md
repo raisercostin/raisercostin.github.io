@@ -1,9 +1,10 @@
+---
 Date: 2013-12-08 16:00
 Title: Learning android development
 Tags: howto, android, learning, journal
 Slug: android
 Updates: 2013-12-08, 2013-12-03, 2013-11-22, 2013-11-07
-
+---
 ## Goals
 I need a clear criteria of success so I should have a very simple problem to solve.
 
