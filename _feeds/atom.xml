@@ -1,9 +1,11 @@
 ---
+layout: none
 ---
-{% capture base_src %}src='{{ site.url }}/{% endcapture %}{% capture base_href %}href='{{ site.url }}/{% endcapture %}<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+{% capture base_src %}src='{{ site.url }}/{% endcapture %}{% capture base_href %}href='{{ site.url }}/{% endcapture %}
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>{{ site.name | xml_escape }}</title>
-	<link href="{{ site.url }}{{ page.url }}" rel="self" />
+	<title>{{ site.title | xml_escape }}</title>
+	<link type="application/atom+xml" rel="self" href="{{ site.url }}{{ page.url }}" />
 	<link href="{{ site.url }}/" />
 	<id>{{ site.url }}/</id>
 	<author>
@@ -15,9 +17,9 @@
 <img src="{{ site.url }}/img/post-banners/{{ post.image }}" alt="{{ page.title }}" width="600" /><br />
 {% endcapture %}{% else %}{% assign banner='' %}{% endif %}
 	<entry>
-		<title type="text">{{ post.title | strip_html }}</title>
-		<link href="{{ site.url }}{{ post.url }}" />
 		<id>{{ site.url }}{{ post.url }}</id>
+		<link type="text/html" rel="alternate" href="{{ site.url }}{{ post.url }}" />
+		<title type="text">{{ post.title | strip_html }}</title>
 		<published>{{ post.date | date_to_xmlschema }}</published>
 		<updated>{% if post.updated == null %}{{ post.date | date_to_xmlschema }}{% else %}{{ post.updated | append: '@12am' | date_to_xmlschema }}{% endif %}</updated>
 		<summary type="html">{{ post.excerpt | strip_html | xml_escape }}</summary>
