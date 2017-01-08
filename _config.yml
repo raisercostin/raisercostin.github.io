@@ -60,7 +60,7 @@ footer-links:
   instagram: raisercostin
   linkedin: raisercostin
   pinterest:
-  rss: feed-all.xml
+  rss: atom.xml
   twitter: raisercostin
   stackoverflow: users/99248/raisercostin # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube:  # channel/<your_long_string> or user/<user-name>
