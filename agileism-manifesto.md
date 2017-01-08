@@ -7,28 +7,35 @@ permalink: /agileism-manifesto
 layout: empty
 ---
 
-{: style="text-align:center"}
+{:.center}
 # Manifesto for Agile Society Development
 <hr/>
 
-{: style="text-align:center"}
+{:.center}
 [qa.agileism.org - our forum](http://qa.agileism.org/)
 
-{: style="text-align:center"}
+{:.center}
 Inspired by agile manifesto we might value:
 
-{: style="text-align:center"}
+{:.center}
 **Individuals and interactions** over processes and tools
 
-{: style="text-align:center"}
+{:.center}
 **Working society** over comprehensive documentation
 
-{: style="text-align:center"}
+{:.center}
 **People collaboration** over contract negotiation
 
-{: style="text-align:center"}
+{:.center}
 **Responding to change** over following a plan
 
+{:.center}
 {: style="text-align:center"}
 That is, while there is value in the items on
 the right, we value the items on the left more.
+
+<style>
+.center {
+    text-align:center;
+}
+</style>
