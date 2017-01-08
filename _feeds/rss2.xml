@@ -6,7 +6,7 @@ layout: none
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link rel="self" type="application/rss+xml" href="{{ "/atom.xml" | prepend: site.baseurl | prepend: site.url }}" />
+    <atom:link rel="self" type="application/rss+xml" href="{{ "/rss2.xml" | prepend: site.baseurl | prepend: site.url }}" />
     <description>{{ site.description | xml_escape }}</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
