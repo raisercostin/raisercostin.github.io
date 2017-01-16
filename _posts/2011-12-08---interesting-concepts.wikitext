@@ -1,0 +1,2 @@
+Interesting Cocepts
+- poka-yoke - http://en.wikipedia.org/wiki/Poka-yoke
