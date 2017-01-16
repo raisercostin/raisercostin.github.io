@@ -1,0 +1,46 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1410986336773" ID="ID_1638558778" MODIFIED="1433180131970" TEXT="presentation layer">
+<node CREATED="1433180132480" ID="ID_1259451531" MODIFIED="1433180214376" POSITION="right" TEXT="aspects">
+<node CREATED="1433180134980" ID="ID_1273611137" MODIFIED="1433180565939" TEXT="containers/layouts">
+<node CREATED="1433180147009" ID="ID_95045849" MODIFIED="1433180168972" TEXT="a type of web page"/>
+<node CREATED="1433180170961" ID="ID_1077397002" MODIFIED="1433180198980" TEXT="declares the containers and placeholders for web page components"/>
+<node CREATED="1433180515747" ID="ID_1108826863" MODIFIED="1433180545001" TEXT="part agnostic"/>
+</node>
+<node CREATED="1433180214356" ID="ID_1389905026" MODIFIED="1433180216537" TEXT="parts">
+<node CREATED="1433180142576" ID="ID_549740157" MODIFIED="1433180144617" TEXT="components">
+<node CREATED="1433180205959" ID="ID_613789528" MODIFIED="1433180232165" TEXT="reusable part of a page around a specific business"/>
+<node CREATED="1433180265282" ID="ID_186453831" MODIFIED="1433180268707" TEXT="usualy reuse tags"/>
+<node CREATED="1433180506460" ID="ID_1678545367" MODIFIED="1433180509571" TEXT="container agnostic">
+<node CREATED="1433180458666" ID="ID_1674790285" MODIFIED="1433180510911" TEXT="can be used in any outside container"/>
+</node>
+</node>
+<node CREATED="1433180144916" ID="ID_1697012138" MODIFIED="1433180145807" TEXT="tags">
+<node CREATED="1433180233014" ID="ID_899398757" MODIFIED="1433180244024" TEXT="reusable part of page around a specific technical problem">
+<node CREATED="1433180244623" ID="ID_207963492" MODIFIED="1433180252051" TEXT="input"/>
+<node CREATED="1433180252309" ID="ID_1400982103" MODIFIED="1433180254291" TEXT="radio"/>
+<node CREATED="1433180254590" ID="ID_1674765263" MODIFIED="1433180257411" TEXT="menu"/>
+<node CREATED="1433180257910" ID="ID_1525690932" MODIFIED="1433180258611" TEXT="etc"/>
+</node>
+</node>
+</node>
+<node CREATED="1433180269806" ID="ID_606501224" MODIFIED="1433180270877" TEXT="pages">
+<node CREATED="1433180271416" ID="ID_1144488264" MODIFIED="1433180560970" TEXT="associate specific parts with specifc containers"/>
+<node CREATED="1433180287245" ID="ID_747045328" MODIFIED="1433180390626" TEXT="page instances to be used to display different data">
+<node CREATED="1433180390566" FOLDED="true" ID="ID_871987706" MODIFIED="1433180410869" TEXT="sample">
+<node CREATED="1433180381135" ID="ID_1601195708" MODIFIED="1433180381135">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="2015-06-01--presentation_3215162220277778708.jpeg" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>

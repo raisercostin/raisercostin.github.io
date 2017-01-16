@@ -1,0 +1,34 @@
+=Development Tools=
+* java - Java SE 6 Update 24
+* maven - http://maven.apache.org/download.html
+* sbt - https://github.com/harrah/xsbt/wiki/Getting-Started-Setup
+* tortoisesvn - http://tortoisesvn.net/downloads.html
+* Eclipse IDE for Java EE Developers - Indigo - http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/indigosr1
+** m2eclipse - for maven - http://download.eclipse.org/technology/m2e/releases
+** subversive + svnkit-1.3.5
+** subversive connectors - http://community.polarion.com/projects/subversive/download/eclipse/2.0/update-site/
+** jadclipse - java decompiler - http://webobjects.mdimension.com/jadclipse/3.6/
+** objectaid - uml directly from sources
+** spring ide - http://dist.springsource.com/snapshot/TOOLS/nightly/e3.7
+** soap ui - to make calls to a webservice http://www.soapui.org/IDE-Plugins/eclipse-plugin.html
+** apache directory studio - ldap browser - http://directory.apache.org/studio/update/1.x/
+** regexp tester - http://brosinski.com/regex/update
+** code analysis plugins - http://stackoverflow.com/questions/730433/recommended-eclipse-plugins-for-java-source-code-analysis
+*** findbugs - http://findbugs.sourceforge.net/downloads.html
+*** pmd - http://pmd.sourceforge.net/integrations.html#eclipse
+*** CodePro Analytix - https://code.google.com/javadevtools/codepro/doc/index.html
+** scala - http://download.scala-ide.org/releases-29/stable/site
+** topcoder - http://fornwall.net/eclipsecoder/
+ 
+=Testing Tools=
+* webservices
+** soapUI - an eclipse plugin
+** Web Services Explorer - an eclipse plugin. see in EESSI-931 bug how countries use it.
+** fiddler - webservice tester
+
+=General Tools=
+* totalcmd
+* notepad++
+
+=System Utilities=
+* sysinternals - http://download.sysinternals.com/Files/SysinternalsSuite.zip

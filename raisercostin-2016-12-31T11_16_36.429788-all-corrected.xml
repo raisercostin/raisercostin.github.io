@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<disqus xmlns="http://disqus.com" xmlns:dsq="http://disqus.com/disqus-internals" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://disqus.com/api/schemas/1.0/disqus.xsd http://disqus.com/api/schemas/1.0/disqus-internals.xsd">
+<category dsq:id="2690405">
+<forum>raisercostin</forum>
+<title>General</title>
+<isDefault>true</isDefault>
+</category>
+<thread dsq:id="1942832736">
+<id>scala-as-scripting-language.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/scala-as-scripting-language.html</link>
+<title>Scala as scripting language - raisercostin</title>
+<message />
+<createdAt>2013-11-06T22:42:46Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1942852481">
+<id>wifi.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/wifi.html</link>
+<title>About WI-FI - raisercostin</title>
+<message />
+<createdAt>2013-11-06T22:52:51Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1942994708">
+<id>android.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/android.html</link>
+<title>Learning android development - raisercostin</title>
+<message />
+<createdAt>2013-11-07T00:10:10Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1955801077">
+<id>startup.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/startup.html</link>
+<title>Tools for a startup - raisercostin</title>
+<message />
+<createdAt>2013-11-11T11:04:30Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1956954863">
+<id>tradeoffs.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/tradeoffs.html</link>
+<title>Engineering trade-offs - raisercostin</title>
+<message />
+<createdAt>2013-11-11T18:56:45Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1962487359">
+<id>distributed-state.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/distributed-state.html</link>
+<title>Distributed state management - raisercostin</title>
+<message />
+<createdAt>2013-11-13T13:18:09Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1962495722">
+<id>scala-scripting.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/scala-scripting.html</link>
+<title>Scala as scripting language - raisercostin</title>
+<message />
+<createdAt>2013-11-13T13:22:03Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1965184336">
+<id>agileism.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/agileism.html</link>
+<title>What society? - raisercostin</title>
+<message />
+<createdAt>2013-11-14T11:08:35Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1969193331">
+<id>intellectual-property-rights.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/intellectual-property-rights.html</link>
+<title>Intellectual property rights - raisercostin</title>
+<message />
+<createdAt>2013-11-15T20:21:35Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>89.165.224.111</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1978870980">
+<id>thank-you-eessi-team.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/thank-you-eessi-team.html</link>
+<title>A Big Thank You to the EESSI team - raisercostin</title>
+<message />
+<createdAt>2013-11-19T11:01:15Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1988525129">
+<id>ro-legi.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/ro-legi.html</link>
+<title>Projects Ideeas - raisercostin</title>
+<message />
+<createdAt>2013-11-22T10:10:45Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1988526442">
+<id>ro/legi.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/ro/legi.html</link>
+<title>RO: Cunoaste-ti legile - raisercostin</title>
+<message />
+<createdAt>2013-11-22T10:11:31Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1988528182">
+<id>ro/agileism.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/ro/agileism.html</link>
+<title>Agileism (romanian) - raisercostin</title>
+<message />
+<createdAt>2013-11-22T10:12:28Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1988568516">
+<id>tools/blogging.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/tools/blogging.html</link>
+<title>Blogging tools - raisercostin</title>
+<message />
+<createdAt>2013-11-22T10:30:46Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1991721442">
+<id>test.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/test.html</link>
+<title>Test with sorin - raisercostin</title>
+<message />
+<createdAt>2013-11-23T11:16:13Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="1991741331">
+<id>projects.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/projects.html</link>
+<title>Projects Ideeas - raisercostin</title>
+<message />
+<createdAt>2013-11-23T11:26:03Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>188.26.41.85</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2014318436">
+<id>subtitles.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/subtitles.html</link>
+<title>Subtitles - raisercostin</title>
+<message />
+<createdAt>2013-12-01T10:02:26Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>81.164.138.90</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2035540575">
+<id>image-size.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/image-size.html</link>
+<title>Image Size - raisercostin</title>
+<message />
+<createdAt>2013-12-08T15:53:20Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2093480008">
+<id>best-dev-books.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/best-dev-books.html</link>
+<title>Best development books - raisercostin</title>
+<message />
+<createdAt>2014-01-05T14:34:55Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>188.173.106.58</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2187409713">
+<id>atheism-purpose.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/atheism-purpose.html</link>
+<title>What is the atheism purpose - raisercostin</title>
+<message />
+<createdAt>2014-01-28T20:47:07Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>85.27.17.179</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2187434416">
+<id>working-ec-1.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/working-ec-1.html</link>
+<title>Working for European commission - raisercostin</title>
+<message />
+<createdAt>2014-01-28T20:53:58Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>85.27.17.179</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2190819595">
+<id>how-to-procrastinate-efficiently.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/how-to-procrastinate-efficiently.html</link>
+<title>How to procrastinate efficiently - raisercostin</title>
+<message />
+<createdAt>2014-01-29T14:43:25Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>147.67.241.226</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2205589904">
+<id>why-travel.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/why-travel.html</link>
+<title>Why do we travel - raisercostin</title>
+<message />
+<createdAt>2014-02-01T17:29:31Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>81.242.79.242</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2409793302">
+<id>health-debugging--engineer-style.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/health-debugging--engineer-style.html</link>
+<title>How to debug your health issues - engineer style - raisercostin</title>
+<message />
+<createdAt>2014-03-11T21:37:37Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>85.27.17.179</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2781447935">
+<id>best-childrean-games-wiki.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/best-childrean-games-wiki.html</link>
+<title>Best Children Games Wiki - raisercostin</title>
+<message />
+<createdAt>2014-06-20T15:46:44Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>5.12.144.138</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2781492935">
+<id>competence-levels.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/competence-levels.html</link>
+<title>Competency Levels - raisercostin</title>
+<message />
+<createdAt>2014-06-20T16:05:34Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>5.12.144.138</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2788238254">
+<id>best-children-games-wiki.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/best-children-games-wiki.html</link>
+<title>Best Children Games - raisercostin</title>
+<message />
+<createdAt>2014-06-23T09:44:20Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>5.12.144.138</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="2939975140">
+<id>how-to-convert-sourceforge-cvs-to-github-git.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/how-to-convert-sourceforge-cvs-to-github-git.html</link>
+<title>Migrate sourceforge CVS project to github GIT project - raisercostin</title>
+<message />
+<createdAt>2014-08-19T09:57:59Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>5.12.132.255</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3028172237">
+<id>tipare-viata-1-de-ce-luptam.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/tipare-viata-1-de-ce-luptam.html</link>
+<title>Paternuri ale vietii - 1 - De ce ne luptam? - raisercostin</title>
+<message />
+<createdAt>2014-09-17T23:38:20Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>5.12.112.227</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3186288238">
+<id>development-tools.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/development-tools.html</link>
+<title>Development tools - raisercostin</title>
+<message />
+<createdAt>2014-11-03T10:37:47Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>5.12.113.115</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3261457606">
+<id>scala-problems.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/scala-problems.html</link>
+<title>Scala problems - raisercostin</title>
+<message />
+<createdAt>2014-11-25T14:00:04Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>158.169.40.10</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3305657362">
+<id>ro-roluri-tango.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/ro-roluri-tango.html</link>
+<title>Rolurile in tango - raisercostin</title>
+<message />
+<createdAt>2014-12-09T11:15:11Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>86.121.66.129</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3305657522">
+<id>languages.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/languages.html</link>
+<title>Languages - raisercostin</title>
+<message />
+<createdAt>2014-12-09T11:15:15Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>86.121.66.129</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3306938623">
+<id>scala-actors-vs-future.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/scala-actors-vs-future.html</link>
+<title>Scala: Actors vs future - raisercostin</title>
+<message />
+<createdAt>2014-12-09T19:02:43Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>62.235.228.149</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3322842606">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/languages</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2014-12-14T14:53:59Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>188.25.158.255</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3322842731">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/scala-actors-vs-future</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2014-12-14T14:54:03Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>188.25.158.255</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3323001597">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/ro-roluri-tango</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2014-12-14T16:01:39Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>188.25.158.255</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3345640605">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/tipare-viata-1-de-ce-luptam</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2014-12-21T11:29:46Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>81.164.137.221</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3390032330">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/best-children-games-wiki</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-01-04T21:02:30Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>77.59.184.223</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3403157938">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/development-tools</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-01-08T23:01:32Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>62.4.152.134</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3413976543">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/health-debugging-engineer-style</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-01-12T17:01:34Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>98.195.161.99</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3422268321">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/wifi</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-01-15T10:49:22Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>109.97.254.65</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3485903052">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/image-organizer-autoasistant</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-02-04T20:58:25Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>5.12.144.26</ipAddress>
+<isClosed>true</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3485932534">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/own-your-media</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-02-04T21:10:33Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>5.12.144.26</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3491247203">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/how-to-convert-sourceforge-cvs-to-github-git</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-02-06T14:05:48Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>158.169.150.5</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3491248427">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/thank-you-eessi-team</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-02-06T14:06:17Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>158.169.150.5</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3491252007">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/android</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-02-06T14:07:49Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>158.169.150.5</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3502379581">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/projects</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-02-10T10:43:28Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>158.169.40.9</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="3952878839">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/best-dev-books</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-07-20T15:25:59Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>24.6.140.175</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="4033598985">
+<id />
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/post/124538-I36SgSbGPa</link>
+<title>raisercostin on scriptogr.am</title>
+<message />
+<createdAt>2015-08-14T21:39:59Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>66.249.93.210</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="5409753782">
+<id>http://raisercostin.org/thank-you-eessi-team.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/thank-you-eessi-team.html</link>
+<title>Thank you team</title>
+<message />
+<createdAt>2016-12-25T17:02:11Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>188.26.186.144</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="5424048292">
+<id>http://raisercostin.org/pages/2013/11/06/configure-wifi.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/pages/2013/11/06/configure-wifi.html</link>
+<title>Configure Wifi</title>
+<message />
+<createdAt>2016-12-31T08:42:43Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>188.26.186.144</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="5424048429">
+<id>http://raisercostin.org/thank-you-eessi-team.html</id>
+<forum>raisercostin</forum>
+<category dsq:id="2690405" />
+<link>http://raisercostin.org/thank-you-eessi-team.html</link>
+<title>Thank you team</title>
+<message />
+<createdAt>2016-12-31T08:42:48Z</createdAt>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>188.26.186.144</ipAddress>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<post dsq:id="1111782086">
+<id />
+<message><![CDATA[<p>autocoment</p>]]></message>
+<createdAt>2013-11-06T22:43:00Z</createdAt>
+<isDeleted>true</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>213.189.183.109</ipAddress>
+<thread dsq:id="1942832736" />
+</post>
+<post dsq:id="1129920780">
+<id />
+<message><![CDATA[<p>Ca la Oscar!</p>]]></message>
+<createdAt>2013-11-19T18:41:57Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<email>nataliagrigore51@yahoo.com</email>
+<name>Natalia Grigore</name>
+<isAnonymous>false</isAnonymous>
+<username>nataliagrigore</username>
+</author>
+<ipAddress>79.118.214.109</ipAddress>
+<thread dsq:id="1978870980" />
+</post>
+<post dsq:id="1251530645">
+<id />
+<message><![CDATA[<p>hi. i didn't know you had a blog..i would've contradicted you earlier in time. at least for the sake of the discussion. <br>this list is funny for a start, but..<br>firstly, the reason for writing such a list is to my guessing to perform better. but i would contradict this very hipothesis. i, for a change, don't want to perform better all the time. i sometimes want to pull the cats tail, as we romanian say. or in other words, i would say being happy is not equal to having money.</p><p>secondly, saying that you don't need a little help from your friends is cheating, cause even if you're working on a computer, you sometimes wonder forums, put questions, get answers, and rely on communication and help. the methods to get involved socially include going to the gym, chit-chating, complaining !!! etc, even if you do this online, in sims. farmville or on facebook and not with you "stupid" friends<br>but of course, the reasons you wrote all this are far more complex, like not fitting in the work-environment. the problem of social skills prefered to competitivity, or lies prefered to truth, etc. has been around here for some time. maybe you should continue your quest in improving those, too. relating to the other soul is a very complex problem, with far more variables than work. it's a complex system, and you must train very hard to be good. it's far more complex than learning a new language, or building a bridge, for example. people do it instinctively, so they say it's easy, but i say it's hard.<br>i would say people tend to have far more soul issues that performance issues.<br>your soul cannot be changed easily. it takes time. it's a long term investment.<br>i would invest in it more than in a trust fund, private retirement fund or medical insurance. <br>i don't want to be rich and i don't want to live forever.<br>i could even die in peace right now.</p><p>question is where you set you're ideals and are you really pursuing them. do you really need money to be a good person? do you really need money to help yourself or others? are there alternative ways of good living or social living?</p>]]></message>
+<createdAt>2014-02-19T14:44:01Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<email>cata.oprea@gmail.com</email>
+<name>Catalin Oprea</name>
+<isAnonymous>false</isAnonymous>
+<username>catalinoprea</username>
+</author>
+<ipAddress>5.12.189.39</ipAddress>
+<thread dsq:id="2190819595" />
+</post>
+<post dsq:id="1252772074">
+<id />
+<message><![CDATA[<p>Yes you might want to procrastinate the procrastination tasks. Be careful that this means you might get some real work done. There is a chance (small one indeed) that this will get you money so, be careful!!!!!</p><p>For the social involvement (nice words ;) I started a process that is a little more controllable for me: I bought/downloaded some books<br>* Body.Language.How.to.read.others.thoughts.by.their.Gestures<br>* Beeing Geek<br>* An Incomplete Education - 3,684 Things You Should Have Learned but Probably Didn't -Mantesh<br>* Show Me How - 500 Things You Should Know - Instructions for Life from the Everyday to the Exotic -Mantesh<br>* The Fine Art of Small Talk How To Start a Conversation, Keep It Going -Mantesh<br>* The Field Guide to FCKING - A Hands-on Manual to Getting Great Sex -Mantesh<br>* Dogbert's Top Secret Management  Handbook - Scott Adams.pdf<br>* The Dilbert Principle - Scott Adams.pdf</p><p>There is a long discussion about money, necessity and luxury. We should have it.</p>]]></message>
+<createdAt>2014-02-20T10:27:48Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<email>raisercostin@gmail.com</email>
+<name>raisercostin</name>
+<isAnonymous>false</isAnonymous>
+<username>raisercostin</username>
+</author>
+<ipAddress>85.27.17.179</ipAddress>
+<thread dsq:id="2190819595" />
+<parent dsq:id="1251530645" />
+</post>
+<post dsq:id="1253977143">
+<id />
+<message><![CDATA[<p>"this will get you money".. IF you want the money, I repeat.. i'd rather say</p><p>If you can make one heap of all your winnings<br>And risk it on one turn of pitch-and-toss,<br>And lose, and start again at your beginnings,<br>And never breathe a word about your loss</p><p>cause what is fortune.. whether it is money, friends, shaking hands, wisdom or whatever..</p>]]></message>
+<createdAt>2014-02-20T22:50:18Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<email>cata.oprea@gmail.com</email>
+<name>Catalin Oprea</name>
+<isAnonymous>false</isAnonymous>
+<username>catalinoprea</username>
+</author>
+<ipAddress>213.233.93.82</ipAddress>
+<thread dsq:id="2190819595" />
+<parent dsq:id="1252772074" />
+</post>
+</disqus>
