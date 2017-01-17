@@ -6,24 +6,25 @@ layout: none
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>{{ site.title | xml_escape }}</title>
 	<link type="application/atom+xml" rel="self" href="{{ page.url | absolute_url }}" />
-	<link href="{{ site.url }}/" />
-	<id>{{ site.url }}/</id>
+	<link href="{{ '' | absolute_url }}" />
+	<id>{{ '' | absolute_url }}</id>
 	<author>
 		<name>{{ site.author | xml_escape }}</name>
 		<email>{{ site.email | xml_escape }}</email>
 	</author>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-{% for post in site.posts %}{% capture base_anchor %}src='{{ post.url | relative_url }}#{% endcapture %}{% if post.image %}{% capture banner %}
+{% for post in site.posts %}{% capture base_anchor %}src='{{ post.url | relative_url }}#{% endcapture %}
+{% if post.image %}{% capture banner %}
 <img src="{{ site.url }}/img/post-banners/{{ post.image }}" alt="{{ page.title }}" width="600" /><br />
 {% endcapture %}{% else %}{% assign banner='' %}{% endif %}
 	<entry>
 		<id>{{ post.url | absolute_url }}</id>
 		<link type="text/html" rel="alternate" href="{{ post.url | absolute_url }}" />
-		<title type="text">{{ post.title | strip_html | xml_escape}}</title>
+		<title type="text">{{ post.title | xml_escape}}</title>
 		<published>{{ post.date | date_to_xmlschema }}</published>
 		<updated>{% if post.updated == null %}{{ post.date | date_to_xmlschema }}{% else %}{{ post.updated | append: '@12am' | date_to_xmlschema }}{% endif %}</updated>
-		<summary type="html">{{ post.excerpt | strip_html | xml_escape }}</summary>
-		<content type="html">{{ post.content | prepend: banner | replace: "src='/", base_src | replace: "href='/", base_href | replace: "href='#", base_anchor | replace: "<h1 id='table_of_contents'>Table of Contents</h1>", "<h4>Table of Contents:</h4>" | replace: "<ul style='list-style: none;'>", "<ul>" | xml_escape }}</content>
+		<summary type="html">{{ post.excerpt | xml_escape| truncatewords: 100 }}</summary>
+		<content type="html">{{ post.content | truncatewords: 1000 | prepend: banner | replace: "src='/", base_src | replace: "href='/", base_href | replace: "href='#", base_anchor | replace: "<h1 id='table_of_contents'>Table of Contents</h1>", "<h4>Table of Contents:</h4>" | replace: "<ul style='list-style: none;'>", "<ul>" | xml_escape }}</content>
 	</entry>
 {% endfor %}
 </feed>
