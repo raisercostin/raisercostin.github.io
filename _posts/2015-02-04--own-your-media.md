@@ -3,6 +3,7 @@ Date: 2015-02-04
 Title: Own Your Media
 Tags: image,automatic,organizer,exif,gps,movie,video,picture,media,categories,dateTime,localDateTime,dateTimeZone,UTC
 Slug: own-your-media
+image: /2015-02-04--own-your-media--screenshot.png
 ---
 This is an windows application that will automatically analyse all your images and videos in a folder and propose several other folders with all of them organized.
 
@@ -30,6 +31,7 @@ Current features are:
 - Java should be installed.
 - Now double click on organize.jar and the application will ask for a folder to be organized.
 ![](/2015-02-08--own-your-media--screenshot2.png)
+<img src="/2015-02-08--own-your-media--screenshot2.png">
 
 ## Windows Command Line - For tech savy users
 
