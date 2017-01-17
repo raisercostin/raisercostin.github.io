@@ -37,10 +37,13 @@ collections:
     feeds:
         output: true
         permalink: /:path
+    images:
+        output: true
+        permalink: /:path/
 
 paginate: 10
 paginate_path: '/blog/page:num/'
-repository: 
+repository: # <username>/<git_repo>
 
 footer-links:
   dribbble:
