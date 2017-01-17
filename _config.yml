@@ -52,7 +52,8 @@ collections:
 
 paginate: 10
 paginate_path: '/blog/page:num/'
-repository: raisercostin/raisercostin.github.io.git
+
+repository: raisercostin/raisercostin.github.io
 
 footer-links:
   dribbble:
