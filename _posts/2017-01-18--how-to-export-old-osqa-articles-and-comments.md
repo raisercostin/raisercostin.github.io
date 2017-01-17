@@ -3,16 +3,18 @@ title: Export your OSQA articles and comments
 tags: osqa,dzonesoftware,deprecated,export,import,markdown,ownyourdata,ownyourblog,ownyourcomments
 image: 2017-01-18--how-to-export-old-osqa-articles-and-comments-osqa.png
 ---
-![own your data osqa](2017-01-18--how-to-export-old-osqa-articles-and-comments-osqa.png)
+![own your data osqa](/2017-01-18--how-to-export-old-osqa-articles-and-comments-osqa.png)
 
-I had an osqa hosted solution. Unfortunately the project is deprecated now:
+I had an osqa hosted solution. Unfortunately the project is deprecated now.
+I created a solution to #ownyourarticles #ownyourcomments.
+{{ more }}
+
  - osqa project: The old www.osqa.net OSQA was "deprecated" and now is redirected to www.dzonesoftware.com that sells AnswerHub.
  - osqa downloads: Is hard to find any link to a downloadable archive with the osqa project. 
  - osqa on github: https://github.com/OSQA/osqa
  - incomplete dockering:  https://github.com/vinomaster/osqa-docker
 
 I created this query to "export" in a jekyll format all comments from an osqa exported database.
-With this you at least #ownyourarticles #ownyourcomments.
 
 ```
 SELECT
