@@ -37,6 +37,7 @@ WHERE
 ```
 
 The output is something like the following:
+
 ```
 ---
 slug: 1
