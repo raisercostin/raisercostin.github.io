@@ -60,3 +60,12 @@ footer-links:
   youtube:  # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   goodreads: 
+
+#default variables for posts
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      imageStyle: "width:100%"
