@@ -13,7 +13,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-	<p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 100}} [<a href="{{ post.url }}">read more</a>]</p>
+	<p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 100}} [<a href="{{ post.url | relative_url }}">read more</a>]</p>
       </li>
     {% endfor %}
   </ul>
