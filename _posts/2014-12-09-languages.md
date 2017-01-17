@@ -3,6 +3,7 @@ Date: 2014-11-04
 Title: Languages
 Tags: language,human,artificial,assambler,structured,objectual,functional,logical
 Slug: languages
+image: /ladder.jpg
 ---
 #Thesis
 
