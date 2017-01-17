@@ -4,24 +4,24 @@ blogfeed:  true
 ---
 <div class="articles">
 {% for post in paginator.posts %}{% capture readtime %}{{ post.content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first }}{% endcapture %}
-	<h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 	<p class="post-meta">
 		{{ post.date | date_to_string }} &bull;
 		{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read &bull;
-		<a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">Comments</a>
+		<a href="{{ post.url | relative_url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">Comments</a>
 	</p>
 
 	{% if post.image %}
-	<a href="{{ post.url }}" class="post-banner" style="background-image: url(/img/post-banners/{{ post.image }});">
+	<a href="{{ post.url | relative_url }}" class="post-banner" style="background-image: url(/img/post-banners/{{ post.image }});">
 		<img src="{{ post.image | relative_url }}" alt="{{ post.title }}" />
 	</a>
 	{% else %}
-	<a href="{{ post.url }}" class="post-banner no-image">
+	<a href="{{ post.url | relative_url }}" class="post-banner no-image">
 		<img src="{{ "no-image.png" | absolute_url }}" alt="{{ post.title }}" style="min-width: 100%;"/>
 	</a>
 	{% endif %}
 	
-	<p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 100}} [<a href="{{ post.url }}">read more</a>]</p>
+	<p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 100}} [<a href="{{ post.url | relative_url }}">read more</a>]</p>
 	
 {% endfor %}
 </div>

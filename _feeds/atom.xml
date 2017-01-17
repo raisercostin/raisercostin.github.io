@@ -5,7 +5,7 @@ layout: none
 {% capture base_src %}src='{{ site.url }}/{% endcapture %}{% capture base_href %}href='{{ site.url }}/{% endcapture %}
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>{{ site.title | xml_escape }}</title>
-	<link type="application/atom+xml" rel="self" href="{{ site.url }}{{ page.url }}" />
+	<link type="application/atom+xml" rel="self" href="{{ page.url | absolute_url }}" />
 	<link href="{{ site.url }}/" />
 	<id>{{ site.url }}/</id>
 	<author>
@@ -13,13 +13,13 @@ layout: none
 		<email>{{ site.email | xml_escape }}</email>
 	</author>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-{% for post in site.posts %}{% capture base_anchor %}src='{{ site.url }}{{ post.url }}#{% endcapture %}{% if post.image %}{% capture banner %}
+{% for post in site.posts %}{% capture base_anchor %}src='{{ post.url | relative_url }}#{% endcapture %}{% if post.image %}{% capture banner %}
 <img src="{{ site.url }}/img/post-banners/{{ post.image }}" alt="{{ page.title }}" width="600" /><br />
 {% endcapture %}{% else %}{% assign banner='' %}{% endif %}
 	<entry>
-		<id>{{ site.url }}{{ post.url }}</id>
-		<link type="text/html" rel="alternate" href="{{ site.url }}{{ post.url }}" />
-		<title type="text">{{ post.title | strip_html }}</title>
+		<id>{{ post.url | absolute_url }}</id>
+		<link type="text/html" rel="alternate" href="{{ post.url | absolute_url }}" />
+		<title type="text">{{ post.title | strip_html | xml_escape}}</title>
 		<published>{{ post.date | date_to_xmlschema }}</published>
 		<updated>{% if post.updated == null %}{{ post.date | date_to_xmlschema }}{% else %}{{ post.updated | append: '@12am' | date_to_xmlschema }}{% endif %}</updated>
 		<summary type="html">{{ post.excerpt | strip_html | xml_escape }}</summary>

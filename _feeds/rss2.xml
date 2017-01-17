@@ -5,8 +5,8 @@ layout: none
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link rel="self" type="application/rss+xml" href="{{ "/rss2.xml" | prepend: site.baseurl | prepend: site.url }}" />
+    <link>{{ site.baseurl | absolute_url | xml_escape }}/</link>
+    <atom:link rel="self" type="application/rss+xml" href="{{ '/rss2.xml' | absolute_url | xml_escape }}" />
     <description>{{ site.description | xml_escape }}</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
@@ -14,12 +14,11 @@ layout: none
 
     {% for post in site.posts %}
       <item>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        <guid isPermaLink="true">{{ post.url | absolute_url | xml_escape }}</guid>
         <title>{{ post.title | xml_escape }}</title>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <link>{{ post.url | absolute_url | xml_escape }}</link>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <author>{{ site.email | xml_escape }} ({{ site.author | xml_escape }})</author>
-
+        <author>{{ site.author | xml_escape }} &lt;{{ site.email | xml_escape }}&gt;</author>
         <description>{{ post.content | xml_escape }}</description>
       </item>
     {% endfor %}
