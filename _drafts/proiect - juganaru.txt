@@ -1,0 +1,26 @@
+- core invoice
+ - DIGIT document de publicat pana in 2016
+ - standarde
+  - ubl
+  - sifes
+ - analize standarde curente
+  - comparatii
+  - intersectii
+- proiect: o aplicatie deja gata
+ - sa angajam pe cineva sa se ocupe de app asta
+ - roluri
+  - tehnic review: noi tehnologii - web + mobile
+ - service provider pentru invoiceuri
+  - business to government
+  - business to business  
+- alte features
+ - open pepole
+ - plata facturi gen paypal
+ - plata invoices mai devreme bon la piscina
+
+- standarde
+ - http://www.cenbii.eu/deliverables/cen-bii-2/cwa-16562-post-award/
+ - ftp://ftp.cen.eu/public/CWAs/BII2/CWA16562/CWA16562-Annex-B-BII-Profile-04-InvoiceOnly-V2_0_0.pdf
+ - http://spec.cenbii.eu/BII2/fxhtml/Trdm010-Invoice/g_1.htm?http://spec.cenbii.eu/BII2/fxhtml/Trdm010-Invoice/g_5.htm
+- app similare
+ - http://www.invoice2go.com/
