@@ -14,18 +14,20 @@ I created a solution to #ownyourarticles #ownyourcomments.
  - osqa on github: https://github.com/OSQA/osqa
  - incomplete dockering:  https://github.com/vinomaster/osqa-docker
 
+# Export from mysql database to a single file
+
 I created this query to "export" in a jekyll format all comments from an osqa exported database.
 
 ```sql
 SELECT
 	concat('---'
-		,'\nslug: ',forum_node.id
+		,'\nslug: article',forum_node.id
 		,'\ndate: ',added_at
 		,'\ntitle: ',title
 		,'\nauthor: ',username,'<',email,'>'
 		,'\ntags: ',replace(tagnames,' ',',')
 		,'\ntype: ',node_type
-		,'\ntoslug: ',coalesce(parent_id,'')
+		,'\ntoslug: article',coalesce(parent_id,'')
 		,'\n---'
 		,'\n',body) AS `article`
 FROM
@@ -36,7 +38,7 @@ WHERE
 	(state_string <> '(deleted)')
 ```
 
-The output is something like the following:
+The output is something like the following `2017-01-18--all.md`
 
 ```
 ---
@@ -130,6 +132,19 @@ toslug: 5
 ---
 <p>It looks like was not hacked, but the some systems of some owners where hacked.</p>
 ```
+
+# Extract independent articles from file
+
+```
+csplit --prefix=2017-01-18--article --suffix-format=%02d.md 2017-01-18--all.md "/^slug:/-1" "{*}"
+```
+
+# Test in jekyll
+
+```
+bundle exec jekyll serve
+```
+
 
 Then transform.sh file will help to split the articles in folders with their own comments.
 
