@@ -20,7 +20,7 @@ gems:
 
 #minima theme config vars  
 google_analytics: ["UA-45773408-2"]
-google_analytics: "ca-pub-0343541018267440"
+google_adsense: "ca-pub-0343541018267440"
 exclude:
   - Gemfile
   - Gemfile.lock
