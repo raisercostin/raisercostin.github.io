@@ -18,17 +18,18 @@ image: /ladder.jpg
 # History
 
 ##    Spoken language
-   The history of biology, humans and then our civilization documents that we started to communicate using various non-verbal stimuli.  Did they ever dream about where we will be today, to our current state of culture and language? I imagine (so I didn't study this) that they started with naming objects, than naming actions and then adding more details to this backbone.
+   The history of biology, humans and then our civilization documents that we started to communicate using various non-verbal stimuli.  Did they ever dream about where we will be today, to our current state of culture and language? I imagine (so I didn't study this) that they started with naming objects, than naming actions and then adding more details to this backbone.  You would consume it in realtime.
 
 ##    Written language
    At some moment next step came: the written word. Now the knowledge can be preserved and passed to further generations. The knowledge can accumulate on different directions, at different moments of time. The problem was that communication in written was dependent on scribes. Knowledge transfer came with the huge costs of permanently copying the manuscripts.
 
 ##    Printed language
-   Then through print technology everybody could read, few could write thoughts, ideas. It was a slightly uni-directional mass communication. This lowered the cost of consuming information, while still only the chosen ones where capable of writing and disseminate their artifacts. The language used was polished, the ideas trimmed, the message more often formal and with a specific purpose.
-
+   Then through print technology everybody could read, few could write thoughts, ideas. It was a slightly uni-directional, broadcasted, mass communication. This lowered the cost of consuming information, while still only the chosen ones where capable of writing and disseminate their artifacts. The language used was polished, the ideas trimmed, the message more often formal and with a specific purpose.  
    Normal people still had bi-directional communication with the local ones.
 
-   Radio, TV didn't change the game but just prepared the road for internet. With them the communication reached more people but still in an uni-directional way. Moreover there was a drawback compared to printed language: the knowledge consumed a fixed amount of time and an experienced person could not consume the knowledge faster than a novice. Even more, initially this kind of information couldn't be stored. It was similar in drawbacks to the spoken language.
+## Media language
+   Radio, TV didn't change the game but just prepared the road for internet. With them the communication reached more people but still in an uni-directional way. Moreover there was a drawback compared to printed language: the knowledge consumed a fixed amount of time and an experienced person could not consume the knowledge faster than a novice. Even more, initially this kind of information couldn't be stored. It was similar in drawbacks to the spoken language: real time consuming.
+   
 ##    Internet language
    After 200 years a new technological breakthrough came: Internet. With this most people could have bi-directional communication, in written, in their own peace. The knowledge can accumulate from multiple sources given birth to crowd sourcing: wikipedia, blogging beeing the most known.
 
@@ -40,18 +41,18 @@ image: /ladder.jpg
    While the communication improved: from unidirectional to bidirectional or broadcasted, from volatile in spoken form to permanent in written form, from time consuming (spoken, video, audio) to time independent (written, internet) the basic language form remained the same.
 
 ##    Price on write
-   With every utterance that we create we pay the price for the costly grammar, syntax, ancient semantics, phrase structure. We must always focus on all these aspects. We lack a higher abstraction level language where we should focus on ideas. We learned to respect the rules and we do it automatically. Still the price is paid once when we write and many times when we read.
+   With every utterance that we create we pay the price for the costly grammar, syntax, ancient semantics, phrase structure. We must always focus on all these aspects. We lack a higher abstraction level language where we should focus on content, essence, ideas. We learned to respect the grammar rules and we do it automatically. Still the price is paid once when we write and many times when we read.
 
 ##    Price on read
-   We learn to extract meaning from others. There are verbal reasoning tests designed to test this capability, there are special methods of reading fast, at last we decide not to read books/articles/productions that are too decorated or full of noise. We take notes to keep and remember the essence of what is heard or read.
+   We learn to extract meaning from any message that is thrown at us. We train on this. There are verbal reasoning tests designed to test this capability, there are special methods of fast reading, we read sumarries, movies, listen to blinkist summaries and in the end we migth decide not to read at all the books/articles/productions that are too decorated or full of noise. We take notes to keep and remember the essence of what is heard or read.
 
 ##    Price on trivial mistakes
-   Still we make mistakes. And they are penalized by the grammar nazi that live between us. The idea is lost and the focus is moved on the grammar topic. Educated people learned how to play this uninteresting and boring game of following grammar rules. Is not important (since usually the semantics are not affected) but it might consume energy in a boring and uninteresting direction if not done well. As a sidenote we don't have syntax nazi, we don't have idea nazi since we don't have clear rules that must be followed when we create sentences and ideas.
+   Still we make mistakes. And they are penalized by the grammar nazis that live between us. The idea is lost and the focus is moved on the grammar topic. Educated people learned how to play this uninteresting and boring game of following grammar rules. Is not important (since usually the semantics are not affected) but it might consume energy in a boring and uninteresting direction if not done well. As a sidenote we don't have syntax nazi, we don't have idea nazi since we don't have clear rules that must be followed when we create sentences and ideas. Actually we have the logical rules but ...
 
 ##    Price on diversity per'se
    We also pay a high price for not having a common language globally. The grammar and syntax price is multiplied by having thousands of languages. While some languages could be better in specific forms of communication most of them are able to create meaning and feelings in the communication partner. There is no reason to believe that at some moment a single language cannot do this, after it borrows a lot from all the other languages the inefable and undescriptable words.
 
-   In the past this wasn't a problem: the costs of communication if not in proximity was bigger than any good outcome. Now the old physical islands separating communities are replaced by artificial language based islands.
+   In the past this wasn't a problem: people interacted with the closed ones using the same language and the cost of communication with the outside world was bigger and paid only by commerciants.  Now the old physical islands separating communities are replaced by artificial (language based) islands. The total cost of global communication is bigger nowadays.
 
 # Hints for a solution
    If I didn't convinced you that the problem exists and is real I have one more example.
