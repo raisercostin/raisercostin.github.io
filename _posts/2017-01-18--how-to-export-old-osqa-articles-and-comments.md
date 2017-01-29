@@ -14,18 +14,20 @@ I created a solution to #ownyourarticles #ownyourcomments.
  - osqa on github: https://github.com/OSQA/osqa
  - incomplete dockering:  https://github.com/vinomaster/osqa-docker
 
+# Export from mysql database to a single file
+
 I created this query to "export" in a jekyll format all comments from an osqa exported database.
 
 ```sql
 SELECT
 	concat('---'
-		,'\nslug: ',forum_node.id
+		,'\nslug: article',forum_node.id
 		,'\ndate: ',added_at
 		,'\ntitle: ',title
 		,'\nauthor: ',username,'<',email,'>'
 		,'\ntags: ',replace(tagnames,' ',',')
 		,'\ntype: ',node_type
-		,'\ntoslug: ',coalesce(parent_id,'')
+		,'\ntoslug: article',coalesce(parent_id,'')
 		,'\n---'
 		,'\n',body) AS `article`
 FROM
@@ -36,7 +38,7 @@ WHERE
 	(state_string <> '(deleted)')
 ```
 
-The output is something like the following:
+The output is something like the following `2017-01-18--all.md`
 
 ```
 ---
@@ -130,3 +132,52 @@ toslug: 5
 ---
 <p>It looks like was not hacked, but the some systems of some owners where hacked.</p>
 ```
+
+# Extract independent articles from file
+
+```
+csplit --prefix=2017-01-18--article --suffix-format=%02d.md 2017-01-18--all.md "/^slug:/-1" "{*}"
+```
+
+# Test in jekyll
+
+```
+bundle exec jekyll serve
+```
+
+
+Then transform.sh file will help to split the articles in folders with their own comments.
+
+{% raw %}
+```
+#!/bin/bash
+regextractor () {
+	perl -E 'undef$/;$_=<>;($v1)= $_ =~ /'$1'/m;print "$v1";' <$2
+}
+
+for i in *.md
+do
+	mydate=`regextractor "^date:\s*(\S{10}).*$" $i`
+	mytitle=`regextractor "^title:\w*(.*)\s*$" $i`
+	myslug=`regextractor "^slug:\s*(\S*)\s*$" $i`
+	toslug=`regextractor "^toslug:\s*(\S*)\s*$" $i`
+	type=`regextractor "^type:\s*(\S*)\s*$" $i`
+	#echo found "mydate $mydate-type $type-toslug $toslug-myslug $myslug"
+	#echo found "mydate$mydate -date"
+	#echo found "type$type -type"
+	#echo found "toslug$toslug -toslug"
+	#echo found "myslug$myslug -myslug"
+	if [ $type == "question" ]; then
+		article=$myslug
+		echo "mv $i $article/$mydate-$toslug.md"
+		mkdir $article
+		mv $i $article/$mydate-$article.md
+	else
+		article=$toslug
+		echo "mv $i $article/$mydate-$type-$myslug.md"
+		mv $i $article/$type-$myslug.md
+		echo "{% include_relative $type-$myslug.md %}" | tee -a $article/*-$article.md
+	fi
+done
+```
+{% endraw %}

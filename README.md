@@ -12,6 +12,8 @@ My blog
 - add `noindex:   true` to remove article from robots.txt and/or sitemap.xml
 - add `update:    true` to add article to sitemap.xml as updated
 - to separate excerpt from the rest of article add `"{{ more }}"` after a phrase or two.
+- add `slug:` to override the way permalink is computed. the default value will use the date from markdown filename
+- add `permalink:` to override the way permalink is computed.
 
 # Docs
 ## Templates
