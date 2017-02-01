@@ -6,10 +6,21 @@ tags: romanian,government,law,legal,guvernamant,cod penal
 see: 
  - https://github.com/compleatang/legal-markdown
  - http://whiteheadlawllc.com/markdown-lawyers-ii/
+image: /2017-02-01--codul-penal.jpg
 ---
 Codul penal in varianta din 2015.
+![page1](/2017-02-01--codul-penal.jpg)
 {{ more }}
-Codul penal e definit de [LEGE nr.286 din 17 iulie 2009](http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=90250)
+
+Linkuri:
+
+* [Istoric Codul Penal - Camera Deputatilor Legis - LEGE nr.286 din 17 iulie 2009](http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=90250)
+* [Codul Penal Actualizat 2015](http://www.euroavocatura.ro/print2.php?print2=lege&idItem=1178)
+* [Ordonanta Urgenta modificare cod penal 2017 original](http://www.monitoruloficial.ro/emonitornew/emonviewmof.php?fid=MS43NTM3OTA5MDEzNjM5RSszMA==)
+* [Ordonanta Urgenta modificare cod penal 2017 articol]({% link _posts/romanian/2017-02-01--ordonanta-urgenta-modificare-cod-penal-2017.md %})
+* [Codul Penal Actualizat 2017-feb-01 - vezi forma euroavocatura](http://www.euroavocatura.ro/legislatie/1269/OUG_13_2017_privind_modificarea_Codului_Penal_si_a_Codului_de_procedura_penala)
+
+-----
 
 # PARTEA I: PARTEA GENERALA
 
