@@ -38,3 +38,10 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 @import "svg-icons";
+
+.post-content h1 { font-size: 38px; }
+.post-content h2 { font-size: 30px; }
+.post-content h3 { font-size: 28px; }
+.post-content h4 { font-size: 24px; }
+.post-content h5 { font-size: 20px; }
+.post-content h6 { font-size: 16px; }
