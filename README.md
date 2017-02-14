@@ -21,3 +21,29 @@ My blog
 
 ## Designes that I like
 - http://movingtofreedom.org/
+
+# TODO
+- fix title, h1-h6 styles
+- notations/syntax for
+  - alternative terms in romanian `(ro:romanian term)`
+  - wiki style references to "upcomming disambiguation"
+  - use hashtags & wiki ? or maybe use `^LinkToWikiTerm`
+  - comments rendered
+  - comments unrendered
+  - inspired by
+    - waitbutwhy
+      - side nodes
+      - note
+      - boring note
+    - medium
+      - section comment?
+    - wiki
+      - metadata/edit talk/comments
+  - render markdown in javascript
+    - enables you to see the source
+    - enables to edit via a comment/edit microservice?
+      - maybe send colaborative commits/pull requests
+  - microservice to generate image based on words
+  - include image at the beggining of a heading
+  - use wiki instead jekyll to generate a static site.
+  - use wiki with javascript (tin*..) to edit locally in firefox the wiki and add it to git
