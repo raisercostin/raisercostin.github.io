@@ -18,3 +18,6 @@ My blog
 # Docs
 ## Templates
 - https://github.com/jekyll/minima
+
+## Designes that I like
+- http://movingtofreedom.org/
