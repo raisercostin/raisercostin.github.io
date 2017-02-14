@@ -96,4 +96,47 @@ since in the worst case scenario she doesn't have a safety net.
 Fighting your safety net Where needs end and confort starts? Where is the luxury border?
 
 # ToRead
-- http://localhost:4000/2017/02/08/safety-net
+- Articles by Guy Standing
+  - https://www.weforum.org/agenda/2016/11/precariat-global-class-rise-of-populism/
+  - https://www.weforum.org/agenda/2016/12/lies-of-global-capitalism-guy-standing
+  - https://www.weforum.org/agenda/2016/12/the-precariat-populism-and-robots-is-basic-income-a-political-imperative
+
+  - Summary in freemind
+  
+	The 5 biggest lies of global capitalism
+		<https://www.weforum.org/agenda/2016/11/precariat-global-class-rise-of-populism/>
+		new classes
+			elite / plutocracy
+				rents
+			salariat
+				employment security
+				pensions
+				paid holidays
+				medical leave
+			proficians
+				not seeking employment security
+				making money
+				endangered by burn out
+			proletariat
+				unions worked
+				shrinking
+				not to be wished
+			precariat
+				growing
+				no occupational identity or narrative
+				existenttial insecurity
+				lives in debt - a systemic form of rental extraction
+				poverty traps
+				dimensions
+					out of control of time
+					realations of distribution
+						money wages
+						no benefits
+					distinctive relations to the state
+		books
+			The Precariat
+				Guy Standing
+			A Precariat Charter
+		<https://www.weforum.org/agenda/2016/12/lies-of-global-capitalism-guy-standing>
+
+	There is also strong psychological evidence that people with basic economic security have greater "mental bandwidth" for reasoned and long-term decision making, are more likely to be tolerant and altruistic towards others, and work harder, more productively and more cooperatively.
