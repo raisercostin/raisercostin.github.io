@@ -19,8 +19,9 @@ My blog
 ## Templates
 - https://github.com/jekyll/minima
 
-## Designes that I like
-- http://movingtofreedom.org/
+## Designes that I like or have specific features
+- http://movingtofreedom.org/ - design, next/prev post
+- http://www.scottaaronson.com/blog/?m=200601 - archive
 
 # TODO
 - fix title, h1-h6 styles

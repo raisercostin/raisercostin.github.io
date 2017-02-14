@@ -125,7 +125,8 @@ Fighting your safety net Where needs end and confort starts? Where is the luxury
   - https://www.weforum.org/agenda/2016/12/the-precariat-populism-and-robots-is-basic-income-a-political-imperative
 
   - Summary in freemind
-  
+
+	```  
 	The 5 biggest lies of global capitalism
 		<https://www.weforum.org/agenda/2016/11/precariat-global-class-rise-of-populism/>
 		new classes
@@ -163,3 +164,4 @@ Fighting your safety net Where needs end and confort starts? Where is the luxury
 		<https://www.weforum.org/agenda/2016/12/lies-of-global-capitalism-guy-standing>
 
 	There is also strong psychological evidence that people with basic economic security have greater "mental bandwidth" for reasoned and long-term decision making, are more likely to be tolerant and altruistic towards others, and work harder, more productively and more cooperatively.
+	```
