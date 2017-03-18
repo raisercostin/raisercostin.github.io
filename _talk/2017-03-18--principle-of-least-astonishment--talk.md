@@ -4,6 +4,7 @@ tags: PLS, software principle, common sense, talk
 image: 2017-03-18--wtf-wtf-wtf.png
 ---
 # **The Principle of Least Surprise is the One**
+It might be me, it might be the "stackoverflow programming sindrom", it might be the Donald-Kruger effect or it could be that PLS is broken by this framework.
 
 I've worked with playframework-2.5 and I had enough.
 It's a nice library but it hits you hard for no apparent reasons. After a debugging session that lasted for 9 days I understood some things.

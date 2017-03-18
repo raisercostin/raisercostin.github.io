@@ -53,3 +53,4 @@ My blog
     - https://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects
 	- https://github.com/showcases/projects-with-great-wikis
 	- https://github.com/integrations
+	- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
