@@ -1,0 +1,26 @@
+---
+layout:    default
+blogfeed:  true
+---
+<div class="articles">
+{% for post in paginator.posts %}
+	{% include post-sample.html %}
+{% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+	<ul>
+{% if paginator.previous_page %}
+		<li class="prev"><a href="/blog/{% if paginator.previous_page != 1 %}page{{ paginator.previous_page }}{% endif %}">Previous</a></li>
+{% endif %}
+		<li><a {% if paginator.page == 1 %}class="active" {% endif %}href="/blog/">1</a></li>
+{% for count in (2..paginator.total_pages) %}
+		<li><a {% if paginator.page == count %}class="active" {% endif %}href="/blog/page{{ count }}">{{ count }}</a></li>
+{% endfor %}
+{% if paginator.next_page %}
+		<li class="next"><a href="/blog/page{{ paginator.next_page }}">Next</a></li>
+{% endif %}
+	</ul>
+</div>
+{% endif %}

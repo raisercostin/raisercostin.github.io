@@ -1,0 +1,24 @@
+<head>
+	{% if site.google_adsense %}
+		<!-- Google AdSense -->
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<script>
+		  (adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: "{{ site.google_adsense }}",
+			enable_page_level_ads: true
+		  });
+		</script>
+		<!-- Google AdSense -->
+	{% endif %}
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title | escape }}" href="{{ '/atom.xml' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/rss2.xml' | relative_url }}">
+</head>
