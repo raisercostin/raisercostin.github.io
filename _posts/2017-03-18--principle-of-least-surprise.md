@@ -4,6 +4,7 @@ tags: PLS, software principle, common sense
 image: 2017-03-18--wtf-wtf-wtf.png
 ---
 # **The Principle of Least Surprise is the One**
+![2017-03-18--wtf-wtf-wtf.png](../_images/2017-03-18--wtf-wtf-wtf.png)
 
 I've worked with playframework-2.5 and I had enough.
 It's a nice library but it hits you hard for no apparent reasons. After a debugging session that lasted for 9 days I understood some things.
