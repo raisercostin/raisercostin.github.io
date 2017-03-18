@@ -1,0 +1,40 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <atom:link type="application/rss+xml" rel="self" href="{{ page.url | absolute_url }}" />
+    <link>{{ '' | absolute_url }}</link>
+
+    <description>{{ site.description | xml_escape }}</description>
+    <language>en-us</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>https://jekyllrb.com</generator>
+    {% for post in site.posts %}
+      <item>
+        <guid isPermaLink="true">{{ post.url | absolute_url | xml_escape }}</guid>
+        <title>{{ post.title | xml_escape }}</title>
+        <link>{{ post.url | absolute_url | xml_escape }}</link>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <author>{{ site.author | xml_escape }} &lt;{{ site.email | xml_escape }}&gt;</author>
+        <dc:creator>{{ site.author | xml_escape }}</dc:creator>
+        <description>{{ post.content | xml_escape | truncatewords: 100 }}</description>
+        <content:encoded>{{ post.content | xml_escape | truncatewords: 1000 }}</content:encoded>
+        <comments>{{ post.url | absolute_url | xml_escape }}#comments</comments>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
