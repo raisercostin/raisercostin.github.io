@@ -48,3 +48,8 @@ My blog
   - include image at the beggining of a heading
   - use wiki instead jekyll to generate a static site.
   - use wiki with javascript (tin*..) to edit locally in firefox the wiki and add it to git
+
+  - start to use wiki
+    - https://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects
+	- https://github.com/showcases/projects-with-great-wikis
+	- https://github.com/integrations

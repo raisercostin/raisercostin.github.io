@@ -3,10 +3,9 @@ title: The Principle of Least Surprise is the One
 tags: PLS, software principle, common sense, devJargon
 image: 2017-03-18--wtf-wtf-wtf.png
 talk: 2017-03-18--principle-of-least-surprise--talk
-talk-title: What triggered this: DevJargon
+talk-title: "What triggered this: DevJargon"
 ---
-# **The Principle of Least Surprise is the One**
-![2017-03-18--wtf-wtf-wtf.png](http://raisercostin.org/images/2017-03-18--wtf-wtf-wtf.png)
+![2017-03-18--wtf-wtf-wtf.png](http://raisercostin.org/2017-03-18--wtf-wtf-wtf.png)
 
 It might be me, it might be the "stackoverflow programming sindrom", it might be the Donald-Kruger effect or it could be that PLS is broken by this framework.
 My thesis is that because of PLS breaches you will observe some simptomps.
