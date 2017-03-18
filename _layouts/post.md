@@ -10,6 +10,9 @@ layout: default
     {{ content }}
   </div>
   <footer>
+	{% if page.talk %}
+		<a href="/talk/{{ page.talk }}">{{page.talk-title}}</a>
+	{% endif %}
 	<div class="pagination">  
 	  {% if page.previous.url %}  
 		<a class="prev" href="{{page.previous.url | relative_url }}">&laquo; Previous - {{page.previous.title}}</a>  

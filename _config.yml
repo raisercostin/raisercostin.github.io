@@ -49,6 +49,23 @@ collections:
     images:
         output: true
         permalink: /:path/
+    talk:
+        output: true
+        layout: page
+ 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: posts
+    values:
+      imageStyle: "width:100%"
+  - 
+    scope:
+      path: ""
+      type: talk
+    values:
+      layout: page
 
 paginate: 10
 paginate_path: '/blog/page:num/'
@@ -69,12 +86,3 @@ footer-links:
   youtube:  # channel/<your_long_string> or user/<user-name>
   googleplus: +raisercostingrigore # anything in your profile username that comes after plus.google.com/
   goodreads: raisercostin
-
-#default variables for posts
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      imageStyle: "width:100%"
