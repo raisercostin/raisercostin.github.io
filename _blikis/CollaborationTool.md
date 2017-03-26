@@ -1,3 +1,7 @@
+---
+title: Collaboration Tool
+slug: CollaborationTool
+---
 I'm searching for a tool useful for collaboration.
 
 # Features:

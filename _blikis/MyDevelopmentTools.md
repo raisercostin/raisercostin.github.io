@@ -1,8 +1,11 @@
 ---
+slug: MyDevelopmentTools
+title: My Development Tools
 Date: 2014-11-03
-Title: Development tools
-Tags: development tools
-Slug: development-tools
+published: true
+category: devtools
+categories: ['development', 'tools']
+tags: ['development', 'tools', 'java', 'eclipse', 'maven']
 ---
 
 Development Tools

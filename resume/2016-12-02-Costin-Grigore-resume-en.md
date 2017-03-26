@@ -1,5 +1,5 @@
 ---
-title: Costin Grigore resume
+title: Resume
 permalink: /resume/
 ---
 [pdf version]({{'/resume/2016-12-02-Costin-Grigore-resume-en.pdf' | absolute_url }})

@@ -16,12 +16,18 @@ My blog
 - add `permalink:` to override the way permalink is computed.
 
 # Docs
+
+## Cheatsheets
+- http://ricostacruz.com/cheatsheets/jekyll.html
+
 ## Templates
 - https://github.com/jekyll/minima
 
 ## Designes that I like or have specific features
 - http://movingtofreedom.org/ - design, next/prev post
 - http://www.scottaaronson.com/blog/?m=200601 - archive
+- http://ricostacruz.com/til/ - https://github.com/rstacruz/til 
+- http://ricostacruz.com/cheatsheets/jekyll.html - https://github.com/rstacruz/cheatsheets
 
 # TODO
 - fix title, h1-h6 styles
@@ -54,3 +60,5 @@ My blog
 	- https://github.com/showcases/projects-with-great-wikis
 	- https://github.com/integrations
 	- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  - study
+    - http://brm.io/jekyll-post-links/

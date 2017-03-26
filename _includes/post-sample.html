@@ -3,12 +3,7 @@
 		<h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
 	</header>
 	<footer>
-		{% capture readtime %}{{ post.content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first }}{% endcapture %}
-		<p class="post-meta">
-			{{ post.date | date: "%Y %b %-d" }} &bull;
-			{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read &bull;
-			<a href="{{ post.url | relative_url }}#comments" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">Comments</a>
-		</p>
+		{% include article-header.md article=post %}
 
 		{% if post.image %}
 		<a href="{{ post.url | relative_url }}" class="post-banner" style="background-image: url({{ post.banner | relative_url }}); min-width: 100%; max-height: 200px;overflow-y:hidden;display:block;">

@@ -51,7 +51,15 @@ collections:
         permalink: /:path/
     talk:
         output: true
-        layout: page
+        permalink: /talk/:path
+        url: /talk
+        title: Talks
+    #https://www.martinfowler.com/bliki/WhatIsaBliki.html
+    blikis:
+        output: true
+        permalink: /bliki/:path
+        url: /bliki
+        title: Bliki
  
 defaults:
   -
@@ -66,6 +74,12 @@ defaults:
       type: talk
     values:
       layout: page
+  - 
+    scope:
+      path: ""
+      type: blikis
+    values:
+      layout: post
 
 paginate: 10
 paginate_path: '/blog/page:num/'
