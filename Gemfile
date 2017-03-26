@@ -8,3 +8,8 @@ group :jekyll_plugins do
    gem 'jekyll-feed'
    gem 'jekyll-seo-tag'
 end
+
+
+#To update to the latest github dependencies run: `bundle update`
+#To list current versions: `bundle exec github-pages versions`
+#Check github versions: https://pages.github.com/versions/
