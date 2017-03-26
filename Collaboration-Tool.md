@@ -38,6 +38,7 @@ I'm searching for a tool useful for collaboration.
   * github
   * gitlab
   * gitbucket - self hosted scala solution - https://github.com/gitbucket/gitbucket
+* other tools - http://mashable.com/2013/06/24/markdown-tools
 
 <table class="tg">
   <tr>
@@ -58,4 +59,5 @@ I'm searching for a tool useful for collaboration.
 </table>
 
 # References
-* http://mashable.com/2013/06/24/markdown-tools
+* Other nice extensive analysis - http://moduscreate.com/editing-markdown-for-github/
+* A huge list of markdown tools - http://mashable.com/2013/06/24/markdown-tools . Recommends [HarooPad](http://pad.haroopress.com/)
