@@ -49,7 +49,14 @@ I'm searching for a tool useful for collaboration.
   * gitlab
   * gitbucket - self hosted scala solution - https://github.com/gitbucket/gitbucket
 * other tools - http://mashable.com/2013/06/24/markdown-tools
+* slack https://slack.com/
 
+<style>
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
 <table class="tg">
   <tr>
     <th class="tg-031e"></th>
@@ -65,6 +72,16 @@ I'm searching for a tool useful for collaboration.
     <td class="tg-031e">Google</td>
     <td class="tg-031e">- slow navigation between pages<br></td>
     <td class="tg-031e">- slow transition between pages<br>- history per file<br>- cannot export history outside google<br>- document oriented</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">slack</td>
+    <td class="tg-yw4l">- informal<br>- ergonomic way to add code</td>
+    <td class="tg-yw4l">- category: chat<br>- cannot build-up information since there are several parallel multiple topics<br>- search is broken since you must select first the channel. keep only one channel</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">gitter</td>
+    <td class="tg-yw4l">- ergonomic</td>
+    <td class="tg-yw4l">- category: chat</td>
   </tr>
 </table>
 
