@@ -34,9 +34,10 @@ I'm searching for a tool useful for collaboration.
 * google docs
 * dropbox
 * wiki in git
-  * bitbucket
-  * gitlab
+  * bitbucket - https://www.quora.com/What-are-the-differences-between-BitBucket-and-GitHub
   * github
+  * gitlab
+  * gitbucket - self hosted scala solution - https://github.com/gitbucket/gitbucket
 
 <table class="tg">
   <tr>
