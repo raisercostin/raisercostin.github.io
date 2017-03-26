@@ -10,11 +10,14 @@ I'm searching for a tool useful for collaboration.
 * edit via freemind
 * fallback to edit
 * copy-paste from/to different sources
-  * html from clipboard
-  * html source
+  * [html from clipboard](http://raisercostin.org/markitdown.medusis.com/www)
+  * [html source to markdown](https://www.browserling.com/tools/html-to-markdown)
+  * [bookmarklet html page to markdown via css transformations](http://mrcoles.com/demo/markdown-css/)
+  * [bookmarklets for html pages](http://heckyesmarkdown.com/)
   * freemind
   * wiki
 * view/edit source markdown
+  * https://stackedit.io/editor
 * browse local files in markdown
 * allow includes
 * micro-languages
@@ -23,12 +26,15 @@ I'm searching for a tool useful for collaboration.
   * graphs - 
   * mindmaps
   * math
+* sections/include sections - for example define sections that will be included in a table cell. See the table below.
+* fallback to html
 * export/automatic export in
   * pdf
   * epub
   * standard markdown (besides the original file in any wiki)
-* sections/include sections - for example define sections that will be included in a table cell. See the table below.
-* fallback to html
+* Sync with other systems. Sync means automatic import/export in other formats
+  * bookmarks (chrome, edge, firefox) & pinboard.io & deli.cio.us
+  * freemind
 
 # Candidates
 * google docs
@@ -57,6 +63,19 @@ I'm searching for a tool useful for collaboration.
     <td class="tg-031e">- slow transition between pages<br>- history per file<br>- cannot export history outside google<br>- document oriented</td>
   </tr>
 </table>
+
+# Markdown tools
+
+## Online Editors
+* html source to markdown - https://www.browserling.com/tools/html-to-markdown
+* rich doc copy paste to markdown - http://raisercostin.org/markitdown.medusis.com/www/ (down - http://markitdown.medusis.com/)
+* table editor - http://www.tablesgenerator.com/markdown_tables
+* 2 pane editor - https://stackedit.io/editor
+* https://ozh.github.io/ascii-tables/
+* https://html-online.com/editor/
+* http://johnmacfarlane.net/babelmark2/
+* markdownify html source - http://heckyesmarkdown.com/
+* css to display a html page as markdown - http://mrcoles.com/demo/markdown-css/
 
 # References
 * Other nice extensive analysis - http://moduscreate.com/editing-markdown-for-github/
