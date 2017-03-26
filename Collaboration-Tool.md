@@ -19,7 +19,7 @@ I'm searching for a tool useful for collaboration.
 * allow includes
 * micro-languages
   * code syntax highlight
-  * tables - see http://www.tablesgenerator.com/markdown_tables
+  * tables - see http://www.tablesgenerator.com/markdown_tables , http://stackoverflow.com/questions/19950648/how-to-write-lists-inside-a-markdown-table
   * graphs - 
   * mindmaps
   * math
