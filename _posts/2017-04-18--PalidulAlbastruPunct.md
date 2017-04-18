@@ -16,6 +16,7 @@ image: 2017-04-18--PalidulAlbastruPunct.jpg
 <sub><sup>traducere Costin Grigore (2017)</sup></sub>
 
 Din acest punct de vedere îndepărtat Pământul ar putea părea lipsit de orice interes deosebit.  Dar pentru noi este altfel.  Consideraţi din nou acel punct.  Acela este aici. Aceea este acasă. Aceia suntem noi.  Pe el, toţi cei pe care îi iubiţi, toţi cei pe care îi cunoaşteţi, toţi cei despre care aţi auzit vreodată, toate fiinţele umane ce au existat vreodată, şi-au trăit vieţile.
+{{ more }}
 
 Amestecul bucuriilor și suferințelor noastre, miile de religii încrezătoare, ideologii și doctrine economice, fiecare vânător și culegator, fiecare erou și laș, fiecare creator și distrugător de civilizație, fiecare rege și țăran, fiecare tanar cuplu îndragostit, fiecare mamă și tată, copil plin de speranță, inventator și explorator, fiecare profesor de morală, fiecare politician corupt, fiecare "superstar", fiecare "lider suprem", fiecare sfânt și păcătos din istoria speciei noastre a trăit acolo - pe un fir de praf în suspensie sub o rază de soare.
 
