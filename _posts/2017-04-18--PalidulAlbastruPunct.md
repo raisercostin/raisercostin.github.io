@@ -21,11 +21,11 @@ Pământul este o foarte mică scena într-o vastă arenă cosmică. Gândiți-v
 
 Declamațiile noastre, imaginata auto-importanță, iluzia că avem o anumită poziție privilegiată în Univers, sunt contestate de acest punct de lumină palid.  Planeta noastră este o scanteie singuratica învaluita de marele întuneric cosmic. In crepusculul nostru, în toată această vastitate, nu există nici un indiciu că va veni ajutor din altă parte pentru a ne salva de noi înșine.  Pământul este singura lume cunoscută până în prezent care să zămisleasca viață.  Nu există alt loc, cel puțin în viitorul apropiat, către care specia noastră ar putea migra.  Locuri de vizitat: da.  De stabilit: inca nu. Ne place sau nu, pentru moment, Pământul este scena noastra.
 
-S-a spus că astronomia este o experiență ce induce modestia și construieste caracterul.  Probabil că nu există o demonstraţie mai bună a nebuniei trufiei umane decât această imagine îndepărtată a lumii noastre micuţe.  Pentru mine, ea subliniază responsabilitatea noastră de a fi mai binevoitori unii cu alţii şi de a păstra şi preţui punctul de lumină palidă, singurul cămin pe care l-am ştiut vreodată.
+S-a spus că astronomia este o experiență ce inspira modestie și construieste caracterul.  Probabil că nu există o demonstraţie mai bună a nebuniei trufiei umane decât această imagine îndepărtată a lumii noastre micuţe.  Pentru mine, ea subliniază responsabilitatea noastră de a fi mai binevoitori unii cu alţii şi de a păstra şi preţui punctul de lumină palidă, singurul cămin pe care l-am ştiut vreodată.
 
 
 <div class="container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/4PN5JJDh78I" frameborder="0" allowfullscreen
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/4PN5JJDh78I?index=4&yt:cc=on&hl=ro&version=3" frameborder="0" allowfullscreen
 	    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
@@ -46,8 +46,8 @@ Acest fragment din Palidul Albastru Punct a fost inspirat de o imagine luată, l
 
 - [Un palid punct albastru - Carl Sagan -- editura Herald](https://www.edituraherald.ro/carti/un-palid-punct-albastru-detail)
 - Carl Sagan's Cosmos
-  - 
   - Carl Sagan's: Cosmos Part 1 - The Shores of the Cosmic Ocean
     - [**FARA SUNET** pe youtube](https://www.youtube.com/watch?v=5Z2AnfStRSM)
     - [**CU SUNET** pe dailymotion ](http://www.dailymotion.com/video/x3ibbh1_cosmos-a-personal-voyage-episode-1-carl-sagan-the-shores-of-the-cosmic-ocean_tv)
   - [Carl Sagan's: Cosmos Part 2 - One Voice in the Cosmic Fugue](https://www.youtube.com/watch?v=ftpVA04_IFc)
+  
