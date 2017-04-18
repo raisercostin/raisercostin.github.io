@@ -4,14 +4,14 @@ title: Palidul Albastru Punct - Pale Blue Dot
 Date: 2017-04-18
 published: true
 category: popsci
-categories: ['popularizare', 'stiinta']
-tags: ['romanian', 'popularizare', 'stiinta', 'popularisation', "science"]
+categories: ['popularizare', 'stiinta', 'traducere']
+tags: ['romanian', 'popularizare', 'stiinta', 'popularisation', 'science', 'translation']
 ---
 
 # Palidul Albastrul Punct
 
 <sub><sup>Carl Sagan (1934-1996)</sup></sub>
-<sub><sup>traducere Costin Grigore din (PaleBlueDot)</sup></sub>
+<sub><sup>traducere Costin Grigore (2017)</sup></sub>
 
 Din acest punct de vedere îndepărtat Pământul ar putea părea lipsit de orice interes deosebit.  Dar pentru noi este altfel.  Consideraţi din nou acel punct.  Acela este **aici**. Aceea este **acasă**. Aceia suntem **noi**. Pe el toţi cei pe care îi iubiţi, toţi cei pe care îi cunoaşteţi, toţi cei despre care aţi auzit vreodată, toate fiinţele umane ce au existat vreodată, şi-au trăit vieţile.
 
@@ -41,3 +41,13 @@ Acest fragment din Palidul Albastru Punct a fost inspirat de o imagine luată, l
 - Traducere romana: Costin Grigore
 - Nu am nici o contributie la acest film.
 - S-ar putea fi interesat de https://patrickmn.com/space/
+
+## Recomandari
+
+- [Un palid punct albastru - Carl Sagan -- editura Herald](https://www.edituraherald.ro/carti/un-palid-punct-albastru-detail)
+- Carl Sagan's Cosmos
+  - 
+  - Carl Sagan's: Cosmos Part 1 - The Shores of the Cosmic Ocean
+    - [**FARA SUNET** pe youtube](https://www.youtube.com/watch?v=5Z2AnfStRSM)
+    - [**CU SUNET** pe dailymotion ](http://www.dailymotion.com/video/x3ibbh1_cosmos-a-personal-voyage-episode-1-carl-sagan-the-shores-of-the-cosmic-ocean_tv)
+  - [Carl Sagan's: Cosmos Part 2 - One Voice in the Cosmic Fugue](https://www.youtube.com/watch?v=ftpVA04_IFc)
