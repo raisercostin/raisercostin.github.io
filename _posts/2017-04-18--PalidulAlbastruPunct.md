@@ -6,7 +6,9 @@ published: true
 category: popsci
 categories: ['popularizare', 'stiinta', 'traducere']
 tags: ['romanian', 'popularizare', 'stiinta', 'popularisation', 'science', 'translation']
+image: 2017-04-18--PalidulAlbastruPunct.jpg
 ---
+![Palidul Albastru Punct](http://raisercostin.org/2017-04-18--PalidulAlbastruPunct.jpg)
 
 <sub><sup>Pale Blue Dot - Carl Sagan (1934-1996)</sup></sub>
 <sub><sup>traducere Costin Grigore (2017)</sup></sub>
