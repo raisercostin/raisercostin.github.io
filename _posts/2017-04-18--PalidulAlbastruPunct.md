@@ -1,6 +1,6 @@
 ---
 slug: PalidulAlbastruPunct
-title: Palidul Albastru Punct - Pale Blue Dot
+title: Palidul Albastru Punct
 Date: 2017-04-18
 published: true
 category: popsci
@@ -8,21 +8,18 @@ categories: ['popularizare', 'stiinta', 'traducere']
 tags: ['romanian', 'popularizare', 'stiinta', 'popularisation', 'science', 'translation']
 ---
 
-# Palidul Albastrul Punct
-
-<sub><sup>Carl Sagan (1934-1996)</sup></sub>
+<sub><sup>Pale Blue Dot - Carl Sagan (1934-1996)</sup></sub>
 <sub><sup>traducere Costin Grigore (2017)</sup></sub>
 
-Din acest punct de vedere îndepărtat Pământul ar putea părea lipsit de orice interes deosebit.  Dar pentru noi este altfel.  Consideraţi din nou acel punct.  Acela este **aici**. Aceea este **acasă**. Aceia suntem **noi**. Pe el toţi cei pe care îi iubiţi, toţi cei pe care îi cunoaşteţi, toţi cei despre care aţi auzit vreodată, toate fiinţele umane ce au existat vreodată, şi-au trăit vieţile.
+Din acest punct de vedere îndepărtat Pământul ar putea părea lipsit de orice interes deosebit.  Dar pentru noi este altfel.  Consideraţi din nou acel punct.  Acela este aici. Aceea este acasă. Aceia suntem noi.  Pe el, toţi cei pe care îi iubiţi, toţi cei pe care îi cunoaşteţi, toţi cei despre care aţi auzit vreodată, toate fiinţele umane ce au existat vreodată, şi-au trăit vieţile.
 
-Amestecul bucuriilor și suferințelor noastre, miile de religii încrezătoare, ideologii și doctrine economice, fiecare vânător și culegator, fiecare erou și laș, fiecare creator și distrugător de civilizație, fiecare rege și țăran, fiecare tanar cuplu îndragostit, fiecare mamă și tată, copil plin de speranță, inventator și explorator, fiecare profesor de morală, fiecare politician corupt, fiecare "superstar", fiecare "lider suprem", fiecare sfânt și păcătos din istoria speciei noastre a trăit **acolo** - pe un fir de praf în suspensie sub o rază de soare.
+Amestecul bucuriilor și suferințelor noastre, miile de religii încrezătoare, ideologii și doctrine economice, fiecare vânător și culegator, fiecare erou și laș, fiecare creator și distrugător de civilizație, fiecare rege și țăran, fiecare tanar cuplu îndragostit, fiecare mamă și tată, copil plin de speranță, inventator și explorator, fiecare profesor de morală, fiecare politician corupt, fiecare "superstar", fiecare "lider suprem", fiecare sfânt și păcătos din istoria speciei noastre a trăit acolo - pe un fir de praf în suspensie sub o rază de soare.
 
-Pământul este o foarte mică scena într-o vastă arenă cosmică. Gândiți-vă la râurile de sânge vărsat de către toți acei generali și împărați, pentru ca, în glorie și triumf, ei sa poata deveni stăpânii efemeri a unei fracțiuni dintr-un punct. Gândiți-vă la cruzimile nemărginite abătute de locuitorii unui colț al acestui pixel pe abia diferiţilor locuitori ai vreunui alt colţ, cât de dese neînțelegerile lor, cât de dornici sunt să se omoare unul pe altul, cat de pătimaşă ura lor.
+Pământul este o foarte mică scena într-o vastă arenă cosmică.  Gândiți-vă la râurile de sânge vărsat de către toți acei generali și împărați, pentru ca, în glorie și triumf, ei sa poata deveni stăpânii efemeri a unei fracțiuni dintr-un punct.  Gândiți-vă la cruzimile nemărginite abătute de locuitorii unui colț al acestui pixel pe abia diferiţilor locuitori ai vreunui alt colţ, cât de dese neînțelegerile lor, cât de dornici sunt să se omoare unul pe altul, cat de pătimaşă ura lor.
 
-Declamațiile noastre, imaginata auto-importanță, iluzia că avem o anumită poziție privilegiată în Univers, sunt contestate de acest punct de lumină palid.  Planeta noastră este o scanteie singuratica învaluita de marele întuneric cosmic. In crepusculul nostru, în toată această vastitate, nu există nici un indiciu că va veni ajutor din altă parte pentru a ne salva de noi înșine.  Pământul este singura lume cunoscută până în prezent care să zămisleasca viață.  Nu există alt loc, cel puțin în viitorul apropiat, către care specia noastră ar putea migra.  Locuri de vizitat: da.  De stabilit: inca nu. Ne place sau nu, pentru moment, Pământul este scena noastra.
+Declamațiile noastre, imaginata auto-importanță, iluzia că avem o anumită poziție privilegiată în Univers, sunt contestate de acest punct de lumină palid.  Planeta noastră este o scanteie singuratica învaluita de marele întuneric cosmic.  In crepusculul nostru, în toată această vastitate, nu există nici un indiciu că va veni ajutor din altă parte pentru a ne salva de noi înșine.  Pământul este singura lume cunoscută până în prezent care să zămisleasca viață.  Nu există alt loc, cel puțin în viitorul apropiat, către care specia noastră ar putea migra.  Locuri de vizitat? Da.  De stabilit? Inca nu.  Ne place sau nu, pentru moment, Pământul este scena noastra.
 
-S-a spus că astronomia este o experiență ce inspira modestie și construieste caracterul.  Probabil că nu există o demonstraţie mai bună a nebuniei trufiei umane decât această imagine îndepărtată a lumii noastre micuţe.  Pentru mine, ea subliniază responsabilitatea noastră de a fi mai binevoitori unii cu alţii şi de a păstra şi preţui punctul de lumină palidă, singurul cămin pe care l-am ştiut vreodată.
-
+S-a spus că astronomia este o experiență ce inspira modestie și construieste caracterul.  Probabil că nu există o demonstraţie mai bună a nebuniei trufiei umane decât această imagine îndepărtată a lumii noastre micuţe.  Pentru mine, ea subliniază responsabilitatea noastră de a fi mai binevoitori unii cu alţii şi de a păstra şi preţui palidul albastru punct, singurul cămin pe care l-am ştiut vreodată.
 
 <div class="container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/4PN5JJDh78I?index=4&yt:cc=on&hl=ro&version=3" frameborder="0" allowfullscreen
