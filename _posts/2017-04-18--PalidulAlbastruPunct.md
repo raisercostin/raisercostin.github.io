@@ -7,7 +7,9 @@ category: popsci
 categories: ['popularizare', 'stiinta', 'traducere']
 tags: ['romanian', 'popularizare', 'stiinta', 'popularisation', 'science', 'translation']
 image: 2017-04-18--PalidulAlbastruPunct.jpg
+
 ---
+
 ![Palidul Albastru Punct](http://raisercostin.org/2017-04-18--PalidulAlbastruPunct.jpg)
 
 <sub><sup>Pale Blue Dot - Carl Sagan (1934-1996)</sup></sub>
@@ -29,11 +31,9 @@ S-a spus că astronomia este o experiență ce inspira modestie și construieste
 </div>
 
 ## Note
-
 Acest fragment din Palidul Albastru Punct a fost inspirat de o imagine luată, la sugestia lui Carl Sagan, de Voyager 1 la 14 februarie 1990. Pe măsură ce nava a părăsit vecinătatea planetei noastre pentru periferia sistemului solar, inginerii au intors-o pentru o ultima privire spre planeta mama. Voyager 1 era la aproximativ 6,4 miliarde de kilometri (4 miliarde de mile) și la aproximativ 32 de grade deasupra planului eclipticii, atunci când a captat acest portret al lumii noastre. Prins în centrul razelor de lumină împrăștiate (urmare a captarii imaginii atât de aproape de Soare), Pământul apare ca un punct minuscul de lumină, o urma de doar 0,12 pixeli în dimensiune.
 
 ## Credite
-
 - Muzica: Ludovico Einaudi cu o piesa intitulata, foarte potrivit, „Preludiul Pământului“
 - Colectare clip inițială: Levi Mills
 - Scena Final: Intro-ul de la „Contact“, filmul bazat pe romanul lui Carl Sagan cu același nume
@@ -43,7 +43,7 @@ Acest fragment din Palidul Albastru Punct a fost inspirat de o imagine luată, l
 
 ## Recomandari
 
-- [Un palid punct albastru - Carl Sagan -- editura Herald](https://www.edituraherald.ro/carti/un-palid-punct-albastru-detail)
+- Cartea [Un palid punct albastru - Carl Sagan -- editura Herald](https://www.edituraherald.ro/carti/un-palid-punct-albastru-detail)
 - Carl Sagan's Cosmos
   - Carl Sagan's: Cosmos Part 1 - The Shores of the Cosmic Ocean
     - [**FARA SUNET** pe youtube](https://www.youtube.com/watch?v=5Z2AnfStRSM)
