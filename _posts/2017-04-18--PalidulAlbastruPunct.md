@@ -27,7 +27,7 @@ Declamațiile noastre, imaginata auto-importanță, iluzia că avem o anumită p
 S-a spus că astronomia este o experiență ce inspira modestie și construieste caracterul.  Probabil că nu există o demonstraţie mai bună a nebuniei trufiei umane decât această imagine îndepărtată a lumii noastre micuţe.  Pentru mine, ea subliniază responsabilitatea noastră de a fi mai binevoitori unii cu alţii şi de a păstra şi preţui palidul albastru punct, singurul cămin pe care l-am ştiut vreodată.
 
 <div class="container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/4PN5JJDh78I?version=3&cc_load_policy=1&cc_lang_pref=ro&rel=0" frameborder="0" allowfullscreen
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/4PN5JJDh78I?enablejsapi=1&version=3&cc_load_policy=1&hl=ro&cc_lang_pref=ro&rel=0" frameborder="0" allowfullscreen
 	    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
