@@ -27,6 +27,10 @@ A solution must be along the lines:
 # Resouces
 * http://stackoverflow.com/questions/8254706/scala-as-a-shell-script-jars-on-the-classpath
 * http://stackoverflow.com/questions/18812399/how-to-use-third-party-libraries-with-scala-repl
+* http://stackoverflow.com/questions/6350876/running-a-scala-script-with-external-dependencies
+* http://stackoverflow.com/questions/7600189/how-can-i-get-automatic-dependency-resolution-in-my-scala-scripts
+* https://gist.github.com/sroebuck/1571464
+* https://www.google.com/search?q=how+to+execute+scala+scripts+with+dependent+libraries
 
 # Deprecated
 
