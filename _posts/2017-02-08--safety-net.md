@@ -165,3 +165,8 @@ Fighting your safety net Where needs end and confort starts? Where is the luxury
 
 	There is also strong psychological evidence that people with basic economic security have greater "mental bandwidth" for reasoned and long-term decision making, are more likely to be tolerant and altruistic towards others, and work harder, more productively and more cooperatively.
 	```
+
+## Post References
+
+Here is a list of others that have the same view:
+- http://evonomics.com/universal-basic-income-accelerates-innovation-reducing-fear-failure/
