@@ -169,4 +169,4 @@ Fighting your safety net Where needs end and confort starts? Where is the luxury
 ## Post References
 
 Here is a list of others that have the same view:
-- http://evonomics.com/universal-basic-income-accelerates-innovation-reducing-fear-failure/
+- [evonomics.com/universal-basic-income-accelerates-innovation-reducing-fear-failure](http://evonomics.com/universal-basic-income-accelerates-innovation-reducing-fear-failure/)
