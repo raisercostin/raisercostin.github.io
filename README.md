@@ -62,3 +62,5 @@ My blog
 	- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   - study
     - http://brm.io/jekyll-post-links/
+	
+Meniu: Bliki(bliki) Talks(talk) Resume(resume) Blog(blog)
