@@ -62,14 +62,6 @@ collections:
         title: Bliki
  
 defaults:
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      permalink: /wiki/:path/:basename:output_ext
-      layout: post
   -
     scope:
       path: "" # an empty string here means all files in the project
