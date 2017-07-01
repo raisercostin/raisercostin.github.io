@@ -22,7 +22,7 @@ Except PropSpec they expose several problems that I wasn't warned by internet:
     - two different compared strings are nicely reported only if the failure is a `org.junit.ComparisonFailure` thrown by `org.junit.Assert.assertEquals(String,String)`
 
 ## Solution
-Use junit test runner.
+Use junit test runner. If we consider the standard scala collections tests as "Internet" then they have something to say: [use junit4](https://github.com/scala/scala/blob/2.12.x/test/junit/scala/collection/SeqLikeTest.scala)
 
 ```scala
 package org.raisercostin.jedi
