@@ -13,3 +13,30 @@ Except PropSpec they expose several problems seemingly unnoticed till now:
   - you cannot refer a parent test (like super.test(""))
   - tests cannot be reused and executed independently from multiple test classes
   - is hard to guess the **human style** syntax of freely using matchers.
+  - eclipse issues
+    - cannot navigate to the line that failed the test
+
+## Solution
+Use junit test runner.
+
+```scala
+package org.raisercostin.jedi
+import org.junit.Assert._
+import org.junit.Test
+
+import org.scalatest._
+import org.scalatest.Matchers._
+import org.scalatest.FunSuite
+import org.scalatest.words.ContainWord
+
+//@org.junit.runner.RunWith(classOf[org.scalatest.junit.JUnitRunner])
+class FileLocationTest extends FunSuite {
+  //test("owner attributes") {
+  //  assertNotNull(location.attributes.owner.getOwner())
+  //}
+  @Test
+  override def testParentAncestor() {
+    super.testParentAncestor()
+  }
+}
+```
