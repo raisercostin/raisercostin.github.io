@@ -15,6 +15,7 @@ Except PropSpec they expose several problems seemingly unnoticed till now:
   - is hard to guess the **human style** syntax of freely using matchers.
   - eclipse issues
     - cannot navigate to the line that failed the test
+    - cannot independently run a test inherited by other test
 
 ## Solution
 Use junit test runner.
