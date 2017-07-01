@@ -1,4 +1,5 @@
-This is an instance of [[Emperor's Clothes Syndrome]]
+## Problem
+Scalatest, the well known testing library for scala, is a instance of [[Emperor's Clothes Syndrome]]: is unintuitive and hard to use.
 
 [Multiple test styles](http://www.scalatest.org/user_guide/selecting_a_style) are available using this framework.
   - FunSuite
@@ -9,7 +10,7 @@ This is an instance of [[Emperor's Clothes Syndrome]]
   - FeatureSpec
   - RefSpec
 
-Except PropSpec they expose several problems seemingly unnoticed till now:
+Except PropSpec they expose several problems that I wasn't warned by internet:
   - tests are not functions
   - tests cannot be overridden (annotated with @override) so you lose some
   - you cannot refer a parent test (like super.test(""))
