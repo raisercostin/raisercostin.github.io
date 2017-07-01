@@ -1,3 +1,5 @@
+This is an instance of [[Emperor's Clothes Syndrome]]
+
 [Multiple test styles](http://www.scalatest.org/user_guide/selecting_a_style) are available using this framework.
   - FunSuite
   - FlatSpec
