@@ -19,6 +19,7 @@ Except PropSpec they expose several problems that I wasn't warned by internet:
   - eclipse issues
     - cannot navigate to the line that failed the test
     - cannot independently run a test inherited by other test
+    - two different compared strings are nicely reported only if the failure is a `org.junit.ComparisonFailure` thrown by `org.junit.Assert.assertEquals(String,String)`
 
 ## Solution
 Use junit test runner.
