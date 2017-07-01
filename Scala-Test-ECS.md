@@ -35,13 +35,17 @@ import org.scalatest.FunSuite
 import org.scalatest.words.ContainWord
 
 //@org.junit.runner.RunWith(classOf[org.scalatest.junit.JUnitRunner])
-class FileLocationTest extends FunSuite {
+class FileLocationTest extends FunSuite with SomeParentTest{
   //test("owner attributes") {
   //  assertNotNull(location.attributes.owner.getOwner())
   //}
   @Test
   override def testParentAncestor() {
     super.testParentAncestor()
+  }
+  @Test
+  override def `second test with spaces`() {
+    Assert.assertEquals("a","b")
   }
 }
 ```
