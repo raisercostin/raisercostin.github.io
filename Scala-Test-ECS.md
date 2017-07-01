@@ -1,5 +1,5 @@
 ## Problem
-Scalatest, the well known testing library for scala, is a instance of [[Emperor's Clothes Syndrome]]: is unintuitive and hard to use.
+Scalatest, the well known testing library for scala, is an instance of [[Emperor's Clothes Syndrome]]: is unintuitive, hard to use and lacks proper tools/IDE support(eclipse - I don't know about InteliJ IDEA).
 
 [Multiple test styles](http://www.scalatest.org/user_guide/selecting_a_style) are available using this framework.
   - FunSuite
