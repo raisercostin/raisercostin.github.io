@@ -26,6 +26,9 @@ Use junit test runner. If we consider the standard scala collections tests as "I
 
 ```scala
 package org.raisercostin.jedi
+
+import org.junit.runner.RunWith
+import org.junit.runners.JUnit4
 import org.junit.Assert._
 import org.junit.Test
 
@@ -35,6 +38,7 @@ import org.scalatest.FunSuite
 import org.scalatest.words.ContainWord
 
 //@org.junit.runner.RunWith(classOf[org.scalatest.junit.JUnitRunner])
+@RunWith(classOf[JUnit4])
 class FileLocationTest extends FunSuite with SomeParentTest{
   //test("owner attributes") {
   //  assertNotNull(location.attributes.owner.getOwner())
