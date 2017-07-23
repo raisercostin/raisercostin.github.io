@@ -1,6 +1,8 @@
 Android changed the way you get storage permissions. Here is a summary of the changes:
-
-
+# Conclusions
+## samsung - young - 4.1
+I have /storage.sdcard0 as space
+I have `/storage/extSdCard` for a removable sdcard.
 
 # Notions
 
