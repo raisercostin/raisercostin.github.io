@@ -11,16 +11,29 @@
       - external sd card (might be encrypted)
 ## Root Android Device
 - You need to root the device. Simplest apps both as an apk or windows app.
-  - [KingoRoot - kingoapp.com](https://www.kingoapp.com)
-  - [KingRoot - kingroot.net](http://kingroot.net/) - worked for me. i don't know how safe it is. leaves some widgets on the lock screen.
+  - ![](https://www.kingoapp.com/static/images/kingo-logo.png)[KingoRoot - kingoapp.com](https://www.kingoapp.com)
+  - ![](https://kingroot.net/inc/uploads/2016/08/KingRoot-Logo.png)[KingRoot - kingroot.net](http://kingroot.net/) - worked for me. i don't know how safe it is. leaves some widgets on the lock screen.
 - Comparisons
   - https://forum.xda-developers.com/lg-g2/help/kingroot-vs-kingoroot-list-rooting-t3576632
   - https://missingtricks.net/replace-kingroot-kinguser-with-supersu-superuser-android-guide/
   - http://kingrootapkdownloads.com/kingroot-vs-kingoroot/
+  - https://www.reddit.com/r/androidapps/comments/4eglrp/kingoroot_displaying_ads_in_lockscreen/
+- My Devices
+  - HTC One M9 - https://root-android.kingoapp.com/htc/how-to-root-m9-hima.htm
 
 ### KingoRoot
+- It works with super Su
 - When an app needs root permisions `KingoRoot Super User` app will automatically detect and display a prompt.
 - Kingo Link can be removed. (https://android.stackexchange.com/questions/155956/after-rooting-with-kingo-root-do-i-need-to-leave-kingo-link-on-the-device)
+### KingRoot
+- it works with SuperSu Me?
+
+## Super User Manager
+After you [[root|Android User Patterns#root android device]] you might want to replace the default super user manager that grants root rights to different applications.
+The options are:
+- for KingRoot
+  - Super Su Me Pro - on playstore - https://play.google.com/store/apps/details?id=darkslide.com.supersumepro
+  - Super Su Me - on apk4fun - https://www.apk4fun.com/apk/56552/
 
 ## Restore on Current Device
 - You can restore from SDCard/Dropbox/GoogleDrive (see https://youtu.be/oZEa10WtFng?t=10m31s)
