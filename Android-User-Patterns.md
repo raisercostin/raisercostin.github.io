@@ -18,7 +18,7 @@
   - https://missingtricks.net/replace-kingroot-kinguser-with-supersu-superuser-android-guide/
   - http://kingrootapkdownloads.com/kingroot-vs-kingoroot/
   - https://www.reddit.com/r/androidapps/comments/4eglrp/kingoroot_displaying_ads_in_lockscreen/
-- My Devices
+- My Devices - search for yours here: https://www.kingoapp.com/android-root/devices.htm
   - HTC One M9 - https://root-android.kingoapp.com/htc/how-to-root-m9-hima.htm
 
 ### KingoRoot
