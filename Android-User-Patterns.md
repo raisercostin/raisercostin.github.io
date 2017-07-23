@@ -1,6 +1,6 @@
 # Patterns
 ## Backup Current Device
-- [[RootAndroidDevice|Android User Patterns#RootAndroidDevice]]
+- [[RootAndroidDevice|Android User Patterns#root android device]]
 - Install Titanium Backup Tool (needs root).
 - Backup to SDCard(internal,external)/Dropbox/GoogleDrive all your phone with Titanium Backup Tool (see http://www.titaniumtrack.com/kb/titanium-backup-kb/titanium-backup-user-guide.html)
   - applications (apks: user and system apps)
