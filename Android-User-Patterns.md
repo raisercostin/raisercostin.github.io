@@ -1,5 +1,5 @@
 # Backup Current Device
-- You need to root the device. Simplest app is kingroot.net.
+- You need to root the device. Simplest app is [kingroot.net](http://kingroot.net/) via an apk or windows app.
 - Install Titanium Backup Tool (needs root).
 - Backup to SDCard(internal,external)/Dropbox/GoogleDrive all your phone with Titanium Backup Tool
   - applications (apks: user and system apps)
