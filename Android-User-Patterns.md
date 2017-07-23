@@ -14,6 +14,14 @@
   - all your apps and data
   - apps one by one
 
+## Choose OS
+You have several options:
+- original Android
+  - locked in a specific network (In Romania is illegal to have it locked. you can as for an unlock.)
+  - unlocked - bought directly like that
+- cyanogen - discontinued in 2015ish?
+- [lineageos](https://lineageos.org/) - http://www.androidauthority.com/cyanogenmod-lineageos-654810/ - a different 
+
 # Problems
 1. Cannot use external SdCard on android-4.1.x from Titanium Backup Tool.  
    See [[Android-Storage-Permissions]]
