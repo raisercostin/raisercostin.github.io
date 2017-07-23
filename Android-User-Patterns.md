@@ -51,6 +51,18 @@ You have several options:
 - cyanogen - discontinued in 2015ish?
 - [lineageos](https://lineageos.org/) - http://www.androidauthority.com/cyanogenmod-lineageos-654810/ - a different 
 
+## Low Level Shell To Android
+```
+adb shell
+su
+#list full details
+ls -l /
+#change owner: root, system, ...
+chown groupId.userId /system/*
+#change rights
+chmod 777 /system/*
+```
+
 # Problems
 1. Cannot use external SdCard on android-4.1.x from Titanium Backup Tool.  
    See [[Android-Storage-Permissions]]
