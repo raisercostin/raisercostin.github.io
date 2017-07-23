@@ -11,7 +11,7 @@
       - external sd card (might be encrypted)
 ## Root Android Device
 - You need to root the device. Simplest apps both as an apk or windows app.
-  - ![](https://www.kingoapp.com/static/images/kingo-logo.png)[KingoRoot - kingoapp.com](https://www.kingoapp.com)
+  - ![](https://www.kingoapp.com/static/images/favicon.ico)[KingoRoot - kingoapp.com](https://www.kingoapp.com)
   - ![](https://kingroot.net/inc/uploads/2016/08/KingRoot-Logo.png)[KingRoot - kingroot.net](http://kingroot.net/) - worked for me. i don't know how safe it is. leaves some widgets on the lock screen.
 - Comparisons
   - https://forum.xda-developers.com/lg-g2/help/kingroot-vs-kingoroot-list-rooting-t3576632
