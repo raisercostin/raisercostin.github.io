@@ -1,6 +1,8 @@
 # Patterns
 ## Backup Current Device
-- You need to root the device. Simplest app is [kingroot.net](http://kingroot.net/) via an apk or windows app.
+- You need to root the device. Simplest apps both as an apk or windows app.
+  - [KingoROOT - kingoapp.com](https://www.kingoapp.com)
+  - [KingRoot - kingroot.net](http://kingroot.net/) - worked for me. i don't know how safe it is. leaves some widgets on the lock screen.
 - Install Titanium Backup Tool (needs root).
 - Backup to SDCard(internal,external)/Dropbox/GoogleDrive all your phone with Titanium Backup Tool (see http://www.titaniumtrack.com/kb/titanium-backup-kb/titanium-backup-user-guide.html)
   - applications (apks: user and system apps)
