@@ -19,7 +19,8 @@
   - http://kingrootapkdownloads.com/kingroot-vs-kingoroot/
 
 ### KingoRoot
-When an app needs root permisions `KingoRoot Super User` app will automatically detect and display a prompt.
+- When an app needs root permisions `KingoRoot Super User` app will automatically detect and display a prompt.
+- Kingo Link can be removed. (https://android.stackexchange.com/questions/155956/after-rooting-with-kingo-root-do-i-need-to-leave-kingo-link-on-the-device)
 
 ## Restore on Current Device
 - You can restore from SDCard/Dropbox/GoogleDrive (see https://youtu.be/oZEa10WtFng?t=10m31s)
