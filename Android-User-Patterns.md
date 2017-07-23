@@ -11,12 +11,15 @@
       - external sd card (might be encrypted)
 ## Root Android Device
 - You need to root the device. Simplest apps both as an apk or windows app.
-  - [KingoROOT - kingoapp.com](https://www.kingoapp.com)
+  - [KingoRoot - kingoapp.com](https://www.kingoapp.com)
   - [KingRoot - kingroot.net](http://kingroot.net/) - worked for me. i don't know how safe it is. leaves some widgets on the lock screen.
 - Comparisons
   - https://forum.xda-developers.com/lg-g2/help/kingroot-vs-kingoroot-list-rooting-t3576632
   - https://missingtricks.net/replace-kingroot-kinguser-with-supersu-superuser-android-guide/
   - http://kingrootapkdownloads.com/kingroot-vs-kingoroot/
+
+### KingoRoot
+When an app needs root permisions `KingoRoot Super User` app will automatically detect and display a prompt.
 
 ## Restore on Current Device
 - You can restore from SDCard/Dropbox/GoogleDrive (see https://youtu.be/oZEa10WtFng?t=10m31s)
