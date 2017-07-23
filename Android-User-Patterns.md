@@ -15,5 +15,6 @@
   - apps one by one
 
 # Problems
-## Cannot use external SdCard on android-4.1.x from Titanium Backup Tool
+1. Cannot use external SdCard on android-4.1.x from Titanium Backup Tool.  
+   See [[Android-Storage-Permissions]]
 
