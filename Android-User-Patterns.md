@@ -61,6 +61,7 @@ ls -l /
 chown groupId.userId /system/*
 #change rights
 chmod 777 /system/*
+mount -o rw,remount -t rootfs rootfs /system
 ```
 
 # Problems
