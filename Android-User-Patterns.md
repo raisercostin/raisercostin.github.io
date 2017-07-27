@@ -37,7 +37,7 @@
   - Samsung Galaxy S - I9000 Android 2.3.6
   - Samsung Galaxy Gio - [GT-S5660 - Android 2.3.3](http://www.gsmarena.com/samsung_galaxy_gio_s5660-3741.php)
   - Samsung Galaxy Young - [GT-S6310 Android 4.1.2](http://www.gsmarena.com/samsung_galaxy_young_s6310-5280.php)
-
+- For my i9000 rooting worked with kingoroot only. After that `adb shell` then `su` worked perfectly.
 ### KingoRoot
 - It works with super Su
 - When an app needs root permisions `KingoRoot Super User` app will automatically detect and display a prompt.
@@ -123,9 +123,11 @@ su
 ls -l /
 #change owner: root, system, ...
 chown groupId.userId /system/*
+
+#allow to change rights on a read only filesystem: After error: Unable to chmod /system/app/AccountAndSyncSettings.apk: Read-only file system
+mount -o rw,remount -t rootfs rootfs /system
 #change rights
 chmod 777 /system/*
-mount -o rw,remount -t rootfs rootfs /system
 ```
 
 # Problems
