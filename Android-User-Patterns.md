@@ -112,6 +112,9 @@ You have several options:
 - cyanogen - discontinued in 2015ish?
 - [lineageos](https://lineageos.org/) - http://www.androidauthority.com/cyanogenmod-lineageos-654810/ - a different 
 
+## Android Alternative Marketplaces
+- download apks directly - http://www.apkmirror.com/apk/clockworkmod/rom-manager/rom-manager-5-5-3-7-2-release/rom-manager-5-5-3-7-android-apk-download/download/
+
 ## Low Level Shell To Android
 ```
 adb shell
