@@ -56,8 +56,9 @@ Android OS has different partitioning setups. Among them you should find:
     - default
       - Android System Recovery (3e) - on a stock [Samsung Galaxy S I9000](http://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php)
       - CWM-based Recovery v5.0.2.6 - on a stock [Samsung-GT-S5660--Gio](http://www.gsmarena.com/samsung_galaxy_gio_s5660-3741.php)
-    - custom
-      - ClockWorkMod (CWM)
+    - custom (If you install the [Rom Manager](https://play.google.com/store/apps/details?id=com.koushikdutta.rommanager&hl=en) this one will replace your current recovery partition.
+      - ClockWorkMod (CWM) - http://www.clockworkmod.com/
       - TWRP
+
 ## Resources
 - https://forum.xda-developers.com/showthread.php?t=2655871
