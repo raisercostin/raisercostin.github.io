@@ -11,8 +11,20 @@
     - external
       - internal sd card (emulated)
       - external sd card (might be encrypted)
+
 ## Root Android Device
-- You need to root the device. Simplest apps both as an apk or windows app.
+### Procedure
+1. With a new phone (samsung gio in my case)
+2. [Download](http://kingroot.net/) and/or Copy from sdcard the kingroot.apk.
+3. Settings:
+   - Unknown sources: checked. Allow installation of non-Market applications.
+   - USB debugging: checked. Debug mode when USB is connected (if root from external OS: windows/osx/linux).
+4. Add WiFi (kingroot require network connectivity)
+5. Run kingroot app.
+6. Rooted!!!!
+
+### Notes 
+- Simplest apps both as an apk or windows app.
   - ![](https://www.kingoapp.com/static/images/favicon.ico)[KingoRoot - kingoapp.com](https://www.kingoapp.com)
   - ![](https://kingroot.net/inc/uploads/2016/08/KingRoot-Logo.png)[KingRoot - kingroot.net](http://kingroot.net/) - worked for me. i don't know how safe it is. leaves some widgets on the lock screen.
 - Comparisons
