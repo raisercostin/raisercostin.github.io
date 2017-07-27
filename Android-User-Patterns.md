@@ -142,3 +142,5 @@ chmod 777 /system/*
    su: not found
    ```
    A: The device is not rooted.
+3. I get the message "Applicattion stopped unexpectedly. Please try again. Force close" for a lot of applications.
+   A: The permissions on your `/data` partition are not ok. Or maybe something else.
