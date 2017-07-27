@@ -39,6 +39,15 @@ The emulated directories came up after the introduction of multiuser API in Andr
 | Nougat[16]                            | 7.0–7.1.2      | August 22, 2016      | 24–25     | Supported                        | 7.1 - Manual storage manager – identifies files and apps using storage                                                                                                                                                                                                                                                                                          |
 | O                                     | 8.0            | TBA                  | 26        | Beta                             |                                                                                                                                                                                                                                                                                                                                                                 |
 
+# Partitions
+Android OS has different partitioning setups. Among them you should find:
+/system
+/data
+/cache
+/sdcard
+/sd-ext
+
+
 # Resources
 - https://stackoverflow.com/documentation/android/150/storing-files-in-internal-external-storage#t=201707231208090317575
 - https://stackoverflow.com/questions/25085955/android-storage-locations/38813578#38813578
