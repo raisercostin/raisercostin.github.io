@@ -2,6 +2,8 @@
 ## Backup Current Device
 - [[RootAndroidDevice|Android User Patterns#root android device]]
 - Install Titanium Backup Tool (needs root).
+- Configure it with:
+  - backup external SD Data as well (some apps save their data there) - Preferences > Backup app external data > Enabled (Always).
 - Backup to SDCard(internal,external)/Dropbox/GoogleDrive all your phone with Titanium Backup Tool (see http://www.titaniumtrack.com/kb/titanium-backup-kb/titanium-backup-user-guide.html)
   - applications (apks: user and system apps)
   - app data
@@ -42,6 +44,29 @@ The options are:
 - You can restore from SDCard/Dropbox/GoogleDrive (see https://youtu.be/oZEa10WtFng?t=10m31s)
   - all your apps and data
   - apps one by one
+
+## Fix Permissions
+On some Samsungs the CWM-based Recovery has the option to fix permissions. See https://forum.xda-developers.com/galaxy-s2/help/fix-permissions-t1251296 .
+My Samsung-GT-S5660--Gio haas the `CWM-based Recovery v5.0.2.6`
+
+## Recovery Tools
+Enable them by `power off` > `home`+`power on` (Samsung-GT-S5660--Gio).
+Among options:
+- apply update from sdcard
+- wipe data/factory reset
+- wipe cache partition
+- install zip from sdcard
+- backup and restore
+- mounts and storage
+- advanced
+  - reboot recovery
+  - wipe Dalvik cache
+  - wipe battery status
+  - report error
+  - key test
+  - show log
+  - partition SD Card
+  - fix permissions
 
 ## Recover Bootloader
 If you managed to [[Soft Brick]] your android device you still might have some options:
