@@ -124,7 +124,7 @@ ls -l /
 #change owner: root, system, ...
 chown groupId.userId /system/*
 
-# !!! If you do this at reboot the device is blocked in a permanent booting
+# !!! If you do this at reboot the device is blocked in a [[Boot Loop]]
 #allow to change rights on a read only filesystem: After error: Unable to chmod /system/app/AccountAndSyncSettings.apk: Read-only file system
 mount -o rw,remount -t rootfs rootfs /system
 #change rights
