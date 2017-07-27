@@ -135,4 +135,10 @@ chmod 777 /system/*
 # Problems
 1. Cannot use external SdCard on android-4.1.x from Titanium Backup Tool.  
    See [[Android-Storage-Permissions]]
-
+2. Cannot run `su` through `adb shell`
+   ```
+   d:\personal\work\galaxyS-GT-I9000-xwjw1>adb shell
+   $ su
+   su: not found
+   ```
+   A: The device is not rooted.
