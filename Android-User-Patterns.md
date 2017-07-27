@@ -43,6 +43,30 @@ The options are:
   - all your apps and data
   - apps one by one
 
+## Recover Bootloader
+If you managed to [[Soft Brick]] your android device you still might have some options:
+- Odin
+- Heimdall-1.4.0
+- Heimdall-Gui-1.4.0 (harder to describe what to put where)
+
+Deprecated options:
+- heimdall-one-click
+
+The process go as the following:
+1. You need some drivers that will now to connect to your device
+2. Heimdall should detect the serial port when you plug your android  
+   `heimdall detect`
+3. Find out the name of the partitions:
+   `heimdall print-pit  > <myPartitions>.txt`
+4. You run a command to transfer various files to your device like this:  
+   `heimdall flash --IBL+PBL boot.bin --SBL sbl.bin --SBL2 Sbl.bin --PARAM param.lfs --KERNEL zImage --FACTORYFS factoryfs.rfs --CACHE cache.rfs --MODEM modem.bin --verbose`  
+   The parameters are the name of the partitions and various files that you found online for your phone.
+
+Other useful things:
+- Check partitions from `.pit` files:
+  `heimdall print-pit --file s1_odin_20100512.pit`
+- 
+
 ## Choose OS
 You have several options:
 - original Android
