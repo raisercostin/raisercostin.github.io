@@ -54,7 +54,9 @@ Android OS has different partitioning setups. Among them you should find:
 - /recovery - is the application that helps with the recovery of the android.
   Recovery apps are
     - default
-      - Android System Recovery (3e) - on a stock [Samsung Galaxy S I9000](http://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php)
+      - Android System Recovery (3e)
+        - on a stock [Samsung Galaxy S I9000](http://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php)
+        - on a stock [Samsung Galaxy Young - GT-S6310 Android 4.1.2]
       - CWM-based Recovery v5.0.2.6 - on a stock [Samsung-GT-S5660--Gio](http://www.gsmarena.com/samsung_galaxy_gio_s5660-3741.php)
     - custom (If you install the [Rom Manager](https://play.google.com/store/apps/details?id=com.koushikdutta.rommanager&hl=en) this one will replace your current recovery partition.
       - ClockWorkMod (CWM) - http://www.clockworkmod.com/
