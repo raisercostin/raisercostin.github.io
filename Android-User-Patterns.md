@@ -34,9 +34,9 @@
   - https://www.reddit.com/r/androidapps/comments/4eglrp/kingoroot_displaying_ads_in_lockscreen/
 - My Devices - search for yours here: https://www.kingoapp.com/android-root/devices.htm
   - HTC One M9 - https://root-android.kingoapp.com/htc/how-to-root-m9-hima.htm
-  - Samsung I9000 Android 2.3.6
-  - Samsung S560 Android 2.3.3
-  - Samsung GT-S6310 Android 4.1.2
+  - Samsung Galaxy S - I9000 Android 2.3.6
+  - Samsung Galaxy Gio - [GT-S5660 - Android 2.3.3](http://www.gsmarena.com/samsung_galaxy_gio_s5660-3741.php)
+  - Samsung Galaxy Young - [GT-S6310 Android 4.1.2](http://www.gsmarena.com/samsung_galaxy_young_s6310-5280.php)
 
 ### KingoRoot
 - It works with super Su
