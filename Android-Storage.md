@@ -39,16 +39,25 @@ The emulated directories came up after the introduction of multiuser API in Andr
 | Nougat[16]                            | 7.0–7.1.2      | August 22, 2016      | 24–25     | Supported                        | 7.1 - Manual storage manager – identifies files and apps using storage                                                                                                                                                                                                                                                                                          |
 | O                                     | 8.0            | TBA                  | 26        | Beta                             |                                                                                                                                                                                                                                                                                                                                                                 |
 
-# Partitions
-Android OS has different partitioning setups. Among them you should find:
-/system
-/data
-/cache
-/sdcard
-/sd-ext
-
-
-# Resources
+## Resources
 - https://stackoverflow.com/documentation/android/150/storing-files-in-internal-external-storage#t=201707231208090317575
 - https://stackoverflow.com/questions/25085955/android-storage-locations/38813578#38813578
 - http://www.tablesgenerator.com/markdown_tables
+
+# Partitions
+Android OS has different partitioning setups. Among them you should find:
+- /system
+- /data
+- /cache
+- /sdcard
+- /sd-ext
+- /recovery - is the application that helps with the recovery of the android.
+  Recovery apps are
+    - default
+      - Android System Recovery (3e) - on a stock [Samsung Galaxy S I9000](http://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php)
+      - CWM-based Recovery v5.0.2.6 - on a stock [Samsung-GT-S5660--Gio](http://www.gsmarena.com/samsung_galaxy_gio_s5660-3741.php)
+    - custom
+      - ClockWorkMod (CWM)
+      - TWRP
+## Resources
+- https://forum.xda-developers.com/showthread.php?t=2655871
