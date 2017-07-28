@@ -150,6 +150,11 @@ chmod 777 /system/*
 
 # Device Specific
 ## Samsung Galaxy S I9000
+1. Write recovery image
 In this device the recovery image is the same as the kernel one.
 If you want to replace the Recovery console you need to:  
 `heimdall flash --KERNEL philz_touch_6.07.9-galaxysmtd\boot.img`
+2.  Fix for recovery bootloop problem
+- https://forum.xda-developers.com/showpost.php?p=24831012&postcount=1330
+3. How to brick it
+`heimdall flash --IBL+PBL Boot_loader\partition.bin` :(
