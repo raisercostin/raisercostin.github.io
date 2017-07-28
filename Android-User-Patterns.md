@@ -147,3 +147,9 @@ chmod 777 /system/*
 4. When I run `heimdall print-pit` I get the error "ERROR: Failed to access device. libusb error: -12"
    A: Use zdiag to replace the samsung/GadgetSerial drivers with libusb0 (v1.2.5.0 in my case)
    Cause: You have some drivers installed that conflicts with heimdel. Probably you installed them for Odin or where installed by Samsung Kies ... etc.
+
+# Device Specific
+## Samsung Galaxy S I9000
+In this device the recovery image is the same as the kernel one.
+If you want to replace the Recovery console you need to:  
+`heimdall flash --KERNEL philz_touch_6.07.9-galaxysmtd\boot.img`
