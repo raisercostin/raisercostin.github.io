@@ -1,4 +1,4 @@
-# Best Practices
+# Good Practices
 ## Automatic Push to Private Storage
 Any good solution should have the following steps:
 1. Read data as soon as possible from device
