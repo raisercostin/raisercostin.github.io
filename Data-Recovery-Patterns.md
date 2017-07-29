@@ -1,5 +1,10 @@
 
 # Software
+## 4cardrecovery
+Before you consider whether you should format this RAW memory card to restore its normal file system, I hope you can firstly seek a powerful RAW memory card data recovery tool called 4Card Recovery to rescue all your card files back.
+- http://www.4cardrecovery.com/howto/android-phone-external-sd-card-icon-is-missing-in-windows.html
+- http://www.4cardrecovery.com/howto/raw-memory-card-file-recovery.html
+
 ## Puran - free
 - http://www.puransoftware.com/File-Recovery-Download.html
 
