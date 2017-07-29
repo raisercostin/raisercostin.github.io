@@ -1,3 +1,8 @@
+# Patterns
+
+## Raw copy of entire sdcard
+- http://hddguru.com/software/HDD-Raw-Copy-Tool/
+
 
 # Software
 ## 4cardrecovery
