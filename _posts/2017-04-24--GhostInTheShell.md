@@ -9,8 +9,7 @@ tags: ['science', 'fiction']
 image: 2017-04-24--GhostInTheShell.png
 
 ---
-
-![Ghost In The Shell Movies/Anime Universe](2017-04-24--GhostInTheShell.png)
+![Ghost In The Shell Movies/Anime Universe](http://raisercostin.org/2017-04-24--GhostInTheShell.png)
 
 Ghost In The Shell
     all
