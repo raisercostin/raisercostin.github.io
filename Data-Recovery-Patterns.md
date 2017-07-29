@@ -3,6 +3,8 @@
 ## Raw copy of entire sdcard
 - http://hddguru.com/software/HDD-Raw-Copy-Tool/
 
+# Quircks
+- reading partitions via backdoor - http://www.chrysocome.net/dd-backdoor: `c:\apps\sysinternals\diskext.exe`
 
 # Software
 ## 4cardrecovery
