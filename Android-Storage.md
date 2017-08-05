@@ -6,6 +6,9 @@ I have `/storage/extSdCard` for a removable sdcard.
 
 # Notions
 Titanium Backup classifies them into:
+- System ROM - (100MB - 3GB)
+- Internal + Media (100MB - 9G)
+- Ext. SD card 
 - Filesystem Storage (`/`) - For all ANdroid versions. Android 4.4+ may restrict access to some storage locations.
 - DocumentProvider Storage - Requires Android 5.0+ and a suitable DocumentProvider. Pick the location you want to give TB access to, and then create a subdirectory for your backups.
 - Filesystem Storage - Ext. SD card (`/mnt/extSdCard`) - For all Android versions. Android 4.4+ may restrict access to some storage locations.
