@@ -5,6 +5,11 @@ I have /storage.sdcard0 as space
 I have `/storage/extSdCard` for a removable sdcard.
 
 # Notions
+Titanium Backup classifies them into:
+- Filesystem Storage (`/`) - For all ANdroid versions. Android 4.4+ may restrict access to some storage locations.
+- DocumentProvider Storage - Requires Android 5.0+ and a suitable DocumentProvider. Pick the location you want to give TB access to, and then create a subdirectory for your backups.
+- Filesystem Storage - Ext. SD card (`/mnt/extSdCard`) - For all Android versions. Android 4.4+ may restrict access to some storage locations.
+- Filesystem Storage - Media (`/storage/emulated/legacy`) - For all Android versions. Android 4.4+ may restrict access to some storage locations.
 
 ## Internal/External - Removable/NonRemovable
 - **Internal Storage** - By default, files saved to the internal storage are private to your application and other applications cannot access them (nor can the user). Usually: `/data/data/your.application.package.appname/someDirectory/`. This could be accessed via AndroidStudio or if the devices is rooted.
