@@ -1,8 +1,12 @@
 Android changed the way you get storage permissions. Here is a summary of the changes:
 
 # Issues
-On 5.0.1 some apps still use `WRITE_EXTERNAL_STORAGE`(gid `sdcard_rw`) and not `WRITE_MEDIA_STORAGE`(gid `media_rw`) permissions (stored in `/etc/system/platform.xml`). See here how to fix if you have a [[rooted phone|rooting]].
-- http://www.androidauthority.com/galaxy-s4-gpe-android-4-3-sd-card-fix-254960/
+## Cannot Write to External SD Card
+1. For 5.0+ use the Storage Provider and then select sd card.
+  - https://www.youtube.com/watch?v=GATqU1_xzqA
+2. For 4.4+ try to give acces to media via WRITE_EXTERNAL_STORAGE:
+  On 5.0.1 some apps still use `WRITE_EXTERNAL_STORAGE`(gid `sdcard_rw`) and not `WRITE_MEDIA_STORAGE`(gid `media_rw`) permissions (stored in `/etc/system/platform.xml`). See here how to fix if you have a [[rooted phone|rooting]].
+  - http://www.androidauthority.com/galaxy-s4-gpe-android-4-3-sd-card-fix-254960/
 
 # Conclusions
 ## samsung - young - 4.1
