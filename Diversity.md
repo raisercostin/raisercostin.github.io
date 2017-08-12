@@ -48,6 +48,7 @@ MARTINFOWLER.COM
 
 # Resources
 - https://martinfowler.com/bliki/DiversityMediocrityIllusion.html
+- http://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320
 - google fired an employee on discrimination on women.
   - https://www.vice.com/ro/article/d33gnq/inginerul-anti-diversitate-de-la-google-a-fost-concediat?utm_source=vicefbrom
 - http://www.nydailynews.com/amp/opinion/google-wrong-article-1.3399750
