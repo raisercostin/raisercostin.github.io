@@ -50,3 +50,4 @@ MARTINFOWLER.COM
 - https://martinfowler.com/bliki/DiversityMediocrityIllusion.html
 - google fired an employee on discrimination on women.
   - https://www.vice.com/ro/article/d33gnq/inginerul-anti-diversitate-de-la-google-a-fost-concediat?utm_source=vicefbrom
+- http://www.nydailynews.com/amp/opinion/google-wrong-article-1.3399750
