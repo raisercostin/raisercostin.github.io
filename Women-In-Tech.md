@@ -53,3 +53,4 @@ MARTINFOWLER.COM
 - google fired an employee on discrimination on women.
   - https://www.vice.com/ro/article/d33gnq/inginerul-anti-diversitate-de-la-google-a-fost-concediat?utm_source=vicefbrom
 - http://www.nydailynews.com/amp/opinion/google-wrong-article-1.3399750
+- stereotypes when selecting toys for children - https://www.facebook.com/bbcnews/videos/10155359823135659
