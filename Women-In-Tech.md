@@ -54,3 +54,4 @@ MARTINFOWLER.COM
   - https://www.vice.com/ro/article/d33gnq/inginerul-anti-diversitate-de-la-google-a-fost-concediat?utm_source=vicefbrom
 - http://www.nydailynews.com/amp/opinion/google-wrong-article-1.3399750
 - stereotypes when selecting toys for children - https://www.facebook.com/bbcnews/videos/10155359823135659
+- preconceptii - judging a man by a group https://www.facebook.com/NowThisNews/videos/1548260861930699/
