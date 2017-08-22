@@ -21,7 +21,6 @@ Lista pistelor false - nu neaparat sarlatanie dar almost
   - arta ca investitie
 - pseudostiinte
 - parenting
-  - 
 - ghicit
   - astrologie
   - chiromantie - in palma
