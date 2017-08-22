@@ -2,6 +2,7 @@ Articolul are si o varianta in [[engleza|Scammers everywhere]]
 
 Lista sarlataniilor
 - anecdotice
+  - economie
   - legate de psihic
     - psihiatrie
     - psihologie
