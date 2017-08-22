@@ -3,14 +3,33 @@ Articolul are si o varianta in [[engleza|Scammers everywhere]]
 Lista pistelor false - nu neaparat sarlatanie dar almost
 - leacuri naturiste - cu efecte adverse necontrolabile
 
-Lista sarlataniilor
+# Target
+- cu priza la nevoiasi (saraci, oameni cu probleme)
 - cu priza la `telectuali
-  - suplimente alimentare
-    - homeopate
+
+# Sarlatanii
+- jocuri - jocuri in care sansele de castig nu sunt egale sau meritocratice sau, alta definitie, in care o buna parte din miza nu se redistribuie jucatorilor
+  - loterie
+  - jocul impotriva bancii (contra resurse infinite)
+- economice
+  - jocuri piramidale
+  - bule
+     - imobiliare
+     - tulips/lalele
+  - arta ca investitie 
+- arta
+  - arta ca investitie
 - pseudostiinte
-  - medicina alternativa
-    - homeopatie
-    - acupunctura
+- parenting
+  - 
+- ghicit
+  - astrologie
+  - chiromantie - in palma
+  - in orice: bobi, sange, ochi, lob ureche, 
+- medicina alternativa
+  - homeopatie
+  - acupunctura
+  - suplimente alimentare
 - anecdotice
   - economie
   - legate de psihic
@@ -21,6 +40,9 @@ Lista sarlataniilor
 # Sarlatanii
 - medici care ofera si leacuri homeopate
 - medici care ofera ??? pentru chestii grave
+- ghicitori
+
+# Demistificare
 
 # Resurse
 - psihiatrie - http://relatii.net/2017/04/25/studiul-care-socat-lumea-psihiatriei-experimentul-rosenhan/
