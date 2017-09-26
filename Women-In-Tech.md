@@ -55,3 +55,4 @@ MARTINFOWLER.COM
 - http://www.nydailynews.com/amp/opinion/google-wrong-article-1.3399750
 - stereotypes when selecting toys for children - https://www.facebook.com/bbcnews/videos/10155359823135659
 - preconceptii - judging a man by a group https://www.facebook.com/NowThisNews/videos/1548260861930699/
+- https://www.economist.com/news/international/21726276-last-week-newspaper-said-alphabets-boss-should-write-detailed-ringing-rebuttal
