@@ -1,3 +1,7 @@
+# Skills and Work
+- https://80000hours.org/2016/03/which-skills-make-you-most-employable/
+
+# Life principles?
 - http://thepowerofideas.ideapod.com/10-brutal-truths-life-will-help-get-shit-together/
   - Without goals, life is pointless
   - What other people think about you really doesn’t matter
