@@ -1,0 +1,1 @@
+- http://thepowerofideas.ideapod.com/10-brutal-truths-life-will-help-get-shit-together/
