@@ -1,5 +1,7 @@
 
 # Resources
+- mind
+  - virtual world - http://ideas.ted.com/why-humans-run-the-world/
 - intro - https://dzone.com/articles/demystifying-ai-machine-learning-and-deep-learning
 - neural network zoo - http://www.asimovinstitute.org/neural-network-zoo/
 - regulations for self driving cars - https://www.bmvi.de/SharedDocs/EN/Documents/G/ethic-commission-report.pdf?__blob=publicationFile
