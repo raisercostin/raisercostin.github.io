@@ -19,3 +19,6 @@
 
 # Resources
 - https://en.wikipedia.org/wiki/Ethereum
+- https://www.google.com/search?q=ethereum+scale+problems
+- https://medium.com/@FEhrsam/scaling-ethereum-to-billions-of-users-f37d9f487db1
+- https://www.reddit.com/r/ethtrader/comments/6ezbab/is_ethereum_at_risk_for_having_a_scaling_problem/
