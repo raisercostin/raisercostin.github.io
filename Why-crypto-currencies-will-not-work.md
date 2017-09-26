@@ -1,14 +1,14 @@
 # Why they will not work:
 1. Technical
-  - scalability - as the system grows is harder and harder to manage transactions
-  - splitting the network - working offline
-    - one bad actor (China) might decide to split the network and to create a parallel transaction history (ledger)
+   - scalability - as the system grows is harder and harder to manage transactions
+   - splitting the network - working offline
+     - one bad actor (China) might decide to split the network and to create a parallel transaction history (ledger)
 2. Practical
-  - The Bourse where people open accounts to play is periodically robbed since money have no trace. Happened in Japan.
-  - Big players play game and the currency is highly volatile.
-  - The mining already discovered around 80% of total bitcoins in 2017.
+   - The Bourse where people open accounts to play is periodically robbed since money have no trace. Happened in Japan.
+   - Big players play game and the currency is highly volatile.
+   - The mining already discovered around 80% of total bitcoins in 2017.
 3. Others
-  - Moral problems - you hide things in the name of [[privacy|Why privacy is bad]]
+   - Moral problems - you hide things in the name of [[privacy|Why privacy is bad]]
 
 # Concerns
 - Not clear what are full implications of capped size: deflation among them.
