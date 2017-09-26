@@ -1,3 +1,6 @@
+# Discussions
+- https://www.fiibarbat.ro/efectul-pervers-discutii/
+
 # Skills and Work
 - https://80000hours.org/2016/03/which-skills-make-you-most-employable/
 
