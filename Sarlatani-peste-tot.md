@@ -1,10 +1,11 @@
 Articolul are si o varianta in [[engleza|Scammers everywhere]]
 
 # Organizare
-Sunt multe 
 
 - Mode
-  Pentru care sunt adevarate frazele: "toti fraierii au acum"
+
+  Pentru care sunt adevarate frazele: "toti fraierii au acum". Activitati cu valoare temporara (de fapt fara), pentru ca depind de componenta timp.
+
   - Supermaket
     - Blitz
   - Jocuri
