@@ -1,5 +1,20 @@
 Articolul are si o varianta in [[engleza|Scammers everywhere]]
 
+# Organizare
+Sunt multe 
+
+- Mode
+  Pentru care sunt adevarate frazele: "toti fraierii au acum"
+  - Supermaket
+    - Blitz
+  - Jocuri
+    - bean bozdle(2017-10)
+    - kendama (2016-12)
+    - spinner (2017-05)
+    - hopa mitica (2017-10)
+  - Bratara cu charmuri(Charms)
+    - Pandora
+
 Lista pistelor false - nu neaparat sarlatanie dar almost
 - leacuri naturiste - cu efecte adverse necontrolabile
 
