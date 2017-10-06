@@ -14,3 +14,6 @@ We should have a suite of concepts/languages that go to higher and higher abstra
 
 1. Human high level concepts - This level is concerned with content rather than form. The content is a different dimension than the previous ones. 
 Usually a hierarchy, according to the top down approach. You define high level things and go into details slowly. The parent decides how the children are influenced via context.
+
+# Others - to sort out
+- semantic html - https://internetingishard.com/html-and-css/semantic-html/
