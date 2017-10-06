@@ -10,3 +10,5 @@
 - https://www.theverge.com/2017/8/11/16137388/dota-2-dendi-open-ai-elon-musk
 - https://interestingengineering.com/17-everyday-applications-of-artificial-intelligence-in-2017
 - http://government-2020.dupress.com/driver/artificial-intelligence/
+- jobs in the future AI world
+  - https://80000hours.org/2016/03/which-skills-make-you-most-employable/
