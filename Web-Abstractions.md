@@ -1,6 +1,6 @@
 Writing code in `css` for UI is like using `assembler` to code business software. You are forced to think in an environment with many low level concepts: pixels, borders, flow, etc. These concepts are good for renderers but not for human interpretation.
 
-We should have a suite of concepts/languages that go to higher and higher abstraction level. At the topmost level of abstraction you should be able to think and tell things like this: this page should have 4 sections displayed as usual with differentiated rows.
+We should have a suite of concepts/languages that go to a higher and higher abstraction level. At the topmost level of abstraction you should be able to think and tell things like this: this page should have 4 sections displayed as usual with differentiated rows.
 
 # Form Levels:
 
