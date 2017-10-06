@@ -16,4 +16,6 @@ We should have a suite of concepts/languages that go to higher and higher abstra
 Usually a hierarchy, according to the top down approach. You define high level things and go into details slowly. The parent decides how the children are influenced via context.
 
 # Others - to sort out
-- semantic html - https://internetingishard.com/html-and-css/semantic-html/
+- semantic html
+  - https://internetingishard.com/html-and-css/semantic-html/
+  - https://maintainablecss.com/chapters/semantics/
