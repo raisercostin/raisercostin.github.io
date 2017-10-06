@@ -20,3 +20,4 @@ Usually a hierarchy, according to the top down approach. You define high level t
   - https://internetingishard.com/html-and-css/semantic-html/
   - https://maintainablecss.com/chapters/semantics/
   - http://robdodson.me/css-semantics/
+  - https://www.toptal.com/twitter-bootstrap/the-10-most-common-bootstrap-mistakes
