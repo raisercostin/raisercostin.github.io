@@ -1,6 +1,6 @@
 Articolul are si o varianta in [[engleza|Scammers everywhere]]
-
 # Organizare
+
 
 - Mode
 
@@ -65,3 +65,10 @@ Lista pistelor false - nu neaparat sarlatanie dar almost
 # Resurse
 - psihiatrie - http://relatii.net/2017/04/25/studiul-care-socat-lumea-psihiatriei-experimentul-rosenhan/
 - bullshit - serie de emisiuni cu Penn and Teller
+
+# To Sort
+
+- vendor lock-in (no, not everyone is doing it see google)
+- marketing (bundles)
+  - car options (see european cars)
+  - mobile minutes (periods, type of services)
