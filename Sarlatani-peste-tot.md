@@ -13,6 +13,9 @@ Articolul are si o varianta in [[engleza|Scammers everywhere]]
     - kendama (2016-12)
     - spinner (2017-05)
     - hopa mitica (2017-10)
+  - Filme
+    - Violeta
+    - Luna
   - Bratara cu charmuri(Charms)
     - Pandora
 
