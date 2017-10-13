@@ -1,8 +1,7 @@
 Articolul are si o varianta in [[engleza|Scammers everywhere]]
 # Organizare
 
-
-- Mode
+## Mode
 
   Pentru care sunt adevarate frazele: "toti fraierii au acum". Activitati cu valoare temporara (de fapt fara), pentru ca depind de componenta timp.
 
@@ -14,6 +13,7 @@ Articolul are si o varianta in [[engleza|Scammers everywhere]]
     - spinner (2017-05)
     - hopa mitica (2017-10)
   - Filme
+    - Hanna Montana
     - Violeta
     - Luna
   - Bratara cu charmuri(Charms)
@@ -72,3 +72,6 @@ Lista pistelor false - nu neaparat sarlatanie dar almost
 - marketing (bundles)
   - car options (see european cars)
   - mobile minutes (periods, type of services)
+
+# References
+- https://github.com/raisercostin/parenting/wiki/Principles
