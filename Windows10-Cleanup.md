@@ -1,15 +1,20 @@
-1. Download windows 10 iso
-  - from here: https://www.microsoft.com/en-us/software-download/windows10
-  - advices
-    - https://www.groovypost.com/howto/windows-10-iso-download/
+1. Download windows 10 iso (media creation tool)
+   - from here: https://www.microsoft.com/en-us/software-download/windows10
+   - advices
+     - https://www.groovypost.com/howto/windows-10-iso-download/
 2. Write iso to a flash drive without overwriting data (but overwriting other bootable stuff)
-  - advices
-    - https://www.thurrott.com/windows/windows-10/5162/windows-10-tip-create-windows-10-setup-media-the-right-way
-    - https://www.groovypost.com/howto/create-windows-10-bootable-usb-flash-drive/
-  - How to keep the linux boots as well?
-  - If you use the 
+   - advices
+     - https://www.thurrott.com/windows/windows-10/5162/windows-10-tip-create-windows-10-setup-media-the-right-way
+     - https://www.groovypost.com/howto/create-windows-10-bootable-usb-flash-drive/
+   - How to keep the linux boots as well?
 
-More
+3. Do backup before
+
+# Tools
+- WinSetupFromUsbhttp://www.winsetupfromusb.com/
+- Rufus
+
+# More
 - dual booting
 - bootable usb
 - https://www.groovypost.com/howto/create-windows-10-bootable-usb-flash-drive/
