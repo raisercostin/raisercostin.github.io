@@ -1,3 +1,7 @@
+# Tutorials
+  - http://smyl.es/tutorial-how-to-build-the-ultimate-custom-usb-drive-with-multiple-bootable-installs-for-windows-and-linux-and-portableapps-for-windows/
+
+# Notes
 1. Create Dual Boot
 2. Write iso to a flash drive without overwriting data (but overwriting other bootable stuff)
    - advices
@@ -26,6 +30,15 @@
 - Rufus
 - yumi - https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 - https://www.raymond.cc/blog/integrate-multiple-antivirus-rescue-disk-into-one-single-disc-or-usb-flash-drive-with-sardu/
+
+# Bootloaders
+- syslinux - simpler. Always found syslinux way more KISS especially for simple BIOS systems. 
+- grub - more complex
+## References
+- https://askubuntu.com/questions/651902/what-is-the-difference-between-grub-and-syslinux
+- https://www.quora.com/What-is-the-difference-between-SYSLINUX-and-GRUB
+- https://www.reddit.com/r/archlinux/comments/2l5rvk/syslinux_or_grub/
+
 # More
 - dual booting
 - bootable usb
