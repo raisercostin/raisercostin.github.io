@@ -32,6 +32,18 @@
     - http://www.thewindowsclub.com/wimboot-windows-image-boot
   - **bootmgr** - Windows Boot Manager (BOOTMGR) is a small piece of software, called a boot manager, that's loaded from the volume boot code, which is part of the volume boot record. BOOTMGR helps your Windows 10, Windows 8, Windows 7, or Windows Vista operating system start.
   - distros to select: https://raywoodcockslatest.wordpress.com/2012/12/23/yumi-multibootable-drive-overview/
+  - interesting distros
+    - clonezilla-live-20170905-zesty-amd64
+    - edubuntu-14.04.5-dvd-amd64
+    - Fedora-SoaS-Live-x86_64-26-1.5
+    - gparted-live-0.30.0-1-i686
+    - kali-linux-2017.2-amd64
+    - memtest86+-5.01
+    - Parrot-full-3.8_amd64
+    - redobackup-livecd-1.0.4
+    - runtimelivecd
+    - ubcd537.iso
+    - ubuntu-17.04-desktop-amd64
 - others
   - WinSetupFromUsb - http://www.winsetupfromusb.com/
   - Rufus
