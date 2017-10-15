@@ -25,7 +25,7 @@
 
 # Tools
 - multibootusb 8.8.0 - http://multibootusb.org
-  - use it for testing booting via qemu menu
+  - use it for testing booting via qemu menu: `MultiBootUsb-8.8.0 > Boot ISO/USB > Boot USB > [Boot USB]`
 - yumi - https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
   ![](http://thewindowsclub.thewindowsclubco.netdna-cdn.com/wp-content/uploads/2014/04/Wimboot_-600x60.jpg)
   - wimboot - new, available for UEFI systems. WIMBoot are subject to a performance hit. Hence, it only targets new computers with small SSD or eMMC-based hard drives. Windows image file boot (WIMBoot) lets you set up a PC so that it runs directly from a compressed Windows image file (WIM file). WIMBoot can significantly reduce the amount of space used by Windows files.May 1, 2014
