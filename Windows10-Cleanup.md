@@ -44,6 +44,7 @@
 - https://www.reddit.com/r/archlinux/comments/2l5rvk/syslinux_or_grub/
 
 # More
+- UEFI machine vs  CSM Boot machine
 - dual booting
 - bootable usb
 - https://www.groovypost.com/howto/create-windows-10-bootable-usb-flash-drive/
