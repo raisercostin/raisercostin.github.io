@@ -33,6 +33,7 @@
   - wimboot - new, available for UEFI systems. WIMBoot are subject to a performance hit. Hence, it only targets new computers with small SSD or eMMC-based hard drives. Windows image file boot (WIMBoot) lets you set up a PC so that it runs directly from a compressed Windows image file (WIM file). WIMBoot can significantly reduce the amount of space used by Windows files.May 1, 2014
     - http://www.thewindowsclub.com/wimboot-windows-image-boot
   - **bootmgr** - Windows Boot Manager (BOOTMGR) is a small piece of software, called a boot manager, that's loaded from the volume boot code, which is part of the volume boot record. BOOTMGR helps your Windows 10, Windows 8, Windows 7, or Windows Vista operating system start.
+- qemu - https://www.qemu.org/
 - https://www.raymond.cc/blog/integrate-multiple-antivirus-rescue-disk-into-one-single-disc-or-usb-flash-drive-with-sardu/
 
 # Bootloaders
