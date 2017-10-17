@@ -76,3 +76,5 @@ This will print
     3
     done
 
+# Resources
+- 2017-10-17 - http://www.lihaoyi.com/post/ScalaScriptingandthe15MinuteBlogEngine.html
