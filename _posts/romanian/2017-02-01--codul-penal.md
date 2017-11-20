@@ -1,7 +1,6 @@
 ---
 title: Codul Penal
 source: http://www.euroavocatura.ro/print2.php?print2=lege&idItem=1178
-updated: 2015
 tags: romanian,government,law,legal,guvernamant,cod penal
 see: 
  - https://github.com/compleatang/legal-markdown
