@@ -17,6 +17,7 @@ In practice, where any of them could lie, there are several cases:
 5. Bo doesn't consent is not able to leave and complains later. How can Alex prove the consent? How can Bo prove it didn't gave it?
 
 There are two other variations related to a later complain:
+
 6. Bo consented but **much much later** denies it. How can Alex prove the consent? How can Bo prove it didn't gave it?
 7. Bo doesn't consent is not able to leave and complains **much much later**. How can Alex prove the consent? How can Bo prove it didn't gave it?
 
