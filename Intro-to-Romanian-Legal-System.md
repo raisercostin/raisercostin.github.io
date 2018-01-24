@@ -16,5 +16,5 @@
   - [Codul Aerian - OG 29/1997](https://legeaz.net/codul-aerian-og-29-1997/)
   - [Codul Audiovizualului](https://legeaz.net/codul-audiovizualului-2011/)
 
-# Other Resources
+# Alte Resurse
  - [[Intro to European Legal System]]
