@@ -17,4 +17,4 @@
   - [Codul Audiovizualului](https://legeaz.net/codul-audiovizualului-2011/)
 
 # Other Resources
- - [[Intro to Romanian Legal System]]
+ - [[Intro to European Legal System]]
