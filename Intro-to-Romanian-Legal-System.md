@@ -1,3 +1,4 @@
+# Resurse
 - [Constituţia României](http://www.cdep.ro/pls/dic/site.page?id=339) - [pdf](http://www.ucv.ro/pdf/site/constitutia_romaniei.pdf) - Legea de revizuire a Constitutiei Romaniei nr. 429/2003
 - Coduri actualizate
   - [Codul Muncii](https://legeaz.net/legea-53-2003-codul-muncii/)
@@ -14,3 +15,6 @@
   - [Codul Vamal](https://legeaz.net/codul-vamal-legea-86-2006/)
   - [Codul Aerian - OG 29/1997](https://legeaz.net/codul-aerian-og-29-1997/)
   - [Codul Audiovizualului](https://legeaz.net/codul-audiovizualului-2011/)
+
+# Other Resources
+ - [[Intro to Romanian Legal System]]
