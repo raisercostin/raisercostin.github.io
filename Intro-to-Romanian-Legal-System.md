@@ -1,4 +1,4 @@
-- [Constituţia României](https://legeaz.net/constitutia-romaniei/)
+- [Constituţia României](http://www.cdep.ro/pls/dic/site.page?id=339) - [pdf](http://www.ucv.ro/pdf/site/constitutia_romaniei.pdf) - Legea de revizuire a Constitutiei Romaniei nr. 429/2003
 - Coduri actualizate
   - [Codul Muncii](https://legeaz.net/legea-53-2003-codul-muncii/)
   - [Noul Cod Civil](https://legeaz.net/noul-cod-civil/)
