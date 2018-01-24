@@ -1,4 +1,5 @@
-Other legal articles [[Intro to Romanian Legal System]] too.
+Other legal topics:
+ - [[Intro to Romanian Legal System]]
 
-
+# Resources
 - GDPR - https://gdpr-info.eu/chapter-3/
