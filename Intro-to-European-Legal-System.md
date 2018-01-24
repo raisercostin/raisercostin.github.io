@@ -1,0 +1,1 @@
+- GDPR - https://gdpr-info.eu/chapter-3/
