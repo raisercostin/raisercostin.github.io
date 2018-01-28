@@ -7,6 +7,7 @@
    - The Bourse where people open accounts to play is periodically robbed since money have no trace. Happened in Japan.
    - Big players play game and the currency is highly volatile.
    - The mining already discovered around 80% of total bitcoins in 2017.
+   - volatility - https://lifehacker.com/how-one-person-caused-the-price-of-cryptocurrencies-to-1822396438?rev=1516895936816&utm_campaign=socialflow_lifehacker_twitter&utm_source=lifehacker_twitter&utm_medium=socialflow
 3. Others
    - Moral problems - you hide things in the name of [[privacy|Why privacy is bad]]
 
