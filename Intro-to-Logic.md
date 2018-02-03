@@ -1,3 +1,7 @@
+- asymmetric Insight
+  - Asymmetric Insight Is Why You Think Everyone Else Is an Open Book | @curiositydotcom
+https://curiosity.com/topics/asymmetric-insight-is-why-you-think-everyone-else-is-an-open-book-curiosity?utm_source=androidapp
+
 # Resources
 - https://www.xonitek.com/effective-arguing-beware-of-logical-red-herrings/
 - http://en.arguman.org/ - discussion platform in a form with: because, but, however.
