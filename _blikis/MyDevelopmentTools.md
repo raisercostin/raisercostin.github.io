@@ -7,7 +7,15 @@ category: devtools
 categories: ['development', 'tools']
 tags: ['development', 'tools', 'java', 'eclipse', 'maven']
 ---
+# Development Landscapes
+- nodejs
+  - `brew install npm'
+- ruby - `brew install ruby bundle`
+  - jekyll - `gem install jekyll` / `bundle exec jekyll server`
+- 
 
+# Management Tools
+- nice DSL for project track - http://taskjuggler.org/examples.html
 Development Tools
 =================
 - java - 1.7.0_67 - Java SE 7 Update 67

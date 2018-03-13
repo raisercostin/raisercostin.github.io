@@ -1,0 +1,2 @@
+- Estonia - https://www.vice.com/ro/article/mbp4y3/romani-care-si-au-mutat-firmele-in-estonia-ca-sa-scape-de-psd
+- Alba Iulia - https://pressone.ro/cetatea-inteligenta-in-2018-alba-iulia-testeaza-100-de-aplicatii-de-tip-smart-city/
