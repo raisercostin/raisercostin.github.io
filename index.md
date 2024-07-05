@@ -5,6 +5,3 @@
 layout: home
 title: Blog
 ---
-
-
-ceva
