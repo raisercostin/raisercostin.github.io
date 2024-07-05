@@ -1,0 +1,45 @@
+#Prompt
+I'm defining this prompt command:
+
+Create a breadth-first taxonomy knowledge map for the specified subject. The --level option (default is 3) determines the depth of the tree. Child nodes should preferably be under or equal to 7. The default format is a balanced mind map with icons enabled if the text contains spaces. An optional target node can be specified to search for nodes until that target is reached in the domain.
+
+Example Command
+
+```
+>mindmap "Education"
+```
+
+Notes:
+Use ::icon(fa fa-icon_name) for adding icons, placed on the next indented line.
+Use quotes for node names with spaces.
+
+Example Result (Truncated):
+
+```mermaid
+mindmap
+  root(("Education"))
+    Formal_Education
+      Primary_Education
+        "Curriculum"
+        ::icon(fa fa-book)
+        "Assessment"
+        ::icon(fa fa-check)
+        "Pedagogy"
+        ::icon(fa fa-chalkboard-teacher)
+        "Extracurricular Activities"
+        ::icon(fa fa-football-ball)
+        "Inclusive Education"
+        ::icon(fa fa-universal-access)
+        "Teacher Training"
+        ::icon(fa fa-chalkboard)
+        "Education Policy"
+        ::icon(fa fa-balance-scale)
+      Secondary_Education
+        "Curriculum"
+        ::icon(fa fa-book)
+        "Assessment"
+        ::icon(fa fa-check)
+        ...
+```
+
+Just acknowledge that you understood the prompt.
