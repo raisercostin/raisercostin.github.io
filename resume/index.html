@@ -5,8 +5,14 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- name of the save as pdf -->
-  <title>2024-07-04--CostinGrigore-Resume</title>
+  <title>2025-01-15--CostinGrigore-Resume-CV</title>
+  <meta name="description" content="Costin Grigore Resume - 2025-01-15" />
+  <meta name="author" content="Costin Grigore" />
+  <meta name="keywords" content="Costin Grigore, Resume, CV, Software Architect, Software Engineer, Java, Scala, Vue, Agile, TDD, BDD, XP, CTO, CEO, Curriculum Vitae, Kafka, Springframework, Lombok, Vavr, Kotlin" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/iconify-icon@2.1.0/dist/iconify-icon.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.7/dist/handlebars.min.js"></script>
   <script>
     console.log("disable paged.js to render first handlebar templates")
@@ -33,368 +39,514 @@
       }
     }
     const resume = {
-      experiences: [
+      "profile": {
+        "name": "Costin Grigore",
+        "title": "Hands-On Software Architect",
+        "image": "2024-05-03--CostinGrigore-portrait.jpg",
+        "resume": "./2025-01-15--CostinGrigore-Resume.pdf",
+        "contact": {
+          "email": "costin.grigore@gmail.com",
+          "phone": "+40 740 720 002",
+          "location": "Bucharest, Romania"
+        },
+        "summary": "I'm a software engineer with 24 years of experience in various <b class='text-customBlue'>industries</b> and software <b class='text-customBlue'>types</b>. I had all the <b class='text-customBlue'>roles</b> that exist in a software project or startup from coder, to product owner, to CTO and CEO.",
+        "objective": "To succeed you need <b class='text-customBlue'>passion</b>, <b class='text-customBlue'>vision</b>, <b class='text-customBlue'>creativity</b>, <b class='text-customBlue'>experience</b> and a deep understanding of the issues that show up in software development. Embracing change and prediction is less costly than recovering.",
+        "objective2": "I equally love and enjoy project <b class='text-customBlue'>startups</b>, <b class='text-customBlue'>legacy</b> project <b class='text-customBlue'>migrations</b> or project <b class='text-customBlue'>recovery</b>.",
+        "objective3": "My preferred technology stack is <b class='text-customBlue'>Java</b> + <b class='text-customBlue'>Scala</b> + <b class='text-customBlue'>Vue</b>, backed by agile eXtreme Programming practices.",
+        "spacer": "<img src='2024-06-24-coding-samuray.png' class='bottom-0 right-0 w-full aspect-auto h-auto max-h-[400px] opacity-20' alt='Coding Samurai' />",
+        "lastUpdated": "2024-09-17",
+      },
+      "online": {
+        "linkedin.com/in/raisercostin": "https://linkedin.com/in/raisercostin",
+        "stardev.io/developers/raisercostin": "https://stardev.io/developers/raisercostin",
+        "github.com/raisercostin": "https://github.com/raisercostin",
+        "stackoverflow.com/users/99248": "https://stackoverflow.com/users/99248",
+        "goodreads.com/raisercostin": "https://goodreads.com/raisercostin",
+        "raisercostin.org": "https://raisercostin.org"
+      },
+      "hobbies": ["Reading: SF, philosophy, non-fiction", "Taxonomies", "Polymath"],
+      "skillsAndRoles": [
+        "Project & Team Leadership",
+        "Software (Re)Architecture, (Re)Design, Migration",
+        "eXtreme Programming: Agile, TDD, BDD, XP",
+        "Product Owner, MVP",
+        "Full-Stack Development, Engineering and Program Manager, CTO",
+        "Continuous Integration and Delivery (CI/CD)"
+      ],
+      "education": [
         {
-          company: 'SpotOnFinance',
-          url: 'https://spotonfinance.com',
-          position: 'Lead Software Engineer',
-          duration: '2023.jun / 1 year +',
-          projects: [
+          "degree": "Master of Science in Computer Science",
+          "university": "Polytechnic University of Bucharest",
+          "duration": "2002-2003",
+          "details": "Graduated with a perfect score 10/10 on the diploma exam."
+        },
+        {
+          "degree": "Bachelor of Science in Computer Science, Systems Major (C3)",
+          "university": "Polytechnic University of Bucharest",
+          "duration": "1997-2002",
+          "details": "Diploma exam grade: 10/10, Average grade over 5 years: 8.96"
+        },
+        {
+          "degree": "Baccalaureate Diploma, Intensive Computer Science",
+          "highSchool": "High School",
+          "duration": "1994-1997",
+          "details": "Achievements in the National Olympiad in Informatics: 2nd Place and Honorable Mentions"
+        }
+      ],
+      "mainAreasOfExpertise": {
+        "roles": {
+          "Team Lead, Lead Developer, Mentoring, Coaching, Internship": "19y 3",
+          "Business Development": "9y 1",
+          "Executive Operational & Strategic (business, finance, hiring, operation, marketing planning)": "4y 0",
+          "Technology Selection, Program Manager": "18y 4",
+          "Project Management, Negotiator": "16y 9",
+          "Product Owner, UX User Experience, Business Analyst": "13y 1",
+          "Architect, System Design, Application Design": "22y 4",
+          "Data Modeler, Database Design": "19y 0",
+          "Software Engineer, Programmer (+unit testing & TDD)": "32y 4",
+          "Build Configuration (maven, CI/CD - Continuous Integration/Delivery/Release)": "19y 8",
+          "Migration expertise (legacy systems migration)": "19y 0",
+          "Project Startup (create prototype, architecture, team)": "17y 4",
+          "Operations (docker, vagrant, virtualization, Kubernetes)": "9y 1",
+          "Quality Assurance (testing strategy, management)": "10y 8"
+        },
+        "projectTypesAndIndustries": {
+          "Sports Betting (low latency systems, Kafka, self-learning)": "5y 0",
+          "Integration (ESB, camel, REST, database, Message Queues, High Vol Ingestion, Kafka)": "9y 1",
+          "Insurance & Risk Management": "1y 5",
+          "Graph Databases (Arango DB)": "4y 2",
+          "Security (SAML, OAuth, OpenID, PKI, IAM, IDM, Keycloak)": "5y 7",
+          "Scraping, Crawling, Indexing, Data Extractors, Actors, Parallelism, Reactive": "5y 8",
+          "Distributed Workflow Management, Event Sourcing, Message Exchange, Journaling (integration between countries' systems)": "7y 5",
+          "Financial (online payment, money transfer systems, banking API, crypto)": "8y 0",
+          "Telecom (tracking key metrics of devices and equipment in telecom industry)": "0y 9",
+          "NMS (network management system, SNMP control)": "1y 0",
+          "R&D (Data Acquisition, Signal Processing, Biometric Signal, Artificial Intelligence)": "0y 8",
+          "ERP (financials, stocks, project management - database intensive)": "4y 0",
+          "Web (photo, ecommerce, webic, responsive)": "14y 0",
+          "Rich Client Applications (NMS, WebInfoControl, brompton configurator, bets)": "7y 7",
+          "Algorithms (production optimization planning, CS contests)": "15y 8",
+          "Others: rhyme and language dictionaries, taxi reporting": "0y 5",
+          "Mobile/Android (zdreanta)": "1y 3"
+        },
+      },
+      "preferredDevelopmentStyle": {
+        "Agile Methodology": "18y 0",
+        "Test/Behavior Driven Development (TDD, BDD)": "18y 0",
+        "Pair Programming": "14y 7",
+        "Refactoring": "18y 0",
+        "UML description": "20y 0",
+        "Continuous integration and Delivery": "16y 3",
+        "Objectual/Declarative/Functional/Aspect Programming Paradigms": "24y 2",
+        "Rapid Development (RIA)": "6y 9"
+      },
+      "preferredTechnologyStack": {
+        "Functional development: scala, reactive streaming, functional collections, vavr, monads": "10y 7",
+        "Scala, Akka(reactive), Slick": "5y 7",
+        "Java, Spring Framework, Hibernate & JPA, JUnit, SQL, lombok, mapstruct, jOOQ": "17y 6",
+        "UX, Vue, vuetify, quasar, material design, typescript": "6y 5",
+        "Databases: posgres, h2, mysql, oracle, SQL Server": "14y 4",
+        "NoSql Database: graph, arangodb, document database": "4y 5",
+        "Bootstrap(responsive), JQuery, CSS3, javascript, HTML": "16y 7",
+        "Regex, JSoup, XSLT, json, yml": "11y 5",
+        "Maven, gradle, eclipse, subversion/git": "17y 7",
+        "Jenkins, jira, gocd, gitlab, github, gocd": "11y 2",
+        "Docker, vagrant, k9s, kubernetes": "5y 6",
+        "Shell (linux,unix,osx)": "11y 8",
+        "Android": "2y 1"
+      },
+      "obsoleteTechnologies": {
+        "XML & WS: XML, XSD, WSDL, SOAP": "11y 7",
+        "UI: GWT, Spring MVC, playframework": "10y 3",
+        "SBT, Ant, shell(linux,unix,osx)": "7y 8",
+        "C, C++": "5y 0",
+        "perl, PHP": "1y 7",
+        "Oracle Designer": "2y 5"
+      },
+      "books": [
+        "Ron Jeffries - The Nature of Software Development",
+        "Andrew Hunt, David Thomas - Pragmatic Programmer",
+        "Steve McConnell - Code Complete 2",
+        "Joel Spolsky - Smart and Gets Things Done",
+        "Kent Beck - Test Driven Development By Example",
+        "Robert Martin - Clean Code",
+        "Steve Krug - Don’t Make Me Think",
+        "Tom DeMarco - The Deadline",
+        "Martin Fowler - Refactoring Improving the Design of Existing Code",
+        "Martin Fowler - Domain Specific Languages",
+        "Frederick Brooks - The Mythical Person-Month Essays on Software Engineering"
+      ],
+      "languages": [
+        {
+          "language": "English",
+          "level": "Fluent"
+        },
+        {
+          "language": "Romanian",
+          "level": "Native"
+        }
+      ],
+      "certifications": [
+        {
+          "certification": "Certified Scrum Master",
+          "organization": "Scrum Alliance",
+          "date": "2018"
+        },
+      ],
+      "interests": {
+        "professional": "analysis, design, TDD, BDD, XP methodology, refactoring, pair programming, programming language paradigms, NoSQL databases, reactive programming, responsive design",
+        "personal": "literature, psychology, martial arts, theater, acting, SF, biology"
+      },
+      "experiences": [
+        {
+          "company": "SpotOnFinance",
+          "position": "Lead Software Engineer",
+          "duration": "2023.jun / 1.5 years+ present",
+          "projects": [
             {
-              project: 'Spot On Finance',
-              description: 'Finance for owners.',
-              size: '3 devs * 1 year',
-              roles: 'product owner, architecture, design, development',
-              achievements:
-                'Using AI to parse any bank statement and categorize it. Launching from zero to production in 6 months.',
-              technologies: 'java, vue, springboot, postgres, docker, cloudflare'
+              "url": "https://spotonfinance.com",
+              "project": "SpotOnFinance",
+              "description": "Finance for owners.",
+              "size": "3 devs * 1.5 year",
+              "roles": "product owner, architecture, design, development",
+              "achievements": "Using AI to parse any bank statement and categorize it. Launching from zero to live in 6 months.",
+              "technologies": "java, vue, springboot, postgres, docker, cloudflare, docker swarm, tailwindcss, typescript, deno, hugo, cms, ollama, openai, jbang"
             }
           ]
         },
         {
-          company: 'Revobet',
-          position: 'Software Architect',
-          duration: '2018.dec/4years 5months',
-          projects: [
+          "company": "Revobet",
+          "position": "Software Architect",
+          "duration": "2018.dec/4years 5months",
+          "projects": [
             {
-              project: 'Sports Betting System',
-              description: 'high volume feed ingestion and data consolidation',
-              size: '10 people * 4.5 years',
-              roles:
-                'development, technology selection, integration, design, architecture, internship',
-              achievements:
-                'Delivered, with the 10 people team, a low latency, multitenant, SAAS solution, feed agnostic with risk management, payments, bonus, help desk, translations and multiple other integrations. Technologies: java17, Kafka, Prometheus, MQ, Vue, responsive, mobile-first, Kubernetes, multiple environments, disaster recovery, rapid dev, reactive streaming, prevent vendor-lock-in',
-              technologies: 'java, functional, vavr, mapstruct, lombok, vuetify, nuxt'
+              "project": "Revobet",
+              "hideProjectName": true,
+              "shortDescription": "Sports Betting System",
+              "description": "high volume feed ingestion and data consolidation",
+              "size": "10 people * 4.5 years",
+              "roles": "development, technology selection, integration, design, architecture, internship",
+              "achievements": "Delivered, with the 10 people team, a low latency, multitenant, SAAS solution, feed agnostic with risk management, payments, bonus, help desk, translations and multiple other integrations. Technologies: java17, Kafka, Prometheus, MQ, Vue, responsive, mobile-first, Kubernetes, multiple environments, disaster recovery, rapid dev, reactive streaming, prevent vendor-lock-in",
+              "technologies": "java, functional, vavr, mapstruct, lombok, vuetify, nuxt",
+              "url": "https://revobet.com",
+              "urlName": "revobet.com",
+              "highlight": {
+                "industry": "Sports Betting Industry",
+                "achievements": "Delivered, with the 10 people team, a low latency, multitenant, SAAS solution, feed agnostic with risk management, payments, bonus, help desk, translations and multiple other integrations. Technologies: Java 17, Kafka, Prometheus, MQ, Vue, responsive, mobile-first, Kubernetes.",
+                "duration": "2017-2024"
+              }
             }
           ]
         },
         {
-          company: 'Revomatico',
-          position: 'Principal Software Engineer',
-          duration: '2017.jan/2 years',
-          projects: [
+          "company": "Revomatico",
+          "position": "Principal Software Engineer",
+          "duration": "2017.jan/2 years",
+          "projects": [
             {
-              project: 'REVO IAM - IDM',
-              description: 'arangodb, graph database, object correlation',
-              size: '2 people * 10 months',
-              roles: 'integration, development, technology selection',
-              achievements:
-                'fast changes on user feedback security threats on data management analysis',
-              technologies: 'camel, java, rest, vavr, ldap, h2, csv, rest, gitlab api',
-              importance: 'low'
+              "project": "REVO IAM - IDM",
+              "description": "arangodb, graph database, object correlation",
+              "size": "2 people * 10 months",
+              "roles": "integration, development, technology selection",
+              "achievements": "fast changes on user feedback security threats on data management analysis",
+              "technologies": "camel, java, rest, vavr, ldap, h2, csv, rest, gitlab api",
+              "importance": "low"
             },
             {
-              project: 'IAM Telecom A1 Bulgaria',
-              description: 'IDM, midpoint, database & REST integration, approval flows',
-              size: '3 people * 10 months',
-              roles: 'integration, development, technology selection',
-              achievements: 'generic ConnId REST connector extend existing product',
-              technologies: 'midpoint, camel, ConnId, ICF Identity Connector, java'
+              "project": "IAM Telecom A1 Bulgaria",
+              "description": "IDM, midpoint, database & REST integration, approval flows",
+              "size": "3 people * 10 months",
+              "roles": "integration, development, technology selection",
+              "achievements": "generic ConnId REST connector extend existing product",
+              "technologies": "midpoint, camel, ConnId, ICF Identity Connector, java"
             },
             {
-              project: 'docLess',
-              description: 'automatic document management, multi-format views',
-              size: '3 people * 1 year',
-              roles: 'development, technology selection, design, architecture, internship',
-              achievements:
-                'flexible change of feeds and integration high volume, reactive streaming rapid development and fast UX changes',
-              technologies: 'java, functional, vavr, vuetify, nuxt, autocad dxf, pdf',
-              importance: 'low'
+              "project": "docLess",
+              "description": "automatic document management, multi-format views",
+              "size": "3 people * 1 year",
+              "roles": "development, technology selection, design, architecture, internship",
+              "achievements": "flexible change of feeds and integration high volume, reactive streaming rapid development and fast UX changes",
+              "technologies": "java, functional, vavr, vuetify, nuxt, autocad dxf, pdf",
+              "importance": "low"
             }
           ]
         },
         {
-          company: 'European Commission DIGIT',
-          position: 'Software Architect',
-          duration: '2015.Sep/13 months',
-          projects: [
+          "company": "European Commission - DIGIT",
+          "position": "Software Architect",
+          "duration": "2015.Sep/13 months",
+          "projects": [
             {
-              project: 'UUM&DS – ECAS',
-              description: 'IAM, IDM, security, authentication, SAML – TAXUDCAS',
-              size: '8 people * 5 years',
-              roles: 'Integration, development, operation, technology selection',
-              achievements:
-                'Migrated legacy ECAS & UUMDS solutions to docker compose: including ECAS, ECAS client, IAM. Federation of Member States IAM solutions using SAML, eIDAS technologies, ECAS',
-              technologies: 'java, maven, docker, git, agile, weblogic, oracle db'
+              "project": "ECAS-UUMDS",
+              "description": "IAM, IDM, security, authentication, SAML - TAXUDCAS",
+              "size": "8 people * 5 years",
+              "roles": "Integration, development, operation, technology selection",
+              "achievements": "Migrated legacy ECAS & UUMDS solutions to docker compose: including ECAS, ECAS client, IAM. Federation of Member States IAM solutions using SAML, eIDAS technologies, ECAS",
+              "technologies": "java, maven, docker, git, agile, weblogic, oracle db",
+              "highlight": {
+                "achievements": "Migrated legacy ECAS & UUMDS solutions to Docker Compose.",
+                "duration": "2016-2017"
+              }
             }
           ]
         },
         {
-          company: 'Brainlight',
-          position: 'Senior Software Engineer',
-          duration: '2014.jan/2 years',
-          projects: [
+          "company": "Brainlight",
+          "position": "Senior Software Engineer",
+          "duration": "2014.jan/2 years",
+          "projects": [
             {
-              project: 'Darzar',
-              url: 'https://darzar.com',
-              description: 'product extractor, crawler, scrapper, responsive, facet search',
-              size: '2 people * 1 year',
-              roles:
-                'product owner, architecture, design, development, integrator, technology selection',
-              achievements:
-                'In beta, online with 33.000 products from over 100 romanian e-shops.',
-              technologies: 'scala, sbt, eclipse, git, agile, wiki'
+              "project": "Darzar",
+              "url": "https://darzar.com",
+              "description": "product extractor, crawler, scrapper, responsive, facet search",
+              "size": "2 people * 1 year",
+              "roles": "product owner, architecture, design, development, integrator, technology selection",
+              "achievements": "In beta, online with 33.000 products from over 100 romanian e-shops.",
+              "technologies": "scala, sbt, eclipse, git, agile, wiki"
             },
             {
-              project: 'Goose',
-              url: 'https://github.com/raisercostin/goose',
-              description:
-                'Information retrieval - crawler, scrapper, regexp extractor, jsoup, goose with contributions on github',
-              size: '1 dev * 6 months',
-              roles: 'development, integrator, refactored legacy code',
-              achievements:
-                'Integrated in one week more than 40 git branches to consolidate all contributions made in last 4 years by various contributors',
-              technologies: 'scala, sbt, eclipse, git, agile, wiki',
-              importance: 'low'
+              "project": "Goose",
+              "url": "https://github.com/raisercostin/goose",
+              "description": "Information retrieval - crawler, scrapper, regexp extractor, jsoup, goose with contributions on github",
+              "size": "1 dev * 6 months",
+              "roles": "development, integrator, refactored legacy code",
+              "achievements": "Integrated in one week more than 40 git branches to consolidate all contributions made in last 4 years by various contributors",
+              "technologies": "scala, sbt, eclipse, git, agile, wiki",
+              "importance": "low"
             },
             {
-              project: 'Content Organizer Assistant',
-              description:
-                'automatic heuristic metadata extractor of Exif (images), ID3 tag(mp3)',
-              size: '1 dev * 2 months',
-              roles:
-                'product owner, architecture, design, development, integrator, technology selection',
-              achievements:
-                'Described in blog https://raisercostin.org/2015/02/04/own-your-media',
-              technologies: 'scala, sbt, eclipse, git, agile, wiki',
-              importance: 'low'
+              "project": "Content Organizer Assistant",
+              "description": "automatic heuristic metadata extractor of Exif (images), ID3 tag(mp3)",
+              "size": "1 dev * 2 months",
+              "roles": "product owner, architecture, design, development, integrator, technology selection",
+              "achievements": "Described in blog https://raisercostin.org/2015/02/04/own-your-media",
+              "technologies": "scala, sbt, eclipse, git, agile, wiki",
+              "importance": "low"
             },
             {
-              project: 'Article Extractor',
-              description:
-                'article extractor from ppt, pps, pdf(ebooks), web sites through crawling and scrapping',
-              size: '1 dev * 1 month',
-              roles:
-                'product owner, architecture, design, development, integrator, technology selection',
-              achievements:
-                'Minimum viable product delivered in 2 weeks: www.YoupiQ.com\nIn production for 10 years with no maintenance effort\nTech+: amazon ws, playframework, bootstrap, securesocial, openId/facebook/google authentication, responsive, reactive, akka, actor system',
-              technologies:
-                'scala, sbt, eclipse, git, agile, wiki, regex, xpath, xml, jtidy, jsoup',
-              importance: 'low'
+              "project": "Article Extractor",
+              "description": "article extractor from ppt, pps, pdf(ebooks), web sites through crawling and scrapping",
+              "size": "1 dev * 1 month",
+              "roles": "product owner, architecture, design, development, integrator, technology selection",
+              "achievements": "Minimum viable product delivered in 2 weeks: www.YoupiQ.com\nIn production for 10 years with no maintenance effort\nTech+: amazon ws, playframework, bootstrap, securesocial, openId/facebook/google authentication, responsive, reactive, akka, actor system",
+              "technologies": "scala, sbt, eclipse, git, agile, wiki, regex, xpath, xml, jtidy, jsoup",
+              "importance": "low"
             },
             {
-              project: 'Anyjob',
-              description: 'job search engine – 2007-2010',
-              size: '3 people * 14 months',
-              roles: 'project management, specification, analysis, design, build',
-              achievements:
-                'Prototype\nOutsourced implementation. Project spec, follow up and acceptance testing. Contract negotiation, legal representation, debt recovery.',
-              technologies:
-                'eclipse, spring, ajax, html, css, GWT, google appengine, java6, subversion, maven',
-              importance: 'low'
+              "project": "Anyjob",
+              "description": "job search engine - 2007-2010",
+              "size": "3 people * 14 months",
+              "roles": "project management, specification, analysis, design, build",
+              "achievements": "Prototype\nOutsourced implementation. Project spec, follow up and acceptance testing. Contract negotiation, legal representation, debt recovery.",
+              "technologies": "eclipse, spring, ajax, html, css, GWT, google appengine, java6, subversion, maven",
+              "importance": "low"
             }
           ]
         },
         {
-          company: 'European Commission DGEMPL',
-          position: 'Software Architect / Team Leader',
-          duration: '2011.Jan/3 years',
-          projects: [
+          "company": "European Commission - DGEMPL",
+          "position": "Software Architect/Team Leader",
+          "duration": "2011.Jan/3 years",
+          "projects": [
             {
-              project: 'EESSI',
-              description:
-                'distributed flow management/choreography between European institutions',
-              size: '20 people * 5 years <br/>managed 7 devs',
-              roles:
-                'Architecture, specification, analysis, design, build, development, build configuration, agile framework: wiki/confluence, svn/git, continuous integration server/bamboo/Jenkins, lead developer, technical lead',
-              achievements:
-                'Delivered working prototype and won competition with MS and IBM prototypes for a Distributed Flow Management solution: multi-hop, no size limitation, efficient multi-party end2end encryption: java.<br />Outsourced project handover. Specification and implementation of programmatic API exposed for National Applications.<br />Refactoring legacy code to split GUI in presentation and backend<br />Installer for centrally and member states software (reduce deployment complains)<br />Categorize bugs in ones that require technical hardening and ones that need business reflection period<br />Deliver business layer analysis: Modeling, BPMN, Distributed Flow Management<br />Demo prototype to Unit Managers<br />Demo transport and messaging prototype to Technical Committee(June 2013)<br />Demo business layer prototype in front of Technical Committee(September 2013)<br />Playground (to foster protocol convergence) on internet<br />Solving political issues by creating tailored technology: any size transfer, multi-hop networks, online/offline clerk client, protocol flexibility depending on sector and flow, deploy anywhere',
-              technologies:
-                'eclipse, spring, ajax, html, css, java6/java7, subversion/svn/git, maven, jboss, weblogic, LDAP, playframework, Jenkins and Bamboo, confluence, jira'
+              "project": "EESSI",
+              "description": "distributed flow management/choreography between European institutions",
+              "size": "20 people * 5 years <br/>managed 7 devs",
+              "roles": "Architecture, specification, analysis, design, build, development, build configuration, agile framework: wiki/confluence, svn/git, continuous integration server/bamboo/Jenkins, lead developer, technical lead",
+              "achievements": "Delivered working prototype and won competition with MS and IBM prototypes for a Distributed Flow Management solution: multi-hop, no size limitation, efficient multi-party end2end encryption: java.<br />Outsourced project handover. Specification and implementation of programmatic API exposed for National Applications.<br />Refactoring legacy code to split GUI in presentation and backend<br />Installer for centrally and member states software (reduce deployment complains)<br />Categorize bugs in ones that require technical hardening and ones that need business reflection period<br />Deliver business layer analysis: Modeling, BPMN, Distributed Flow Management<br />Demo prototype to Unit Managers<br />Demo transport and messaging prototype to Technical Committee(June 2013)<br />Demo business layer prototype in front of Technical Committee(September 2013)<br />Playground (to foster protocol convergence) on internet<br />Solving political issues by creating tailored technology: any size transfer, multi-hop networks, online/offline clerk client, protocol flexibility depending on sector and flow, deploy anywhere",
+              "technologies": "eclipse, spring, ajax, html, css, java6/java7, subversion/svn/git, maven, jboss, weblogic, LDAP, playframework, Jenkins and Bamboo, confluence, jira",
+              "highlight": {
+                "achievements": "Delivered working prototype and won competition with MS and IBM prototypes for a Distributed Flow Management solution: multi-hop, no size limitation, efficient multi-party end-to-end encryption: Java.",
+                "duration": "2011-2014"
+              }
             }
           ]
         },
         {
-          company: 'Xoom / Gemini Solutions',
-          position: 'Team Leader / Project Manager',
-          duration: '2006.May/4.5 years',
-          projects: [
+          "company": "Xoom/Gemini Solutions",
+          "position": "Team Leader/Project Manager",
+          "duration": "2006.May/4.5 years",
+          "projects": [
             {
-              project: 'Money Transfer',
-              description: 'adapt different banking systems - xoom.com (bought by paypal)',
-              size: 'lead 12 senior engineers * 3 years',
-              roles:
-                'team leading, coaching, project management, analysis, design, build configuration, migration',
-              achievements:
-                'Delivered banking integration framework for money transfer for the Silicon Valley startup.',
-              technologies:
-                'eclipse europe, spring framework, hibernate, java5, java6, perforce, maven'
+              "project": "Money Transfer",
+              "description": "adapt different banking systems - xoom.com (bought by paypal)",
+              "size": "lead 12 senior engineers * 3 years",
+              "roles": "team leading, coaching, project management, analysis, design, build configuration, migration",
+              "achievements": "Delivered banking integration framework for money transfer for the Silicon Valley startup.",
+              "technologies": "eclipse europe, spring framework, hibernate, java5, java6, perforce, maven",
+              "industry": "Tech Finance",
+              "highlight": {
+                "achievements": "Delivered banking integration framework for money transfer for the Silicon Valley startup. Led a team of 12 senior developers: Java.",
+                "duration": "2006-2010"
+              }
             },
             {
-              project: 'Device IQ & Field IQ',
-              description:
-                'application for tracking key metrics of devices, signal and towers for telecom/mobile industry',
-              size: '9 people * 14 months<br />lead 5 people',
-              roles:
-                'team leading, project management, analysis, design, configuration, coaching, development',
-              achievements: '',
-              technologies: 'eclipse, spring framework, hibernate, java5, perforce, maven',
-              importance: 'low'
+              "project": "Device IQ & Field IQ",
+              "description": "application for tracking key metrics of devices, signal and towers for telecom/mobile industry",
+              "size": "9 people * 14 months<br />lead 5 people",
+              "roles": "team leading, project management, analysis, design, configuration, coaching, development",
+              "achievements": "",
+              "technologies": "eclipse, spring framework, hibernate, java5, perforce, maven",
+              "importance": "low"
+            }
+          ]
+        },
+        // {
+        //   "company": "Softwin, Alvarion, Redpoint",
+        //   "position": "Java Engineer",
+        //   "hideCompany": true,
+        //   "projects": [
+        //     {
+        //       "project": "WebERP, Research, NMS, IOT",
+        //       "highlight-duration": "2000-2005",
+        //       "description": "Multiple projects delivered. Research on DSP & AI.",
+        //       "highlight": {
+        //         "achievements": "Multiple projects delivered. Research on DSP & AI.",
+        //         "duration": "2000-2005"
+        //       }
+        //     }
+        //   ]
+        // },
+        {
+          "company": "Alvarion",
+          "position": "Senior Software Engineer",
+          "duration": "2005.Feb/1 year",
+          "projects": [
+            {
+              "project": "NMS",
+              "description": "a network management system for huge wireless devices networks",
+              "size": "6 people * 12 months",
+              "roles": "analysis, redesign, development, configuration (builds), code migration, coaching",
+              "achievements": "",
+              "technologies": "eclipse, hibernate, jboss, java5, SNMP, annotations, Perforce, Team Track, XML, XSL translators"
             }
           ]
         },
         {
-          company: 'Alvarion',
-          position: 'Senior Software Engineer',
-          duration: '2005.Feb/1 year',
-          projects: [
+          "company": "Redpoint",
+          "position": "Software Engineer",
+          "duration": "2003.Sep/17 months",
+          "projects": [
             {
-              project: 'NMS',
-              description: 'a network management system for huge wireless devices networks',
-              size: '6 people * 12 months',
-              roles:
-                'analysis, redesign, development, configuration (builds), code migration, coaching',
-              achievements: '',
-              technologies:
-                'eclipse, hibernate, jboss, java5, SNMP, annotations, Perforce, Team Track, XML, XSL translators'
+              "project": "Photos",
+              "description": "website for social networking",
+              "size": "2-3 people * 2 months",
+              "roles": "analysis, design, database design, development, algorithms research",
+              "achievements": "Delivered fast-paced various software solutions to Swiss clients. Learned interviewing, requirements, specification and fast feedback loops.",
+              "technologies": "eclipse, tomcat, MS SQL Server 2000, java, servlets, jsp, taglib, junit, SourceSafe, applets, sockets"
+            },
+            {
+              "project": "Shop",
+              "urlInactive": "http://freezonetrader.com",
+              "description": "website generically shop",
+              "size": "3 people * 6 months",
+              "roles": "analysis, design, database design, development, algorithms research",
+              "achievements": "Delivered fast-paced various software solutions to Swiss clients. Learned interviewing, requirements, specification and fast feedback loops.",
+              "technologies": "eclipse, tomcat, MS SQL Server 2000, java, servlets, jsp, taglib, junit, SourceSafe, applets, sockets"
+            },
+            {
+              "project": "Machine Planner",
+              "description": "processes planner for a factory production",
+              "size": "2 people * 3 months",
+              "roles": "analysis, design, database design, development, algorithms research",
+              "achievements": "Delivered fast-paced various software solutions to Swiss clients. Learned interviewing, requirements, specification and fast feedback loops.",
+              "technologies": "eclipse, tomcat, MS SQL Server 2000, java, servlets, jsp, taglib, junit, SourceSafe, applets, sockets"
+            },
+            {
+              "project": "WebInfoControl",
+              "description": "applet interface for a monitoring application (sensors, relays, images, proprietary network protocol specifications and development)",
+              "size": "4 people * 3 months",
+              "roles": "analysis, design, database design, development, algorithms research",
+              "achievements": "Delivered fast-paced various software solutions to Swiss clients. Learned interviewing, requirements, specification and fast feedback loops.",
+              "technologies": "eclipse, tomcat, MS SQL Server 2000, java, servlets, jsp, taglib, junit, SourceSafe, applets, sockets"
+            },
+            {
+              "project": "Taxi",
+              "description": "payment management application for a taxi company",
+              "size": "2 people * 3 months",
+              "roles": "analysis, design, database design, development, algorithms research",
+              "achievements": "Delivered fast-paced various software solutions to Swiss clients. Learned interviewing, requirements, specification and fast feedback loops.",
+              "technologies": "eclipse, tomcat, MS SQL Server 2000, java, servlets, jsp, taglib, junit, SourceSafe, applets, sockets"
             }
           ]
         },
         {
-          company: 'Redpoint',
-          position: 'Software Engineer',
-          duration: '2003.Sep/17 months',
-          projects: [
+          "company": "Softnet",
+          "position": "Software Engineer",
+          "duration": "2003.May/4 months",
+          "importance": "low",
+          "projects": [
             {
-              project: 'Photos',
-              description: 'website for social networking',
-              size: '2-3 people * 2 months',
-              roles: 'analysis, design, database design, development, algorithms research',
-              achievements:
-                'Delivered fast-paced various software solutions to Swiss clients. Learned interviewing, requirements, specification and fast feedback loops.',
-              technologies:
-                'eclipse, tomcat, MS SQL Server 2000, java, servlets, jsp, taglib, junit, SourceSafe, applets, sockets'
-            },
-            {
-              project: 'Shop',
-              urlInactive: 'http://freezonetrader.com',
-              description: 'website generically shop',
-              size: '3 people * 6 months',
-              roles: 'analysis, design, database design, development, algorithms research',
-              achievements:
-                'Delivered fast-paced various software solutions to Swiss clients. Learned interviewing, requirements, specification and fast feedback loops.',
-              technologies:
-                'eclipse, tomcat, MS SQL Server 2000, java, servlets, jsp, taglib, junit, SourceSafe, applets, sockets'
-            },
-            {
-              project: 'Machine Planner',
-              description: 'processes planner for a factory production',
-              size: '2 people * 3 months',
-              roles: 'analysis, design, database design, development, algorithms research',
-              achievements:
-                'Delivered fast-paced various software solutions to Swiss clients. Learned interviewing, requirements, specification and fast feedback loops.',
-              technologies:
-                'eclipse, tomcat, MS SQL Server 2000, java, servlets, jsp, taglib, junit, SourceSafe, applets, sockets'
-            },
-            {
-              project: 'WebInfoControl',
-              description:
-                'applet interface for a monitoring application (sensors, relays, images, proprietary network protocol specifications and development)',
-              size: '4 people * 3 months',
-              roles: 'analysis, design, database design, development, algorithms research',
-              achievements:
-                'Delivered fast-paced various software solutions to Swiss clients. Learned interviewing, requirements, specification and fast feedback loops.',
-              technologies:
-                'eclipse, tomcat, MS SQL Server 2000, java, servlets, jsp, taglib, junit, SourceSafe, applets, sockets'
-            },
-            {
-              project: 'Taxi',
-              description: 'payment management application for a taxi company',
-              size: '2 people * 3 months',
-              roles: 'analysis, design, database design, development, algorithms research',
-              achievements:
-                'Delivered fast-paced various software solutions to Swiss clients. Learned interviewing, requirements, specification and fast feedback loops.',
-              technologies:
-                'eclipse, tomcat, MS SQL Server 2000, java, servlets, jsp, taglib, junit, SourceSafe, applets, sockets'
+              "project": "Management Module",
+              "description": "Account management module for mobile telephony, objectual approach",
+              "size": "4 devs * 4 months",
+              "roles": "development testing",
+              "achievements": "Ported solution to modern c++ compiler. Used eclipse CDT as IDE instead of vi editing.",
+              "technologies": "Windows NT, solaris/linux, c/c++, cppUnit, eclipse",
+              "importance": "low"
             }
           ]
         },
         {
-          company: 'Softnet',
-          position: 'Software Engineer',
-          duration: '2003.May/4 months',
-          importance: 'low',
-          projects: [
+          "company": "Softwin",
+          "position": "Junior Software Engineer",
+          "duration": "2000.May/3 years",
+          "projects": [
             {
-              project: 'Management Module',
-              description: 'Account management module for mobile telephony, objectual approach',
-              size: '4 devs * 4 months',
-              roles: 'development testing',
-              achievements:
-                'Ported solution to modern c++ compiler. Used eclipse CDT as IDE instead of vi editing.',
-              technologies: 'Windows NT, solaris/linux, c/c++, cppUnit, eclipse',
-              importance: 'low'
-            }
-          ]
-        },
-        {
-          company: 'Softwin',
-          position: 'Junior Software Engineer',
-          duration: '2000.May/3 years',
-          projects: [
-            {
-              project: 'Pixel',
-              description:
-                'signature acquire application, recognition and authentication of human signature',
-              size: '2 devs * 10 months',
-              roles:
-                'scientific research (documentation, research, terminology), analysis, design, development',
-              achievements:
-                'Acquired research data from 60 people x 5 specimens.<br />Low false-positive and low false-negatives reached.<br />Used: Digital Signal Processing techniques, genetic algorithms, neural networks.',
-              technologies:
-                'Windows NT, Visual Studio .net, c++, cppUnit, java, jUnit, SourceSafe'
+              "project": "Pixel",
+              "description": "signature acquire application, recognition and authentication of human signature",
+              "size": "2 devs * 10 months",
+              "roles": "scientific research (documentation, research, terminology), analysis, design, development",
+              "achievements": "Acquired research data from 60 people x 5 specimens.<br />Low false-positive and low false-negatives reached.<br />Used: Digital Signal Processing techniques, genetic algorithms, neural networks.",
+              "technologies": "Windows NT, Visual Studio .net, c++, cppUnit, java, jUnit, SourceSafe"
             },
             {
-              project: 'Inventory Web ERP',
-              description: 'Inventory Management Module, as a part of an ERP system',
-              size: '2 devs * 6 months',
-              roles: 'analysis, design, database design',
-              achievements: '',
-              technologies:
-                'Internet Enabled, Component Oriented, Web Based (JSP 1.2, Servlets, Enterprise Java Beans 1.1, Application Server - Jonas, Servlets Container - Tomcat 3.2.1, Web Server - Apache), Visual SourceSafe, Rational Rose'
+              "project": "Inventory Web ERP",
+              "description": "Inventory Management Module, as a part of an ERP system",
+              "size": "2 devs * 6 months",
+              "roles": "analysis, design, database design",
+              "achievements": "",
+              "technologies": "Internet Enabled, Component Oriented, Web Based (JSP 1.2, Servlets, Enterprise Java Beans 1.1, Application Server - Jonas, Servlets Container - Tomcat 3.2.1, Web Server - Apache), Visual SourceSafe, Rational Rose"
             },
             {
-              project: 'Rhyme Dictionary',
-              description: 'rhyme dictionary for Litera Printing House',
-              size: '1 dev * 1 month',
-              roles: 'words processing, development, testing',
-              achievements: '',
-              technologies: 'Windows NT, Visual Studio .net, c++',
-              importance: 'low'
+              "project": "Rhyme Dictionary",
+              "description": "rhyme dictionary for Litera Printing House",
+              "size": "1 dev * 1 month",
+              "roles": "words processing, development, testing",
+              "achievements": "",
+              "technologies": "Windows NT, Visual Studio .net, c++",
+              "importance": "low"
             },
             {
-              project: 'English/Italian/Spanish - Romanian Dictionary',
-              description: 'dictionaries series for Niculescu Printing House',
-              size: '1 dev * 2 months',
-              roles: 'words processing, development, testing',
-              achievements: '',
-              technologies: 'Windows NT, Visual Studio .net, c++',
-              importance: 'low'
+              "project": "English/Italian/Spanish - Romanian Dictionary",
+              "description": "dictionaries series for Niculescu Printing House",
+              "size": "1 dev * 2 months",
+              "roles": "words processing, development, testing",
+              "achievements": "",
+              "technologies": "Windows NT, Visual Studio .net, c++",
+              "importance": "low"
             },
             {
-              project: 'Conta Web ERP',
-              description: 'Financial Management Web Module, as a part of an ERP system',
-              size: '15 people * 12 months',
-              roles: 'analysis, design, database design, development, testing',
-              achievements:
-                'Helped database developers to migrate to object oriented development in java.',
-              technologies:
-                'Internet Enabled, Component Oriented, Web Based (JSP 1.2, Servlets, Enterprise Java Beans 1.1, Application Server - Jonas, Servlets Container - Tomcat 3.2.1, Web Server - Apache), Visual SourceSafe, Rational Rose'
+              "project": "Conta Web ERP",
+              "description": "Financial Management Web Module, as a part of an ERP system",
+              "size": "15 people * 12 months",
+              "roles": "analysis, design, database design, development, testing",
+              "achievements": "Helped database developers to migrate to object oriented development in java.",
+              "technologies": "Internet Enabled, Component Oriented, Web Based (JSP 1.2, Servlets, Enterprise Java Beans 1.1, Application Server - Jonas, Servlets Container - Tomcat 3.2.1, Web Server - Apache), Visual SourceSafe, Rational Rose"
             },
             {
-              project: 'System 3D Project',
-              description: 'Project Management Module, as a part of an ERP system',
-              size: '7 people * 5 months',
-              roles: 'database design, development, testing',
-              achievements: '',
-              technologies:
-                'Designer 2000, Developer 2000 (Forms 6.0, Reports .0), Visual SourceSafe, Rational Rose'
+              "project": "System 3D Project",
+              "description": "Project Management Module, as a part of an ERP system",
+              "size": "7 people * 5 months",
+              "roles": "database design, development, testing",
+              "achievements": "",
+              "technologies": "Designer 2000, Developer 2000 (Forms 6.0, Reports .0), Visual SourceSafe, Rational Rose"
             }
           ]
         }
       ]
     }
-    <!--Add experiences-->
+
     document.addEventListener('DOMContentLoaded', async function () {
       const templateSource = document.getElementById('experience-template').innerHTML
       const template = Handlebars.compile(templateSource)
@@ -445,23 +597,43 @@
   <script src="https://unpkg.com/pagedjs@0.4.3/dist/paged.polyfill.js"></script>
   <!-- <script src="js/paged.polyfill-0.4.3.js"></script> -->
   <!-- Cloudflare Web Analytics -->
-  <script defer src='https://static.cloudflareinsights.com/beacon.min.js'
-    data-cf-beacon='{"token": "51bb9c00c0ce4dd39b8aa2401f66a289"}'></script>
-  <!-- End Cloudflare Web Analytics -->
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FPSB2B816K"></script>
+  <!-- <script defer src='https://static.cloudflareinsights.com/beacon.min.js'
+    data-cf-beacon='{"token": "51bb9c00c0ce4dd39b8aa2401f66a289"}'></script> -->
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+    if (window.location.hostname !== '127.0.0.1' && window.location.hostname !== 'localhost') {
+      var script = document.createElement('script');
+      script.defer = true;
+      script.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+      script.setAttribute('data-cf-beacon', '{"token": "51bb9c00c0ce4dd39b8aa2401f66a289"}');
+      document.head.appendChild(script);
+    }
+  </script>
+  <!-- End Cloudflare Web Analytics -->
+  <!-- Google Tag Manager -->
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-FPSB2B816K"></script> -->
+  <script>
+    if (window.location.hostname !== '127.0.0.1' && window.location.hostname !== 'localhost') {
+      // Load Google Tag Manager script
+      var script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://www.googletagmanager.com/gtag/js?id=G-FPSB2B816K';
+      document.head.appendChild(script);
 
-    gtag('config', 'G-FPSB2B816K');
-    gtag('consent', 'default', {
-      'ad_storage': 'denied',
-      'ad_user_data': 'denied',
-      'ad_personalization': 'denied',
-      'analytics_storage': 'denied'
-    });
+      // Initialize Google Analytics
+      //<script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+
+      gtag('config', 'G-FPSB2B816K');
+      gtag('consent', 'default', {
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'analytics_storage': 'denied'
+      });
+      // end script
+    }
   </script>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -469,7 +641,7 @@
     /* pagedjs - https://pagedjs.org/documentation/cheatsheet/ */
     :root {
       --mypages: '6';
-      --myFooter: 'Costin GRIGORE - v2024-07-04';
+      --myFooter: 'Costin GRIGORE - v2025-01-15';
       --background: rgb(198, 77, 77);
       --color-paper: white;
       --color-margin-box: rgba(0, 0, 0, 0.2);
@@ -540,6 +712,10 @@
         content: var(--myFooter) ' - ' counter(page) ' / ' counter(pages);
         /* padding-right: 3ch; */
       }
+
+      @bottom-left {
+        content: "raisercostin.org/resume"
+      }
     }
   </style>
   <style type="text/tailwindcss">
@@ -598,8 +774,9 @@
     <header class="flex items-center mb-4">
       <div class="text-center flex-1">
         <a class="screenonly absolute right-0 mr-[-30px] mt-[-40px] bg-inset bg-customBlueLight px-2 py-1 rounded-b-lg shadow hover:bg-customBlue align-middle
-        align-middle flex items-center" target="_blank" href="./2024-07-04--CostinGrigore-Resume.pdf">
-          <svg class="screenonly" fill="#000000" height="2em" width="2em" version="1.1" id="Capa_1"
+        align-middle flex items-center" target="_blank" href="./2025-01-15--CostinGrigore-Resume-CV.pdf">
+          <!-- <iconify-icon icon="vscode-icons:file-type-pdf2" width="3em" height="3em"></iconify-icon> -->
+          <svg class="screenonly" fill="#000000" height="3em" width="3em" version="1.1" id="Capa_1"
             xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-10 -10 68 68"
             xml:space="preserve">
             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -630,14 +807,14 @@
         </h1>
         <p class="text right-0 mb-2 text-customBlue h3">
           <a href="mailto:costin.grigore@gmail.com" class="text-customBlue">costin.grigore@gmail.com</a>
-          / +40 740 720 002
+          +40 740 720 002
         </p>
       </div>
-      <img src="2024-05-03--CostinGrigore-portrait.jpg" alt="Costin Grigore Portrait"
+      <img src=" 2024-05-03--CostinGrigore-portrait.jpg" alt="Costin Grigore Portrait"
         class="rounded-full ml-4 opacity-50 max-h-[80px]" />
     </header>
     <div class="flex flex-wrap -mx-2">
-      <div class="sm:w-full w-4/12 px-2 relative">
+      <div class="max-sm:w-full w-4/12 px-2 relative">
         <h2 class="text-2xl font-bold text-customBlue -mt-8 absolute">Resume</h2>
         <section class="profile relative">
           <h3 class="text-xl font-semibold mb-2 text-customBlue">Profile</h3>
@@ -701,7 +878,7 @@
           <p>Polymath</p>
         </section>
       </div>
-      <div class="sm:w-full w-8/12 px-2">
+      <div class="max-sm:w-full w-8/12 px-2">
         <section class="skills rounded">
           <h3 class="text-xl font-semibold mb-2 text-customBlue">Skills & Roles</h3>
           <ul class="list-disc list-inside">
@@ -714,7 +891,18 @@
           </ul>
         </section>
         <section class="experience">
-          <h3 class="text-xl font-semibold mb-2 text-customBlue">Work Experience</h3>
+          <h3 class="text-xl font-semibold mb-2 text-customBlue">Work Experience <small class="text-xs">(summary)</small></h3>
+          <section class="prj">
+            <h4 class="font-bold">
+              Lead Software Engineer – SpotOnFinance
+              <a href="https://spotonfinance.com" class="text-customBlue ml-1">spotonfinance.com</a>
+              <span> 2024-present</span>
+            </h4>
+            <p>
+              Using AI to parse any bank statement and categorize it. Launching from zero to live in 6 months.
+              Technologies: java21, vue, springboot, postgres, sql, docker, swarm, cloudflare, tailwindcss, typescript, deno, hugo, cms, ollama, openai, jbang
+            </p>
+          </section>
           <section class="prj">
             <h4 class="font-bold">
               Software Architect – Revobet – Sports betting industry -
@@ -756,13 +944,6 @@
               Valley startup. Led a team of 12 senior developers: Java.
             </p>
           </section>
-          <section class="prj !mb-0">
-            <h4 class="font-bold">
-              Java Engineer - Softwin, Alvarion, Redpoint
-              <span class="h5">2000-2005</span>
-            </h4>
-            <p>Multiple projects delivered. Research on DSP & AI.</p>
-          </section>
         </section>
         <section class="education !mb-0">
           <h3 class="text-xl font-semibold mb-2 text-customBlue">Education</h3>
@@ -791,58 +972,58 @@
       <div class="page-break"></div>
       <div class="w-full px-2 mt-4">
         <h2 class="text-2xl font-bold text-customBlue mt-4">Main Areas of Expertise</h2>
-        <div class="sm:columns-1 columns-2">
+        <div class="max-sm:columns-1 columns-2">
           <section>
             <h3 class="text-xl font-semibold mb-2 text-customBlue">Roles</h3>
             <ul>
               <li>
                 Team Lead, Lead Developer, Mentoring, Coaching, Internship
-                <span>19y 3</span>
+                <span>19y 9</span>
               </li>
-              <li>Business Development <span>9y 1</span></li>
+              <li>Business Development <span>9y 7</span></li>
               <li>
                 Executive Operational & Strategic (business, finance, hiring, operation,
                 marketing planning)
-                <span>4y 0</span>
+                <span>4y 6</span>
               </li>
-              <li>Technology Selection, Program Manager<span>18y 4</span></li>
-              <li>Project Management, Negotiator<span>16y 9</span></li>
+              <li>Technology Selection, Program Manager<span>19y 0</span></li>
+              <li>Project Management, Negotiator<span>17y 3</span></li>
               <li>
                 Product Owner, UX User Experience, Business Analyst
-                <span>13y 1</span>
+                <span>13y 7</span>
               </li>
               <li>
                 Architect, System Design, Application Design
-                <span>22y 4</span>
+                <span>23y 0</span>
               </li>
               <li>
                 Data Modeler, Database Design
-                <span>19y 0</span>
+                <span>19y 6</span>
               </li>
               <li>
                 Software Engineer, Programmer (+unit testing & TDD)
-                <span>32y 4</span>
+                <span>33y 0</span>
               </li>
               <li>
                 Build Configuration (maven, CI/CD – Continuous
                 Integration/Delivery/Release)
-                <span>19y 8</span>
+                <span>20y 2</span>
               </li>
               <li>
                 Migration expertise (legacy systems migration)
-                <span>19y 0</span>
+                <span>19y 6</span>
               </li>
               <li>
                 Project Startup (create prototype, architecture, team)
-                <span>17y 4</span>
+                <span>18y 0</span>
               </li>
               <li>
                 Operations (docker, vagrant, virtualization, Kubernetes)
-                <span>9y 1</span>
+                <span>9y 7</span>
               </li>
               <li>
                 Quality Assurance (testing strategy, management)
-                <span>10y 8</span>
+                <span>11y 2</span>
               </li>
             </ul>
           </section>
@@ -853,7 +1034,7 @@
             <ul>
               <li>
                 Sports Betting (low latency systems, Kafka, self-learning)
-                <span>5y 0</span>
+                <span>5y 1</span>
               </li>
               <li>
                 Integration (ESB, camel, REST, database, Message Queues, High Vol
@@ -915,7 +1096,7 @@
               </li>
               <li>
                 Algorithms (production optimization planning, CS contests)
-                <span>15y 8</span>
+                <span>16y 2</span>
               </li>
               <li>
                 Others: rhyme and language dictionaries, taxi reporting
@@ -932,25 +1113,25 @@
               Preferred Development Style
             </h3>
             <ul>
-              <li>Agile Methodology <span>18y 0</span></li>
+              <li>Agile Methodology <span>18y 6</span></li>
               <li>
                 Test/Behavior Driven Development (TDD, BDD)
-                <span>18y 0</span>
+                <span>18y 6</span>
               </li>
-              <li>Pair Programming <span>14y 7</span></li>
-              <li>Refactoring <span>18y 0</span></li>
-              <li>UML description <span>20y 0</span></li>
+              <li>Pair Programming <span>15y 1</span></li>
+              <li>Refactoring <span>18y 6</span></li>
+              <li>UML description <span>20y 6</span></li>
               <li>
                 Continuous integration and Delivery
-                <span>16y 3</span>
+                <span>16y 9</span>
               </li>
               <li>
                 Objectual/Declarative/Functional/Aspect Programming Paradigms
-                <span>24y 2</span>
+                <span>24y 8</span>
               </li>
               <li>
-                Rapid Development (RIA)
-                <span>6y 9</span>
+                Rapid Development (RIA), Deno/Typescript
+                <span>7y 3</span>
               </li>
             </ul>
           </section>
@@ -987,8 +1168,8 @@
                 <span>4y 5</span>
               </li>
               <li>
-                Bootstrap(responsive), JQuery, CSS3, javascript, HTML
-                <span>16y 7</span>
+                Tailwind, Bootstrap(responsive), JQuery, CSS3, javascript, HTML
+                <span>17y 1</span>
               </li>
               <li>
                 Regex, JSoup, XSLT, json, yml
@@ -1003,14 +1184,14 @@
                 <span>11y 2</span>
               </li>
               <li>
-                Docker, vagrant, k9s, kubernetes
+                Docker, swarm, vagrant, k9s, kubernetes
                 <span>5y 6</span>
               </li>
               <li>
-                Shell (linux,unix,osx)
-                <span>11y 8</span>
+                Shell (bash, ts, deno, linux,unix,osx)
+                <span>12y 2</span>
               </li>
-              <li>Android <span>2y 1</span></li>
+              <li>Android <span>2y 7</span></li>
             </ul>
           </section>
           <section>
@@ -1037,10 +1218,11 @@
           </section>
         </div>
       </div>
+
       <div class="page-break"></div>
       <div class="w-full px-2 mt-4">
         <h2 class="text-2xl font-bold text-customBlue mt-4">Self-Portrait</h2>
-        <div class="sm:columns-1 columns-2">
+        <div class="max-sm:columns-1 columns-2">
           <section>
             <h3 class="text-xl font-semibold mb-2 text-customBlue">Books that I Love</h3>
             <ul>
@@ -1087,18 +1269,15 @@
             {{#each projects}}
             <div data-importance="{{importance}}" class="ml-4 mb-4 last:mb-0 data-[importance=low]:print:bg-red-200">
               <div class="">
+                {{#if size}}
                 <p class="float-right bg-white ring-gray-100 rounded-lg m-1 pl-2 pr-2">
                   {{{size}}}
                 </p>
+                {{/if}}
                 <h4 class="text-lg text-customBlue inline-block">
                   {{project}}
-                  <a href="{{url}}" data-url="{{url}}" class="[&[data-url]:not([data-url=''])]:inline-block hidden"><svg
-                      xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
-                      class="size-5 inline-block">
-                      <path fill-rule="evenodd"
-                        d="M5.22 14.78a.75.75 0 0 0 1.06 0l7.22-7.22v5.69a.75.75 0 0 0 1.5 0v-7.5a.75.75 0 0 0-.75-.75h-7.5a.75.75 0 0 0 0 1.5h5.69l-7.22 7.22a.75.75 0 0 0 0 1.06Z"
-                        clip-rule="evenodd" />
-                    </svg>
+                  <a href="{{url}}" data-url="{{url}}" class="[&[data-url]:not([data-url=''])]:inline-block hidden">
+                    <iconify-icon inline icon="mdi:external-link"></iconify-icon>
                   </a>
                 </h4>
                 - {{description}}
@@ -1106,23 +1285,13 @@
               <p class="first-letter:uppercase">{{{achievements}}}</p>
               <div class="grid grid-cols-2 w-full">
                 <div alt="Roles">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
-                    class="size-5 inline-block mr-2">
-                    <path
-                      d="M10 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM6 8a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM1.49 15.326a.78.78 0 0 1-.358-.442 3 3 0 0 1 4.308-3.516 6.484 6.484 0 0 0-1.905 3.959c-.023.222-.014.442.025.654a4.97 4.97 0 0 1-2.07-.655ZM16.44 15.98a4.97 4.97 0 0 0 2.07-.654.78.78 0 0 0 .357-.442 3 3 0 0 0-4.308-3.517 6.484 6.484 0 0 1 1.907 3.96 2.32 2.32 0 0 1-.026.654ZM18 8a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM5.304 16.19a.844.844 0 0 1-.277-.71 5 5 0 0 1 9.947 0 .843.843 0 0 1-.277.71A6.975 6.975 0 0 1 10 18a6.974 6.974 0 0 1-4.696-1.81Z" />
-                  </svg>
+                  <iconify-icon inline icon="heroicons:user-group-solid" width="2em"
+                    class="mr-2 align-top float-left"></iconify-icon>
                   {{{roles}}}
                 </div>
                 <div>
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
-                    class="size-5 inline-block mr-2">
-                    <path fill-rule="evenodd"
-                      d="M14.5 10a4.5 4.5 0 0 0 4.284-5.882c-.105-.324-.51-.391-.752-.15L15.34 6.66a.454.454 0 0 1-.493.11 3.01 3.01 0 0 1-1.618-1.616.455.455 0 0 1 .11-.494l2.694-2.692c.24-.241.174-.647-.15-.752a4.5 4.5 0 0 0-5.873 4.575c.055.873-.128 1.808-.8 2.368l-7.23 6.024a2.724 2.724 0 1 0 3.837 3.837l6.024-7.23c.56-.672 1.495-.855 2.368-.8.096.007.193.01.291.01ZM5 16a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"
-                      clip-rule="evenodd" />
-                    <path
-                      d="M14.5 11.5c.173 0 .345-.007.514-.022l3.754 3.754a2.5 2.5 0 0 1-3.536 3.536l-4.41-4.41 2.172-2.607c.052-.063.147-.138.342-.196.202-.06.469-.087.777-.067.128.008.257.012.387.012ZM6 4.586l2.33 2.33a.452.452 0 0 1-.08.09L6.8 8.214 4.586 6H3.309a.5.5 0 0 1-.447-.276l-1.7-3.402a.5.5 0 0 1 .093-.577l.49-.49a.5.5 0 0 1 .577-.094l3.402 1.7A.5.5 0 0 1 6 3.31v1.277Z" />
-                  </svg>
-
+                  <iconify-icon inline icon="heroicons:wrench-screwdriver-solid" width="2em"
+                    class="mr-2 align-top float-left"></iconify-icon>
                   {{{technologies}}}
                 </div>
               </div>
@@ -1135,7 +1304,7 @@
     </div>
 
     <!-- <footer id="forLastPage" class="text-right mt-0 text-sm text-gray-500">
-          <p>Costin GRIGORE - v2024-06-24</p>
+          <p>Costin GRIGORE - v2025-01-15</p>
         </footer> -->
     <div class="hidden">
       TODO
